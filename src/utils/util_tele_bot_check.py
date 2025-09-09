@@ -26,10 +26,10 @@ class UtilTeleBotCheck:
     def send_message(self, title: str, message: str, warning: str = "Warning"):
         try:
             message = f"""
-            <b>{title.upper()}</b>
+        <b>{title.upper()}</b>
             Message: {message.capitalize()}
             Datetime: {datetime.now()}
-            Warning: {warning}
+            level log: {warning}
             """
             response = requests.post(
                 url=self.tele_url,

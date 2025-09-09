@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747454400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00383134"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747468800001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00383862"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747483200002,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00384122"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747497600004,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00379969"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747512000003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00379324"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747526400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00381107"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747540800003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00380696"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747555200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00380746"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747569600010,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00379823"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747584000000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00382254"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747598400001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00377014"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747612800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00376991"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747627200004,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00374599"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747641600006,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00307093"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747656000000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00311179"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747670400010,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00305077"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747684800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00305515"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747699200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00306305"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747713600000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00311950"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747728000002,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00302685"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747742400003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00304114"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747756800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00295574"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747771200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00298415"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747785600000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00294411"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747800000000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00292608"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747814400001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00296534"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747828800007,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00292445"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747843200004,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00296138"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747857600001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00294787"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747872000001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00289819"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747886400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00290838"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747900800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00295855"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747915200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00296090"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747929600002,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00294590"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747944000001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00290384"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747958400006,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00290232"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747972800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00290253"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1747987200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00290715"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748001600003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00293230"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748016000007,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00296531"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748030400006,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00298674"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748044800010,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00310422"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748059200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00304090"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748073600000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00310649"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748088000007,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00303700"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748102400003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00307819"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748116800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00307175"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748131200004,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00307173"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748145600001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00306329"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748160000000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00302680"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748174400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00306770"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748188800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00304447"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748203200010,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00298327"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748217600000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00296374"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748232000000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00297726"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748246400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00295842"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748260800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00302343"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748275200002,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00302362"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748289600000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00299966"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748304000003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00296663"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748318400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00297097"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748332800001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00310885"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748347200005,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00295817"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748361600005,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00295030"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748376000005,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00298714"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748390400002,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00292598"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748404800010,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00294220"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748419200003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00284709"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748433600000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00272688"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748448000002,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00279317"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748462400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00280685"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748476800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00272792"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748491200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00274108"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748505600006,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00265756"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748520000001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00248841"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748534400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00245808"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748548800010,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00250813"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748563200003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00267657"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748577600000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00259876"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748592000003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00261026"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748606400006,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00245297"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748620800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00238904"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748635200005,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00237853"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748649600000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00237213"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748664000004,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00232577"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748678400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00231610"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748692800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00232628"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748707200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00233700"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748721600004,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00234206"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748736000001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00232947"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748750400001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00234058"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748764800002,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00233872"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748779200008,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00223882"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748793600000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00223025"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748808000003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00203217"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748822400001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00195661"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748836800004,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00184649"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748851200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00174564"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748865600002,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00198173"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748880000000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00189762"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748894400002,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00187477"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748908800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00190171"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748923200001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00190876"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748937600000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00192718"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748952000000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00185047"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748966400001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00185507"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748980800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00185361"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1748995200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00185523"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749009600001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00185371"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749024000000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00184242"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749038400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00181072"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749052800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00219610"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749067200001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00205268"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749081600016,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00207427"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749096000001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00200902"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749110400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00208112"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749124800003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00206999"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749139200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00203362"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749153600002,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00202285"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749168000002,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00203301"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749182400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00196293"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749196800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00170154"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749211200002,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00171788"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749225600006,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00169405"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749240000000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00173818"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749254400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00169390"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749268800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00175786"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749283200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00160419"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749297600000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00152080"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749312000002,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00152390"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749326400002,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00148902"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749340800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00129843"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749355200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00138108"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749369600000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00133383"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749384000020,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00135890"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749398400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00144692"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749412800001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00147704"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749427200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00135718"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749441600003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00138647"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749456000001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00135773"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749470400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00139608"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749484800001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00134717"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749499200012,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00134796"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749513600000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00144648"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749528000000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00131605"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749542400001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00138074"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749556800005,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00138129"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749571200003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00140424"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749585600010,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00144015"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749600000000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00141460"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749614400006,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00141687"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749628800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00144670"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749643200007,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00147139"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749657600010,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00146294"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749672000012,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00145272"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749686400002,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00144151"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749700800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00142991"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749715200003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00144674"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749729600001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00143390"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749744000001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00137039"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749758400003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00136535"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749772800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00135696"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749787200002,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00132807"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749801600001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00130620"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749816000000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00131139"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749830400004,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00131038"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749844800001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00131302"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749859200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00130689"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749873600000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00140764"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749888000000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00136390"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749902400007,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00136172"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749916800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00135962"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749931200005,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00136290"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749945600005,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00139782"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749960000004,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00139540"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749974400009,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00136955"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1749988800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00136920"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750003200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00137323"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750017600000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00141766"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750032000000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00135909"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750046400009,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00140768"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750060800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00142362"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750075200000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00139855"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750089600003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00140193"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750104000000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00139785"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750118400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00141521"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750132800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00139970"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750147200006,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00136836"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750161600001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00140373"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750176000001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00138986"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750190400000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00150430"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750204800001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00145318"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750219200001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00143854"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750233600001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00141784"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750248000003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00149315"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750262400001,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00153699"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750276800000,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00146248"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750291200005,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00147329"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750305600005,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00146522"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fundingTime": 1750320000003,
+    "fundingRate": "0.00005000",
+    "markPrice": "0.00144140"
+  }
+]

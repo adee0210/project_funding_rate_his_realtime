@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21540000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21483297"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21560000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "-0.00008060",
+    "markPrice": "0.21376566"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00006356",
+    "markPrice": "0.21430000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21360000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21860000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21894359"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "-0.00006090",
+    "markPrice": "0.22119669"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "-0.00012172",
+    "markPrice": "0.21890531"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00008824",
+    "markPrice": "0.21740000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21565908"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21738046"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.22281214"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.22565470"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00007704",
+    "markPrice": "0.22820000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23498858"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23520000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23360000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24855250"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25100000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25220000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24922531"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "-0.00014557",
+    "markPrice": "0.25903918"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "-0.00003928",
+    "markPrice": "0.24720000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "-0.00014082",
+    "markPrice": "0.25450000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00001330",
+    "markPrice": "0.26127625"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26580000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26374134"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27287673"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26350000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26230000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25533221"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25927410"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26952750"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27005093"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26878777"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27180000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27190000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27135625"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27500000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28388270"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27887681"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27830844"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28023041"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27390000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28702717"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29160576"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30260000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29863469"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30340000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30395554"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30062390"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29139406"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29460688"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30038238"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29474719"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28260000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27201532"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26035103"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26874733"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26440000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26020540"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26081039"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27044302"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26979015"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27068355"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26870000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27450000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27321406"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27970000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28197467"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26816750"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26019938"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26736014"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25733833"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25720000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25210000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25080000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25220000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25750759"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00006729",
+    "markPrice": "0.24821417"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "-0.00003704",
+    "markPrice": "0.23670000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "-0.00000736",
+    "markPrice": "0.23390000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23510000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23082408"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23210693"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00000326",
+    "markPrice": "0.22637313"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00006380",
+    "markPrice": "0.22760233"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "-0.00001417",
+    "markPrice": "0.23214333"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "-0.00010733",
+    "markPrice": "0.23496761"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "-0.00008967",
+    "markPrice": "0.23620000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "-0.00001497",
+    "markPrice": "0.23920000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00001444",
+    "markPrice": "0.24195943"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24674966"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23880000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23724987"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23851322"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23929167"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24211269"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "-0.00011889",
+    "markPrice": "0.24131500"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24230000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24724914"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25144834"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00001942",
+    "markPrice": "0.25285000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25130855"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25700899"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26390000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26490000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26539609"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25990000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26150167"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26340000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26129890"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25639374"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24930000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25170000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26050000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26430000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26544435"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26963694"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27400000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26889677"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25053427"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00005509",
+    "markPrice": "0.24430000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00002222",
+    "markPrice": "0.24882887"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "-0.00006551",
+    "markPrice": "0.23530000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00005211",
+    "markPrice": "0.24348973"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00000615",
+    "markPrice": "0.24880000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25530000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "-0.00006313",
+    "markPrice": "0.25540000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25730000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26119527"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25410000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "-0.00002712",
+    "markPrice": "0.24400000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24538532"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "-0.00000984",
+    "markPrice": "0.24621468"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "-0.00011687",
+    "markPrice": "0.24383484"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00005634",
+    "markPrice": "0.24110000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "-0.00003051",
+    "markPrice": "0.23597016"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "-0.00001861",
+    "markPrice": "0.23945000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24410000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "-0.00022434",
+    "markPrice": "0.24971806"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24753753"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24190000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24290000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24313152"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25434890"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26413898"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26200000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25970000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26099677"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25233446"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25130000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25591435"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24605570"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24500000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "-0.00006039",
+    "markPrice": "0.23522315"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "-0.00001764",
+    "markPrice": "0.23780000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00005640",
+    "markPrice": "0.24210000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "-0.00002419",
+    "markPrice": "0.24770000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "-0.00003874",
+    "markPrice": "0.24850000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25085484"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "-0.00004909",
+    "markPrice": "0.24946522"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "-0.00004093",
+    "markPrice": "0.25470000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25780000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26475285"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "-0.00004764",
+    "markPrice": "0.25060000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00006331",
+    "markPrice": "0.24580000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24550000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25092226"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25100000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00000897",
+    "markPrice": "0.25074935"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "-0.00000245",
+    "markPrice": "0.25210000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "-0.00023982",
+    "markPrice": "0.26500000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "-0.00037456",
+    "markPrice": "0.26360000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "-0.00535788",
+    "markPrice": "0.27151301"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "-0.00159243",
+    "markPrice": "0.26170000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "-0.00030155",
+    "markPrice": "0.25248392"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "-0.00025466",
+    "markPrice": "0.25600000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "-0.00006841",
+    "markPrice": "0.25534583"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00003993",
+    "markPrice": "0.26170000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "-0.00012624",
+    "markPrice": "0.26136258"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "-0.00001958",
+    "markPrice": "0.28065048"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27974806"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26674628"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00005475",
+    "markPrice": "0.26430000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "-0.00012536",
+    "markPrice": "0.26154984"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "-0.00010264",
+    "markPrice": "0.27310000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26580000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00007159",
+    "markPrice": "0.26984967"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "-0.00012237",
+    "markPrice": "0.27334656"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00002666",
+    "markPrice": "0.27150000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "-0.00003251",
+    "markPrice": "0.26830000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27460000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27220000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "-0.00002302",
+    "markPrice": "0.27548441"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27790000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28730000"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28325048"
+  }
+]

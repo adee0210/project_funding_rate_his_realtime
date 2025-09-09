@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "-0.00018176",
+    "markPrice": "0.25820000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "0.00008415",
+    "markPrice": "0.25650041"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "-0.00012156",
+    "markPrice": "0.25950000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "-0.00018863",
+    "markPrice": "0.25579655"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00008860",
+    "markPrice": "0.25770000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "-0.00006531",
+    "markPrice": "0.25860000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "-0.00005624",
+    "markPrice": "0.26591934"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "-0.00001719",
+    "markPrice": "0.26546699"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "-0.00002531",
+    "markPrice": "0.26790000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "-0.00009173",
+    "markPrice": "0.26500000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00005630",
+    "markPrice": "0.26380000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00001647",
+    "markPrice": "0.26240000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "-0.00000050",
+    "markPrice": "0.26310530"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26810000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27730000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00004603",
+    "markPrice": "0.27520000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28230644"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00002040",
+    "markPrice": "0.28670345"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28364117"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30180000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30660000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30919480"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30410000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31105098"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29720000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30590000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00002995",
+    "markPrice": "0.31415304"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32780000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31962544"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32920000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31640000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30967878"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30394899"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31038507"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31680092"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31773021"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31650000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31780000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31870000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31985849"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32829967"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.34313013"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.33209709"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32909614"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.33060000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32475472"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.34000000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.34414956"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.35507423"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.35150000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.35956720"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.35783758"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.35343586"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.34260407"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.34739127"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.35550000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.34916186"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.33037494"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31430000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30509930"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31655602"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31040000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30523225"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30646422"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31709160"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31560000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31843254"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31631834"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32051301"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32082901"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32718154"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32750000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31234786"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30348613"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31192801"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30235962"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30237765"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00008423",
+    "markPrice": "0.29700000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "-0.00000546",
+    "markPrice": "0.29420000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29440000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00009478",
+    "markPrice": "0.30150000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00006108",
+    "markPrice": "0.29146894"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "-0.00001698",
+    "markPrice": "0.27970000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "-0.00011588",
+    "markPrice": "0.27600000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27924974"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27400000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00005722",
+    "markPrice": "0.27507212"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00003344",
+    "markPrice": "0.26714652"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00008577",
+    "markPrice": "0.26661463"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00006473",
+    "markPrice": "0.27340000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00005744",
+    "markPrice": "0.27720000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00007955",
+    "markPrice": "0.27781596"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00007879",
+    "markPrice": "0.28140000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28399546"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28870000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27860000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27687229"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27750524"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00001187",
+    "markPrice": "0.27960000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28314988"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28160000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28323713"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28940000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29592622"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29810000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00009168",
+    "markPrice": "0.29650000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "-0.00007089",
+    "markPrice": "0.30320000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00006655",
+    "markPrice": "0.31230000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31180000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31214133"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30450000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30750000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30814182"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30594389"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "-0.00002253",
+    "markPrice": "0.30024301"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "-0.00004290",
+    "markPrice": "0.29190000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29440000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00004687",
+    "markPrice": "0.30351598"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31036773"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31104859"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31687689"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32020000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31716621"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29520000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "-0.00018689",
+    "markPrice": "0.29045426"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "-0.00015915",
+    "markPrice": "0.29573726"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "-0.00002739",
+    "markPrice": "0.28180858"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00009778",
+    "markPrice": "0.28880000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29262056"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29940000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29650000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29874243"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30479851"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29560000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "0.00003710",
+    "markPrice": "0.28330000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00004356",
+    "markPrice": "0.28674747"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00003523",
+    "markPrice": "0.28612223"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "-0.00004437",
+    "markPrice": "0.28021238"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00007864",
+    "markPrice": "0.27800316"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "-0.00002605",
+    "markPrice": "0.27192103"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "0.00007709",
+    "markPrice": "0.27650647"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00006465",
+    "markPrice": "0.28040000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28517089"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28323851"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00008261",
+    "markPrice": "0.27643107"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27700000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27836542"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00005198",
+    "markPrice": "0.29050000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30710000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30263704"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30222745"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30510000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29450000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29440000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29807650"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28661751"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "-0.00002061",
+    "markPrice": "0.28471695"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "-0.00007391",
+    "markPrice": "0.27440000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "-0.00006938",
+    "markPrice": "0.28136529"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00004810",
+    "markPrice": "0.28298521"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28778996"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28590000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28827863"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28592534"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29158819"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29150000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29600775"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28480000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00003080",
+    "markPrice": "0.28160000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00005252",
+    "markPrice": "0.28280000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28750431"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28510000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28505004"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00001641",
+    "markPrice": "0.29340000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "-0.00002117",
+    "markPrice": "0.29239868"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "-0.00000498",
+    "markPrice": "0.28770000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "-0.00009202",
+    "markPrice": "0.29104315"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "-0.00008891",
+    "markPrice": "0.28850000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "-0.00000210",
+    "markPrice": "0.28740546"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29640000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29650000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30010000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29948104"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30940000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31164324"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30044653"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00009605",
+    "markPrice": "0.29858567"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29741199"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31470018"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31950000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31854477"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31610000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31237130"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31420000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32770000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32302484"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32230000"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32542867"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32897608"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32590013"
+  }
+]

@@ -1,0 +1,1208 @@
+[
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "0.00004768",
+    "markPrice": "86.58000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "0.00004316",
+    "markPrice": "86.78325931"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "-0.00003398",
+    "markPrice": "86.18000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "-0.00002108",
+    "markPrice": "86.40258235"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00003138",
+    "markPrice": "87.49647304"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "0.00007465",
+    "markPrice": "86.71000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00002891",
+    "markPrice": "87.93090686"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00009838",
+    "markPrice": "87.31220686"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00008221",
+    "markPrice": "87.88415686"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00001253",
+    "markPrice": "86.14148431"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00002146",
+    "markPrice": "85.99007451"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00006581",
+    "markPrice": "86.58433039"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00004291",
+    "markPrice": "86.32903431"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "87.71722549"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "88.06000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "88.48000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "90.59948480"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "90.93005784"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "91.16000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "94.87042572"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "94.90000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "96.66470588"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "94.25079167"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "93.15520784"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "91.09000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "92.73000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00000672",
+    "markPrice": "94.33000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00009688",
+    "markPrice": "96.09000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "94.59188333"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "97.13000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "95.44729902"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "95.59000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "92.45000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00006728",
+    "markPrice": "93.39000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "96.37389657"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "96.36984314"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "96.83311765"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "97.46823529"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "98.20000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "101.28349755"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "101.59105882"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "107.75000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "103.91000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "101.72717647"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "102.72177647"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "101.18009608"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "113.18572549"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "117.58620588"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "117.18000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "116.63000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "120.70694902"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "118.31640784"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "115.48978922"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "115.30158824"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "115.86228088"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "119.66235588"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "117.63167549"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "114.61816814"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "112.02767647"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "110.96950000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "113.46890833"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "112.20758824"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "111.16332353"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "110.51000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "113.76000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "113.16000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "113.80937402"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "113.91000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "114.24087745"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "113.50201961"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "114.76964706"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "114.85611667"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "110.31000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00009599",
+    "markPrice": "108.96118186"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00007954",
+    "markPrice": "110.58000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00006511",
+    "markPrice": "108.03491471"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00008914",
+    "markPrice": "108.46000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00007650",
+    "markPrice": "109.24173088"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00007802",
+    "markPrice": "109.33000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00008846",
+    "markPrice": "110.45000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00007627",
+    "markPrice": "110.62620784"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "-0.00000262",
+    "markPrice": "109.19757500"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "-0.00001227",
+    "markPrice": "106.02108431"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "-0.00001217",
+    "markPrice": "105.02387549"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00004437",
+    "markPrice": "106.30871471"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00007754",
+    "markPrice": "106.55548333"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "108.30000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "108.08480196"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00009945",
+    "markPrice": "106.05000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00002567",
+    "markPrice": "108.10000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00006324",
+    "markPrice": "109.86868333"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00004434",
+    "markPrice": "110.33106029"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "111.42260343"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "117.79000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "121.13000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "120.87000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "121.99110637"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "120.22127206"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "118.34000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00005970",
+    "markPrice": "118.23624412"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "119.15000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00003438",
+    "markPrice": "119.44419363"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "121.09000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "122.88595278"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00007322",
+    "markPrice": "122.27000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "121.30310833"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "123.73412679"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "125.17000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00005359",
+    "markPrice": "121.10000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00008285",
+    "markPrice": "120.13250357"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00005105",
+    "markPrice": "119.17000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "124.21672440"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "123.69205357"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "123.32091471"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "125.20000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00005838",
+    "markPrice": "119.99000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00003741",
+    "markPrice": "119.29000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00005934",
+    "markPrice": "124.41000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "130.44151471"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "131.68000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "130.07000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "130.90000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "129.54044118"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "122.71480392"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00005011",
+    "markPrice": "121.22337255"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00002015",
+    "markPrice": "121.41508333"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "117.55000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00001621",
+    "markPrice": "119.09998810"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "118.70275000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00002619",
+    "markPrice": "118.82000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "-0.00003217",
+    "markPrice": "120.96813690"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00004978",
+    "markPrice": "122.91000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00008001",
+    "markPrice": "122.28909524"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "120.67000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "0.00004124",
+    "markPrice": "116.03000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00000122",
+    "markPrice": "118.02094118"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00004697",
+    "markPrice": "117.69000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00008886",
+    "markPrice": "114.97000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00005103",
+    "markPrice": "114.10000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "112.59489216"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "0.00000965",
+    "markPrice": "113.86748255"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00001226",
+    "markPrice": "114.88092647"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00006044",
+    "markPrice": "116.02261765"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00009032",
+    "markPrice": "116.05000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00003507",
+    "markPrice": "114.09000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00006932",
+    "markPrice": "114.69000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00004249",
+    "markPrice": "116.27883824"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00005833",
+    "markPrice": "119.43687745"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "122.96608333"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "121.75176471"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "120.87807843"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "121.44000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "119.49000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "119.29000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "118.18161765"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "112.47000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "-0.00004595",
+    "markPrice": "111.64000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "-0.00006408",
+    "markPrice": "109.07000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "-0.00002649",
+    "markPrice": "110.55000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00006431",
+    "markPrice": "111.95000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "113.43557353"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "112.95000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00007026",
+    "markPrice": "113.65293137"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "112.14000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "113.44000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00003266",
+    "markPrice": "112.58000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00008433",
+    "markPrice": "113.60910294"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "110.36868137"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00001720",
+    "markPrice": "109.86000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00009096",
+    "markPrice": "109.86000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "110.67000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "110.57765686"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00005213",
+    "markPrice": "110.76266176"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00008606",
+    "markPrice": "111.08000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00009647",
+    "markPrice": "110.67000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00006286",
+    "markPrice": "108.83111665"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "0.00006626",
+    "markPrice": "110.44517157"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "109.49460294"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00005247",
+    "markPrice": "108.68000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00004923",
+    "markPrice": "110.54466176"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00008823",
+    "markPrice": "109.53000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00002044",
+    "markPrice": "111.69474020"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "111.71000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "112.80590196"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "112.94000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00005075",
+    "markPrice": "111.30406780"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00006087",
+    "markPrice": "109.99458824"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "-0.00001689",
+    "markPrice": "111.00000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "113.13237745"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "112.30000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "112.01000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00005491",
+    "markPrice": "111.67000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00003452",
+    "markPrice": "111.40000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "112.07000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "113.73365686"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "114.67000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "114.86000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "-0.00004876",
+    "markPrice": "112.80000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "-0.00004528",
+    "markPrice": "113.39000000"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "-0.00004493",
+    "markPrice": "112.69029902"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fundingTime": 1757404800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "113.98689216"
+  }
+]

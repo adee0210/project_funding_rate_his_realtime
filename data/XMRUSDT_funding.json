@@ -1,0 +1,1208 @@
+[
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "313.51000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "313.36141667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "314.84023729"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "312.54000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "316.27913333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "315.58000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "316.95080000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "319.40520000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "322.40000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "314.34000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "316.01380000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "316.21568333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "313.76260000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "317.09000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "321.06581667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "320.17000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "326.15156667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "325.73000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "322.53570000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00030163",
+    "markPrice": "326.36184746"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00044455",
+    "markPrice": "326.49000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00066176",
+    "markPrice": "324.98313559"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "330.18000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "334.17800000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010907",
+    "markPrice": "326.08721667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "332.49990000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "339.12200000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00013694",
+    "markPrice": "338.91000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00069238",
+    "markPrice": "336.73313333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "348.82403390"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "343.50795000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00043119",
+    "markPrice": "344.44845000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "336.28000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00048614",
+    "markPrice": "334.04000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00052167",
+    "markPrice": "334.45000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00028577",
+    "markPrice": "333.76000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00050951",
+    "markPrice": "333.90230000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00016490",
+    "markPrice": "331.43000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "335.72035000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00017842",
+    "markPrice": "338.43000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00032020",
+    "markPrice": "337.45635000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00165169",
+    "markPrice": "336.23305000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00048861",
+    "markPrice": "326.11000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00051244",
+    "markPrice": "321.60619444"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "324.16708333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "327.92000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00064169",
+    "markPrice": "323.07000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00014481",
+    "markPrice": "326.33000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00041210",
+    "markPrice": "328.22430000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00070662",
+    "markPrice": "325.14000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00013929",
+    "markPrice": "329.46560000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00043561",
+    "markPrice": "325.98000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "319.94000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "321.01000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "324.49208333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00044638",
+    "markPrice": "325.66800000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "325.94000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "320.74000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "314.06000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "-0.00020428",
+    "markPrice": "315.99000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "-0.00016598",
+    "markPrice": "325.89000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "325.89000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "-0.00002579",
+    "markPrice": "323.77818333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "324.54800000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00074394",
+    "markPrice": "322.38171186"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "327.19000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00015627",
+    "markPrice": "324.49750000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "321.60375556"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "327.44100000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "322.95000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "325.47233333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "325.37048333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "323.26000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "315.22020000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "319.82200000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "316.59415000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "314.28000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "316.32000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00014082",
+    "markPrice": "305.47340000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00011982",
+    "markPrice": "309.04713333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "316.82883333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "303.57000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "306.31961667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00010000",
+    "markPrice": "306.50053333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "302.20440000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "297.19000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "297.01700000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "294.27783333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "295.07000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "298.63500000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "295.60445000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "303.80916667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "-0.00023763",
+    "markPrice": "312.92253333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "309.92000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "304.88000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "299.77800000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "290.29000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "291.78000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "294.39575000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "287.45708333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "285.61275000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "284.66916667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00030496",
+    "markPrice": "267.39200000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00089093",
+    "markPrice": "266.88449153"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00059153",
+    "markPrice": "259.12000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "269.85718333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "274.16000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "284.32000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00037366",
+    "markPrice": "271.21175000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "273.99831667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "273.16000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00021942",
+    "markPrice": "264.65000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "268.23000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00013699",
+    "markPrice": "275.44190000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00019439",
+    "markPrice": "273.40000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00021733",
+    "markPrice": "267.30000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00099472",
+    "markPrice": "257.55000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00075827",
+    "markPrice": "254.47000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00063755",
+    "markPrice": "253.24150000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "254.71893333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "254.45178333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00081672",
+    "markPrice": "251.44483333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "256.38000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00019577",
+    "markPrice": "251.94000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00012485",
+    "markPrice": "242.44215000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00045964",
+    "markPrice": "243.64000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "234.11000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00010000",
+    "markPrice": "235.69273333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00118783",
+    "markPrice": "235.83496667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00077902",
+    "markPrice": "240.93351667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00207404",
+    "markPrice": "251.74000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00253258",
+    "markPrice": "261.64770000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00163206",
+    "markPrice": "264.09000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00239787",
+    "markPrice": "266.97210000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "0.00019204",
+    "markPrice": "274.01000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00102311",
+    "markPrice": "267.43000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "278.35421667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00072520",
+    "markPrice": "271.60758333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "269.58916667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "260.67058333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "266.77740678"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "249.99400000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00010000",
+    "markPrice": "256.68000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "269.11000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "263.20570000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00048926",
+    "markPrice": "260.28840000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "264.76051667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "265.36508333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00020674",
+    "markPrice": "272.25200000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "270.14600000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "260.34436667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "266.05000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "267.00000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "274.47608333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "276.44325000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "274.57200000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "269.89000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "265.77000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "264.41000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "266.48000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "278.95803333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "275.65665000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "268.82000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "273.95000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "272.75376667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "268.52000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "266.99000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "262.70513333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00010000",
+    "markPrice": "261.59200000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "262.36500000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "263.72701667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "258.76125000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00010000",
+    "markPrice": "258.81001667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "263.42000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "261.03000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "261.77506780"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "267.13200000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "261.30645000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "260.04000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "265.05000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "261.20000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "270.04123333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "269.34000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "266.46410000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "270.47000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "268.42000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "269.55731667"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "269.55600000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "270.71000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "265.51000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00013069",
+    "markPrice": "269.80000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "269.69261111"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "266.20000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00036179",
+    "markPrice": "268.63000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00011304",
+    "markPrice": "269.53000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00039160",
+    "markPrice": "271.36000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00052852",
+    "markPrice": "272.14400000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00027551",
+    "markPrice": "270.29008333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "270.92000000"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00033269",
+    "markPrice": "266.27393333"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fundingTime": 1757404800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "272.41888333"
+  }
+]

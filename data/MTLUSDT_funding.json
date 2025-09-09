@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.66704937"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "0.00005743",
+    "markPrice": "0.66610000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "0.00006812",
+    "markPrice": "0.66870000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.66301600"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00005576",
+    "markPrice": "0.66665480"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "0.00003759",
+    "markPrice": "0.66440000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.67631833"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.67872967"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.68525083"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00007777",
+    "markPrice": "0.67790000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.67360000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.66980000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00000747",
+    "markPrice": "0.67723550"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00008369",
+    "markPrice": "0.69400000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "-0.00000747",
+    "markPrice": "0.69630000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.69913500"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71630000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71180000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.70872783"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.74500800"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.75401600"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.75539593"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.75470000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.81450000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "-0.00003918",
+    "markPrice": "0.77207200"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.78718400"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.78279013"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.79708800"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.78692000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.80393083"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.78419200"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.78375203"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.76310000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.77704000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.79830000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.79988083"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.79855110"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.80859793"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.80670129"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.80401600"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.81191200"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.82392000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.81327917"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.80647333"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.80262993"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.79626533"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.82119833"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.83952763"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.85502977"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.85360000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.86051127"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.86450000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.86090214"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.83372000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.84891200"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.86540000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.86020000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.83582400"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.80628783"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.77435053"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.79940000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.79040817"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.77768000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.77829627"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.80332533"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.80190000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.80475200"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.80125600"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.81570000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.81401600"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.82635150"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.82760000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.79206833"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.77649690"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.78850000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.76208127"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.76282763"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.75160000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.75800167"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.76310000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.77290000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00006940",
+    "markPrice": "0.75253833"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "-0.00000828",
+    "markPrice": "0.72490000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "-0.00010164",
+    "markPrice": "0.71511667"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00006775",
+    "markPrice": "0.72062320"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00000310",
+    "markPrice": "0.70980417"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "-0.00005274",
+    "markPrice": "0.71382500"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "-0.00007273",
+    "markPrice": "0.69680000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "-0.00012677",
+    "markPrice": "0.69960000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "-0.00012604",
+    "markPrice": "0.70961500"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "-0.00003983",
+    "markPrice": "0.71280000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.70790000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71681367"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.72252417"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.73280000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.72090400"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71160850"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71480000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71220870"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.72086750"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.72040167"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "-0.00009465",
+    "markPrice": "0.72110000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00006594",
+    "markPrice": "0.73437150"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.74501814"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "-0.00005264",
+    "markPrice": "0.74796800"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00002550",
+    "markPrice": "0.74280000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.75870000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.77552333"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.77340000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.77795000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.76265333"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00005144",
+    "markPrice": "0.76821583"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00009314",
+    "markPrice": "0.77290000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "-0.00005036",
+    "markPrice": "0.76870000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00007022",
+    "markPrice": "0.75973750"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "-0.00011360",
+    "markPrice": "0.73905750"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00004745",
+    "markPrice": "0.74210917"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.76282750"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.77639750"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.78222000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.79087200"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.79733250"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.78692800"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.74218700"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00005624",
+    "markPrice": "0.73014083"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.74380000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71178000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.72500000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.73408833"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.75020000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.75200000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.76334990"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.76884000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.75320000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "0.00003583",
+    "markPrice": "0.72035566"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.72396500"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00004193",
+    "markPrice": "0.72469417"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00004476",
+    "markPrice": "0.71870000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00004062",
+    "markPrice": "0.71851083"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "-0.00013159",
+    "markPrice": "0.70310000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71100000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.72240750"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00004067",
+    "markPrice": "0.73440000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00000327",
+    "markPrice": "0.73144800"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "-0.00007246",
+    "markPrice": "0.71300000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "-0.00002217",
+    "markPrice": "0.71673333"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71418000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.74120317"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.77132650"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.76936000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.76112583"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.76198400"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.74603000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.74260000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.74725500"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.73326333"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.72148500"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.69360000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.70266583"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71000000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.72288917"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71840000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.72860000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00009568",
+    "markPrice": "0.72272183"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.73210000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00009133",
+    "markPrice": "0.74216800"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.74860000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00009014",
+    "markPrice": "0.72120000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.70983667"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71270000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.72590083"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.72230000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00003529",
+    "markPrice": "0.72371707"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.73243000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.72608000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71232800"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "0.00003497",
+    "markPrice": "0.71396900"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.69905587"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.70172800"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.70530000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.69900000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71116800"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.70408220"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71430250"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71001600"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.69388333"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.68760000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.69020000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.70360000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.69240517"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.69819200"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.69116800"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.68989037"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.68930000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.69242167"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.69360000"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.69501600"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.69368267"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.70801600"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.71156800"
+  }
+]

@@ -1,0 +1,1208 @@
+[
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "-0.00021914",
+    "markPrice": "0.23568001"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "-0.00026310",
+    "markPrice": "0.23739000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "-0.00038160",
+    "markPrice": "0.23815000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "-0.00026875",
+    "markPrice": "0.23705000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "-0.00030109",
+    "markPrice": "0.23806013"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "-0.00030166",
+    "markPrice": "0.23787000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "-0.00030764",
+    "markPrice": "0.24368000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "-0.00012200",
+    "markPrice": "0.25031000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "-0.00015140",
+    "markPrice": "0.24994926"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "-0.00009588",
+    "markPrice": "0.25340000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "-0.00014598",
+    "markPrice": "0.24806000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "-0.00011554",
+    "markPrice": "0.25063114"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "-0.00016925",
+    "markPrice": "0.25391000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00000576",
+    "markPrice": "0.25931000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "-0.00004469",
+    "markPrice": "0.26469000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "-0.00033868",
+    "markPrice": "0.29510000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "-0.00002287",
+    "markPrice": "0.28803000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "-0.00015800",
+    "markPrice": "0.29240000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00002543",
+    "markPrice": "0.29304000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00009929",
+    "markPrice": "0.30293000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30401997"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.36747666"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.36019723"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00008812",
+    "markPrice": "0.37607000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00004516",
+    "markPrice": "0.37597000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00004142",
+    "markPrice": "0.39278000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00000874",
+    "markPrice": "0.44171638"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46277136"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "-0.00004138",
+    "markPrice": "0.47054157"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00009108",
+    "markPrice": "0.48600000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45661246"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46353245"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44686545"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44681000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45136505"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45913044"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46376716"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45319078"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46607000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46401305"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.49748647"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48056000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46540534"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45844000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46645000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46096000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46080000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00002064",
+    "markPrice": "0.46174000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00002919",
+    "markPrice": "0.47187000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46221584"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48511875"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48119754"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47296174"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45792000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46363625"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47263000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47041000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.43984290"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.42747000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.41680755"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44022000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.42443014"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.41510944"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.40959241"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.43128283"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.43833800"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44067596"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.43516000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44183172"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "-0.00000651",
+    "markPrice": "0.43875000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44407000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44319856"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.42410669"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "-0.00000770",
+    "markPrice": "0.41896000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00003104",
+    "markPrice": "0.43306973"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.41828700"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.42086989"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.41677000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00008320",
+    "markPrice": "0.41397000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00007505",
+    "markPrice": "0.40740415"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00004578",
+    "markPrice": "0.42421000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00000185",
+    "markPrice": "0.41084011"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "-0.00001663",
+    "markPrice": "0.40091520"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "-0.00013341",
+    "markPrice": "0.39123438"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00009318",
+    "markPrice": "0.39825436"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.38187000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00008755",
+    "markPrice": "0.38684477"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00009715",
+    "markPrice": "0.36936000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00004360",
+    "markPrice": "0.36680067"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00001013",
+    "markPrice": "0.37858753"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "-0.00019415",
+    "markPrice": "0.40023000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00001308",
+    "markPrice": "0.39907571"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "-0.00021972",
+    "markPrice": "0.41661478"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "-0.00008949",
+    "markPrice": "0.40859000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "-0.00003923",
+    "markPrice": "0.41336000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00003504",
+    "markPrice": "0.40154000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "-0.00014628",
+    "markPrice": "0.39592158"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "-0.00005315",
+    "markPrice": "0.39577059"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "-0.00000508",
+    "markPrice": "0.39451000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00002766",
+    "markPrice": "0.39857000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00000576",
+    "markPrice": "0.39986000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00006018",
+    "markPrice": "0.40136765"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "-0.00005385",
+    "markPrice": "0.41221273"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00000025",
+    "markPrice": "0.43927000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "-0.00003569",
+    "markPrice": "0.46233000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44209756"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44991449"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45370000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00003697",
+    "markPrice": "0.44997000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44672000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "-0.00001339",
+    "markPrice": "0.43871000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "-0.00003884",
+    "markPrice": "0.44183013"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00000269",
+    "markPrice": "0.44425000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00003260",
+    "markPrice": "0.44814375"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "-0.00009579",
+    "markPrice": "0.44318000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "-0.00008170",
+    "markPrice": "0.43004128"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "-0.00003663",
+    "markPrice": "0.43695551"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "-0.00000657",
+    "markPrice": "0.44466000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44921000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44782127"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44689000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45189833"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45320000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "-0.00039590",
+    "markPrice": "0.42370768"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "-0.00041640",
+    "markPrice": "0.42301188"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "-0.00023614",
+    "markPrice": "0.42907630"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "-0.00000406",
+    "markPrice": "0.41581000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00005650",
+    "markPrice": "0.43011000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.42779000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00008615",
+    "markPrice": "0.42631000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00007633",
+    "markPrice": "0.42633457"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00004808",
+    "markPrice": "0.42887000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00006693",
+    "markPrice": "0.43246000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00007178",
+    "markPrice": "0.42433000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "-0.00008073",
+    "markPrice": "0.40813000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "-0.00011508",
+    "markPrice": "0.41008473"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00000433",
+    "markPrice": "0.41435000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.40559000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00002860",
+    "markPrice": "0.39783000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.39065450"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "-0.00003086",
+    "markPrice": "0.39505000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00002610",
+    "markPrice": "0.39837000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "-0.00000931",
+    "markPrice": "0.40434000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.40099000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.39246000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.39109444"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.39310397"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00003453",
+    "markPrice": "0.41407569"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.42484000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.41767364"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.41199000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.41656276"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.40858000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00005033",
+    "markPrice": "0.40598000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.40772000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00007546",
+    "markPrice": "0.39258000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "-0.00017873",
+    "markPrice": "0.39342118"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "-0.00017124",
+    "markPrice": "0.38385861"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00004338",
+    "markPrice": "0.38889766"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00001086",
+    "markPrice": "0.39071245"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.39461000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.38434000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "-0.00004735",
+    "markPrice": "0.38608314"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00001574",
+    "markPrice": "0.37882000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00004578",
+    "markPrice": "0.38335000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00001533",
+    "markPrice": "0.38115247"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "-0.00000721",
+    "markPrice": "0.38198525"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00008880",
+    "markPrice": "0.36547000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00005011",
+    "markPrice": "0.35936329"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00001436",
+    "markPrice": "0.36112000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.36086000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "-0.00007841",
+    "markPrice": "0.35649000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "-0.00002469",
+    "markPrice": "0.35978000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "-0.00002007",
+    "markPrice": "0.35890000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00008665",
+    "markPrice": "0.35932666"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00003392",
+    "markPrice": "0.35248970"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.35767008"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.35345915"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.35730000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.36112000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00006488",
+    "markPrice": "0.35825000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00005042",
+    "markPrice": "0.36782348"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00002694",
+    "markPrice": "0.36226597"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.36603923"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.36188015"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "-0.00009731",
+    "markPrice": "0.35910232"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "-0.00010802",
+    "markPrice": "0.35429483"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00003775",
+    "markPrice": "0.35173000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "-0.00000704",
+    "markPrice": "0.36430940"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00003540",
+    "markPrice": "0.36005000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00003134",
+    "markPrice": "0.35943000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "-0.00006091",
+    "markPrice": "0.35731365"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "-0.00000304",
+    "markPrice": "0.35619000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "-0.00002302",
+    "markPrice": "0.35560023"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00006065",
+    "markPrice": "0.35742000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00005788",
+    "markPrice": "0.36246089"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00009150",
+    "markPrice": "0.36144000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00008119",
+    "markPrice": "0.36505000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "-0.00001966",
+    "markPrice": "0.37932000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "-0.00000990",
+    "markPrice": "0.37740000"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "fundingTime": 1757404800000,
+    "fundingRate": "0.00000544",
+    "markPrice": "0.38446000"
+  }
+]

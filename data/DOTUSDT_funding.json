@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "-0.00000811",
+    "markPrice": "3.35100000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "-0.00011769",
+    "markPrice": "3.35500000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "-0.00009380",
+    "markPrice": "3.37100000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "-0.00005552",
+    "markPrice": "3.34304475"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00002286",
+    "markPrice": "3.35280075"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.34410469"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00008734",
+    "markPrice": "3.38800000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00009064",
+    "markPrice": "3.39300000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.40900000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.39100000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.36757493"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00003817",
+    "markPrice": "3.35300000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00006350",
+    "markPrice": "3.37046962"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.44631699"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.48200000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.52100000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.61927294"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.65816353"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.62747601"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.88035839"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.90895464"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.97493039"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.90500000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.98700000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.82283489"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.89000000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.99900000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.00700000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00008630",
+    "markPrice": "3.98300000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.14900000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.00352189"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.94899250"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.86400000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.94600000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.08338133"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.12684052"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.13300000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.15702676"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.18591066"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.18980175"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.25886237"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.48468289"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.29500000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.22822130"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.28436346"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.22000000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.40800000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.41400000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.53968404"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.48189938"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.58274134"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.59696999"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.50000000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.38871039"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.42094544"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.55200000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.44872557"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.24100000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.11160948"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.00658361"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.08146947"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00008617",
+    "markPrice": "3.99900000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.93500000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.95200000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.08627446"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.09315010"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.14123329"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.12300000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.16174792"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.16749894"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.23900000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.27132992"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.07048594"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.96197290"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "-0.00003581",
+    "markPrice": "4.07200000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.91574598"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00006468",
+    "markPrice": "3.90211019"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00004620",
+    "markPrice": "3.86810376"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "-0.00007849",
+    "markPrice": "3.81800000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "-0.00000875",
+    "markPrice": "3.80400000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "-0.00002953",
+    "markPrice": "3.88500000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "-0.00003302",
+    "markPrice": "3.78700000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "0.00005015",
+    "markPrice": "3.67932616"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00004436",
+    "markPrice": "3.65500000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.64184233"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.54500000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00001392",
+    "markPrice": "3.58500000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.49658898"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00004172",
+    "markPrice": "3.50600000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "-0.00000194",
+    "markPrice": "3.57300000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00005537",
+    "markPrice": "3.58771249"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00000578",
+    "markPrice": "3.60100000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "-0.00003645",
+    "markPrice": "3.63400000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00005384",
+    "markPrice": "3.69000000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.71800000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.59624138"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "-0.00001273",
+    "markPrice": "3.57803892"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00004522",
+    "markPrice": "3.61931373"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00000402",
+    "markPrice": "3.63242190"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00003910",
+    "markPrice": "3.67700000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.67277362"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.68100717"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.76507979"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.86612285"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00006726",
+    "markPrice": "3.91705391"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.88351775"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.97670798"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00001135",
+    "markPrice": "4.07300000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.07400000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00001518",
+    "markPrice": "4.13489718"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.00930266"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.05440653"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.04700000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.04662171"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00005330",
+    "markPrice": "3.96302977"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.85200000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00005362",
+    "markPrice": "3.92057831"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00005035",
+    "markPrice": "4.09200000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.15500000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.20079009"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.22004310"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.27597070"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.25608216"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.02523380"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.98314779"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00004281",
+    "markPrice": "4.03100000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00004443",
+    "markPrice": "3.85800000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00004691",
+    "markPrice": "3.89437890"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "-0.00001371",
+    "markPrice": "3.93200000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00001158",
+    "markPrice": "3.98000000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00002730",
+    "markPrice": "3.96300000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "-0.00004477",
+    "markPrice": "4.02100000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.16900000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.05000000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "-0.00004470",
+    "markPrice": "3.86300000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "-0.00001441",
+    "markPrice": "3.91653557"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00004917",
+    "markPrice": "3.91248959"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "-0.00013398",
+    "markPrice": "3.83500000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00006209",
+    "markPrice": "3.77200000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "-0.00004776",
+    "markPrice": "3.71794241"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "-0.00004528",
+    "markPrice": "3.76800000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00006666",
+    "markPrice": "3.81947080"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.88295971"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.86913949"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.79300000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.79600000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00007509",
+    "markPrice": "3.83937797"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.96089111"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.18000000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.14600000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.15600000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.22791426"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.08800000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.06137322"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.10955523"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.91149718"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "-0.00005066",
+    "markPrice": "3.86731348"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "-0.00015870",
+    "markPrice": "3.73046614"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "-0.00010445",
+    "markPrice": "3.79300000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00004571",
+    "markPrice": "3.81170403"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.88600000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.85000000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.91100000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.83637306"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.93300000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.95608289"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.98011918"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00001701",
+    "markPrice": "3.81277556"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00009140",
+    "markPrice": "3.76900000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00000105",
+    "markPrice": "3.77102057"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00006434",
+    "markPrice": "3.81100000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.78700000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00003323",
+    "markPrice": "3.80800000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.80212969"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.81567168"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.74000000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "-0.00003769",
+    "markPrice": "3.82006163"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.73100000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "-0.00010955",
+    "markPrice": "3.69133376"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.75414189"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.73175827"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.81879440"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.80943578"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.89023745"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.86499399"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.78316035"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00008291",
+    "markPrice": "3.75547812"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00001929",
+    "markPrice": "3.76200000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.83891524"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.80867204"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.82700000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.82585852"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.79200000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.82200000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.85174244"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3.96700000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00000948",
+    "markPrice": "3.99300000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00008478",
+    "markPrice": "3.99552709"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.06800000"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4.04491809"
+  }
+]

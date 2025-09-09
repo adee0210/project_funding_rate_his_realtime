@@ -1,0 +1,1208 @@
+[
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "-0.00017395",
+    "markPrice": "480.20141334"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "-0.00026127",
+    "markPrice": "483.63000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "-0.00016672",
+    "markPrice": "483.42000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "-0.00026565",
+    "markPrice": "481.28000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "-0.00024195",
+    "markPrice": "488.93000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "-0.00026604",
+    "markPrice": "483.83719355"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "-0.00014878",
+    "markPrice": "494.78000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "-0.00000168",
+    "markPrice": "491.21080645"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "-0.00000659",
+    "markPrice": "494.97376344"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "-0.00002993",
+    "markPrice": "493.90000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00002693",
+    "markPrice": "496.23000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "-0.00002635",
+    "markPrice": "498.53000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00003294",
+    "markPrice": "503.97000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "-0.00002172",
+    "markPrice": "500.73000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "-0.00008738",
+    "markPrice": "507.09572581"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "-0.00017237",
+    "markPrice": "506.29212366"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00003349",
+    "markPrice": "514.27329570"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00003956",
+    "markPrice": "515.30297849"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "-0.00021967",
+    "markPrice": "504.13988710"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00005805",
+    "markPrice": "518.21410880"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00003358",
+    "markPrice": "519.02482258"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00006308",
+    "markPrice": "528.91483871"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "531.42629032"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00002626",
+    "markPrice": "517.70039785"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "-0.00029901",
+    "markPrice": "504.64000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "-0.00034253",
+    "markPrice": "505.85000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "-0.00019878",
+    "markPrice": "507.28298387"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "-0.00028706",
+    "markPrice": "505.54887366"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "-0.00022833",
+    "markPrice": "507.63059677"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00005111",
+    "markPrice": "516.90000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00003001",
+    "markPrice": "504.19000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "-0.00027554",
+    "markPrice": "504.47000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "-0.00012437",
+    "markPrice": "487.38000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "-0.00019786",
+    "markPrice": "487.51000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "-0.00026225",
+    "markPrice": "497.36603763"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "-0.00014410",
+    "markPrice": "498.93690323"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "-0.00010000",
+    "markPrice": "495.05130108"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00009094",
+    "markPrice": "498.65416667"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00002142",
+    "markPrice": "495.44882796"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00002210",
+    "markPrice": "495.06000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "-0.00006724",
+    "markPrice": "499.59000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "525.27867204"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "512.92000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "514.34000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "509.71838710"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00007197",
+    "markPrice": "503.66000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "513.00000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "525.24322581"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "551.14000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "548.15000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "530.86000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "527.58580645"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "522.48000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "520.65000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "518.76000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "526.13000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "526.66000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "514.96000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "-0.00006307",
+    "markPrice": "511.76000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00000795",
+    "markPrice": "503.18465860"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "521.66852957"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "512.88450538"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "525.25419355"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "534.31316398"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "557.35000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "552.03000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "556.06070430"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "559.31579032"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "585.28018817"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00016799",
+    "markPrice": "598.77000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "589.86096774"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "580.16000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "584.17000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "572.38646237"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "575.63000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "562.09225806"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "564.06445699"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "566.44000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00010000",
+    "markPrice": "568.93927957"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00008727",
+    "markPrice": "589.54400538"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "581.92000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00005784",
+    "markPrice": "574.16000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "-0.00003264",
+    "markPrice": "561.22000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00010000",
+    "markPrice": "558.96771774"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00009530",
+    "markPrice": "552.29251075"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "535.80000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00004108",
+    "markPrice": "540.99000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00006980",
+    "markPrice": "529.06000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00005462",
+    "markPrice": "519.94533871"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00003251",
+    "markPrice": "535.55000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00009948",
+    "markPrice": "541.15494086"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00002551",
+    "markPrice": "544.05000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "552.96464516"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "576.16580645"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "574.26000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "562.63775806"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "564.70000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "551.57765591"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "562.20000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "571.41355645"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "570.96123118"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "576.98975538"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "576.41138054"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "581.90000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00001681",
+    "markPrice": "579.91000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "579.46383333"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "585.87280000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "587.11805333"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00007813",
+    "markPrice": "567.94000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "-0.00003004",
+    "markPrice": "565.92000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00000051",
+    "markPrice": "562.97000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "573.47313333"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "570.24000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "573.84839247"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "587.68838710"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "578.49000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "590.93322581"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "604.24756989"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "619.11000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "608.68516129"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "619.08113172"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "616.23483871"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "608.77589785"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "591.82031183"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "593.09219355"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "598.46387634"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "583.22000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00010000",
+    "markPrice": "592.28244333"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "593.88000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "580.52496000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "587.21000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "588.47000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00010000",
+    "markPrice": "586.41000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "581.86000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "0.00007214",
+    "markPrice": "566.53152000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00005175",
+    "markPrice": "565.66000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00003790",
+    "markPrice": "568.64000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "564.43000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "555.00000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00007469",
+    "markPrice": "548.18088172"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "0.00005736",
+    "markPrice": "549.30000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "552.64000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00006737",
+    "markPrice": "560.64000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "559.40000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "552.92000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "554.39000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00009281",
+    "markPrice": "562.89997849"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "596.10506452"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "599.75786022"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "589.65064516"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "588.99000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "591.25000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "591.48131720"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "593.90580645"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "583.04000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "566.43014516"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00007740",
+    "markPrice": "558.69007796"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "0.00004029",
+    "markPrice": "543.34000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00003301",
+    "markPrice": "542.23029032"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00004824",
+    "markPrice": "537.64000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00005780",
+    "markPrice": "550.60032258"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00004378",
+    "markPrice": "554.06677419"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00007469",
+    "markPrice": "558.51533333"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "550.05935484"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "562.26117742"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "554.53838710"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "557.66993548"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00009338",
+    "markPrice": "537.96258602"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00006417",
+    "markPrice": "534.58761828"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00009334",
+    "markPrice": "530.58000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "532.72000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00007962",
+    "markPrice": "545.39000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00005517",
+    "markPrice": "552.45000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "551.67000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "545.97000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "543.99819300"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "549.20887097"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "543.12000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "544.91000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "567.38968280"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "573.90875538"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "584.35797312"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00009906",
+    "markPrice": "599.14423118"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "585.64000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "603.35219892"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "-0.00003837",
+    "markPrice": "586.08000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "586.84000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00002397",
+    "markPrice": "586.36789247"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00001260",
+    "markPrice": "599.96351075"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "609.69436559"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "606.48000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "611.40488172"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "-0.00021271",
+    "markPrice": "593.42000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "-0.00002049",
+    "markPrice": "594.90836559"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00004943",
+    "markPrice": "600.93653226"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "601.16873118"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00004213",
+    "markPrice": "602.95000000"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "-0.00006388",
+    "markPrice": "592.32523656"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "-0.00002089",
+    "markPrice": "589.11069355"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "-0.00000841",
+    "markPrice": "587.99103226"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fundingTime": 1757404800000,
+    "fundingRate": "-0.00000721",
+    "markPrice": "585.81320430"
+  }
+]

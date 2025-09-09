@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44400000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.43960000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44390000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "0.00005745",
+    "markPrice": "0.44086167"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44635700"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44720000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44916726"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44980000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00005426",
+    "markPrice": "0.45340000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00008241",
+    "markPrice": "0.45230000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45300000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45157735"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00006238",
+    "markPrice": "0.45692047"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "-0.00001507",
+    "markPrice": "0.46490000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46731884"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47078768"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47471490"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47431390"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46960000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.49240000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50217046"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50330000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50560000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.51798520"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50470000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50740690"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.51367185"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.51730000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.51545817"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52440000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.51311852"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50720000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50912904"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50957681"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52385745"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52550000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.51981894"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52229345"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52200000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52914539"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52277659"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.53164336"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.54174955"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.53238470"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52330061"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50697708"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52060000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52877567"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.53528067"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.54270000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.53720000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.54050000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.54080000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52801503"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52110971"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52895367"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.53013255"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.51839227"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50217876"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48553623"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50010000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.49518173"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.49209211"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.49030529"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.49998213"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50530000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50310000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50250119"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50412962"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50789204"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.51437606"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52286933"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50165946"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48415956"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.49340000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48000553"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48497633"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47801456"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47679826"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47846272"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48508017"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47314928"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45310000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45430723"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45950000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45367794"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45437003"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44412487"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44353591"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44870000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45440000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45383795"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46305594"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46530000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47030000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45982996"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45814500"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45858552"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46593333"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46638870"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46650000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47360000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47958234"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48476537"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48470000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48726220"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50260000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.51610000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.51660000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.51350000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50690000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.51127814"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50810000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50502232"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.50560079"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.49890000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.49974011"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.51510000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52250000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52486232"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.51620678"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.52332490"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.51450000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.49485525"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48430000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48543879"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46820000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47220000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47347281"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48010000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48706381"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.49160000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.49564503"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00006169",
+    "markPrice": "0.48642376"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "-0.00009364",
+    "markPrice": "0.46979351"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47228497"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47390000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46750000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47050000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46320000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46751632"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46907798"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47685284"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47354049"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45960000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45120301"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45690000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46970000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48940000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.48359326"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47880000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47345646"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46234567"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45717371"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45690000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44360000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44360000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.43720607"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44467042"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.44940496"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46210607"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45790000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46660000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46930000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47523160"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47473018"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47751689"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46230000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45840000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45820000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46894675"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47664648"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47533205"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47570000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47326065"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46267687"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46577849"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45560000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45762921"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46186600"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45762454"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46640172"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46410000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46890000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.47064940"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45764000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45545045"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45211138"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.46153235"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45600000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45626218"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45246773"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45194130"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45234383"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45483738"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45611647"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45710000"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45597103"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45889947"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.45899156"
+  }
+]

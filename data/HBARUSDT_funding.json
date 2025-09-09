@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "-0.00003501",
+    "markPrice": "0.15391595"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "-0.00004205",
+    "markPrice": "0.15296133"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "-0.00002871",
+    "markPrice": "0.15492000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "-0.00004831",
+    "markPrice": "0.15521000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00001646",
+    "markPrice": "0.15414000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "0.00001103",
+    "markPrice": "0.15247000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00006221",
+    "markPrice": "0.15741000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00005996",
+    "markPrice": "0.15930976"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00002581",
+    "markPrice": "0.16062240"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00004557",
+    "markPrice": "0.16049195"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "-0.00003809",
+    "markPrice": "0.15835000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "-0.00000068",
+    "markPrice": "0.15675082"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "-0.00004300",
+    "markPrice": "0.16050000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00006071",
+    "markPrice": "0.16066000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "-0.00004773",
+    "markPrice": "0.16278000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00003666",
+    "markPrice": "0.16972000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00007939",
+    "markPrice": "0.17083146"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "-0.00009528",
+    "markPrice": "0.17697000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00003972",
+    "markPrice": "0.17786000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00006709",
+    "markPrice": "0.18984058"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.19954000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.20061255"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.19377076"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.19762529"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.19204000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.19731000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.22646975"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24502774"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24122308"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25294000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24007575"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23689342"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23026000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23181000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23301949"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23520000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23836000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23609464"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23902000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24469420"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27656779"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27048615"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26538588"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25934126"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00005622",
+    "markPrice": "0.26809000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26673092"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00000770",
+    "markPrice": "0.26633000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00009458",
+    "markPrice": "0.26932404"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27524000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27068930"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28302000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27928971"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27103414"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26514272"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27099954"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27536057"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26871154"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25442440"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24513013"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23891000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24502882"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23893037"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23725300"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "-0.00007152",
+    "markPrice": "0.24429000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "-0.00017893",
+    "markPrice": "0.25854570"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "-0.00005232",
+    "markPrice": "0.26321000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00001728",
+    "markPrice": "0.28102757"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27972324"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29043176"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28632519"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29163971"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28527951"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27251248"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27152664"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27517000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26148793"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26365000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25851460"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25692000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25569000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "-0.00004731",
+    "markPrice": "0.27331252"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26256409"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "-0.00008320",
+    "markPrice": "0.25086000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "-0.00013158",
+    "markPrice": "0.24732653"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "-0.00008651",
+    "markPrice": "0.25243000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00005040",
+    "markPrice": "0.24104000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "-0.00003063",
+    "markPrice": "0.24111576"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00004372",
+    "markPrice": "0.22974000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "-0.00002391",
+    "markPrice": "0.22996000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "-0.00005094",
+    "markPrice": "0.23842550"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "-0.00014560",
+    "markPrice": "0.24788000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "-0.00006486",
+    "markPrice": "0.24846000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "-0.00000037",
+    "markPrice": "0.24818624"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "-0.00001325",
+    "markPrice": "0.24973681"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00003792",
+    "markPrice": "0.25069692"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "-0.00004432",
+    "markPrice": "0.24213382"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00008302",
+    "markPrice": "0.23875488"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23918880"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24384000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00008354",
+    "markPrice": "0.24603506"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24450000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24458000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25255418"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25978053"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00005096",
+    "markPrice": "0.26367000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25660000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26173000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26651000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26286000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00006008",
+    "markPrice": "0.26584029"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "-0.00002253",
+    "markPrice": "0.25723189"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00005413",
+    "markPrice": "0.25919551"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25919000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26144981"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "-0.00013856",
+    "markPrice": "0.25379224"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "-0.00001331",
+    "markPrice": "0.24637000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "-0.00000679",
+    "markPrice": "0.24873000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00000005",
+    "markPrice": "0.25607000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26097412"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26301500"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26273503"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26611489"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27039587"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25206657"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "-0.00011920",
+    "markPrice": "0.24846284"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "-0.00005798",
+    "markPrice": "0.25509000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00007565",
+    "markPrice": "0.24351000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "-0.00001111",
+    "markPrice": "0.24741211"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24979824"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25008000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00003937",
+    "markPrice": "0.25218000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25433000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25876024"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25194000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "-0.00020855",
+    "markPrice": "0.24257000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "-0.00007726",
+    "markPrice": "0.24495310"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00008354",
+    "markPrice": "0.24489000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "-0.00005177",
+    "markPrice": "0.23906000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "-0.00003702",
+    "markPrice": "0.23535000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00001387",
+    "markPrice": "0.23141000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "0.00001427",
+    "markPrice": "0.23378000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00008462",
+    "markPrice": "0.23553000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00008306",
+    "markPrice": "0.24158646"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23816000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "-0.00002648",
+    "markPrice": "0.23373000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23544000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00009373",
+    "markPrice": "0.23688333"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00001710",
+    "markPrice": "0.24924362"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25690628"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25122452"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24891000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25337000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24702000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00007827",
+    "markPrice": "0.24673000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24807000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00009937",
+    "markPrice": "0.23815000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "-0.00019205",
+    "markPrice": "0.23787916"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "-0.00024519",
+    "markPrice": "0.23057000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "-0.00000252",
+    "markPrice": "0.23591000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00000490",
+    "markPrice": "0.23600192"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24166151"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00007877",
+    "markPrice": "0.23984000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00008560",
+    "markPrice": "0.24118000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23750453"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24014000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00007369",
+    "markPrice": "0.23818000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23916841"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.23143068"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00005048",
+    "markPrice": "0.22612000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00009235",
+    "markPrice": "0.22784000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.22754000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00004632",
+    "markPrice": "0.22574086"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.22564000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.22409000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00009044",
+    "markPrice": "0.22553875"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00008977",
+    "markPrice": "0.21887000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "0.00008039",
+    "markPrice": "0.22039000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21548832"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21461746"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21755852"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00003008",
+    "markPrice": "0.21184872"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.22055000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21886000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00009177",
+    "markPrice": "0.22172000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21921000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "-0.00006534",
+    "markPrice": "0.21491000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00000268",
+    "markPrice": "0.21209000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00007456",
+    "markPrice": "0.21339000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00009295",
+    "markPrice": "0.21911000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "-0.00001970",
+    "markPrice": "0.21770000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21822867"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "-0.00000668",
+    "markPrice": "0.21724000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "-0.00003173",
+    "markPrice": "0.21539000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "-0.00003951",
+    "markPrice": "0.21449000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21960000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21994000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.21946000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.22111000"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.22713990"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.22628000"
+  }
+]

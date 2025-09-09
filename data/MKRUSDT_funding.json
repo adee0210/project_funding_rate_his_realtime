@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1751587200005,
+    "fundingRate": "0.00010000",
+    "markPrice": "1937.10000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1751616000003,
+    "fundingRate": "-0.00000594",
+    "markPrice": "1872.60000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "-0.00012296",
+    "markPrice": "1835.80000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "-0.00014176",
+    "markPrice": "1865.02539587"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "-0.00003627",
+    "markPrice": "1863.00653533"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "-0.00005522",
+    "markPrice": "1822.40000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "-0.00004915",
+    "markPrice": "1836.00000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "0.00005514",
+    "markPrice": "1830.40000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00000148",
+    "markPrice": "1852.90000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1908.87289543"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "1904.40000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1879.09883481"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00007004",
+    "markPrice": "1896.72831480"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "1887.10000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00008753",
+    "markPrice": "1883.90000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "1926.10000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00004530",
+    "markPrice": "1917.90000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00000573",
+    "markPrice": "1913.40000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00009926",
+    "markPrice": "1956.00000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00002516",
+    "markPrice": "1981.04357834"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00002458",
+    "markPrice": "1945.40000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00005963",
+    "markPrice": "2017.70000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "2006.20000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "1970.81529366"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00000946",
+    "markPrice": "1894.00000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "-0.00001343",
+    "markPrice": "1887.84755290"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "-0.00008049",
+    "markPrice": "1819.70000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00003457",
+    "markPrice": "1886.00242309"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00000822",
+    "markPrice": "1856.40000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "-0.00001198",
+    "markPrice": "1885.22513531"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00001920",
+    "markPrice": "1872.20021624"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1908.00000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00009437",
+    "markPrice": "1869.30000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "-0.00008553",
+    "markPrice": "1849.50588101"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00000493",
+    "markPrice": "1849.30000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00003526",
+    "markPrice": "1846.98277864"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1869.27904427"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1898.42906763"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "1890.36095914"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "1913.90000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1899.52608027"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1869.90000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "1879.39023503"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00014514",
+    "markPrice": "2117.50000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2020.00000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "2017.80000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2011.19443377"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "1985.46108334"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1987.20839096"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1996.73358594"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2032.60000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2017.81759770"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2063.18968755"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2092.66169487"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2095.60000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "2068.40000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "2088.50000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00021350",
+    "markPrice": "2081.60000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "2023.34160756"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2054.55461633"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2033.80282186"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "1956.20000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2052.26508826"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2011.66086641"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2007.28729376"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2156.72056308"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2211.30000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "2271.87562395"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2258.34679055"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2282.66388632"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2290.51020985"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "2349.88749732"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "2318.55367698"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2301.14802561"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2212.61479174"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2166.20000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00007799",
+    "markPrice": "2153.00000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00004322",
+    "markPrice": "2012.61574705"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00008070",
+    "markPrice": "2052.74887666"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2061.23919449"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00010000",
+    "markPrice": "2024.12897930"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00006727",
+    "markPrice": "2052.00000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "2040.36531834"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2003.59636508"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "0.00002890",
+    "markPrice": "1975.10000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00010000",
+    "markPrice": "1963.60000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1880.90000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "1903.30000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00009975",
+    "markPrice": "1894.68960239"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1865.90000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1841.38275234"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1852.79827104"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00006133",
+    "markPrice": "1874.81813378"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00003887",
+    "markPrice": "1887.36173893"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00008106",
+    "markPrice": "1916.30000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00002270",
+    "markPrice": "1941.80000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00002823",
+    "markPrice": "1966.17098135"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00005281",
+    "markPrice": "1868.30675118"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00001457",
+    "markPrice": "1852.83307218"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "-0.00012629",
+    "markPrice": "1813.44327165"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00002806",
+    "markPrice": "1836.28911088"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00003583",
+    "markPrice": "1920.80000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "1925.70284120"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "1925.90000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "-0.00008745",
+    "markPrice": "1977.12927786"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00007716",
+    "markPrice": "1991.89749417"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00004404",
+    "markPrice": "1990.47451263"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2011.75263580"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "2014.70000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2080.50000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "2063.63353234"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "2093.06069500"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "2066.20000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2097.71301865"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2091.20714923"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2071.65822423"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2056.00000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2003.30000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00008645",
+    "markPrice": "2029.10000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00002327",
+    "markPrice": "2015.03986157"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00009291",
+    "markPrice": "2005.20000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "1991.40000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "1972.39149753"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "1960.60000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "1936.96752387"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1881.10000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1842.90000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1854.30000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1797.50000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00010000",
+    "markPrice": "1832.70000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1824.09667061"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "1795.03467610"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1785.90000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "1804.10000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00005481",
+    "markPrice": "1864.29774961"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00000488",
+    "markPrice": "1831.37276704"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "0.00008987",
+    "markPrice": "1774.40000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00007496",
+    "markPrice": "1740.60000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "-0.00000773",
+    "markPrice": "1714.80000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00001734",
+    "markPrice": "1688.80000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1678.50000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00004585",
+    "markPrice": "1652.14068934"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "-0.00006658",
+    "markPrice": "1662.40000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "-0.00004261",
+    "markPrice": "1630.60000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00003609",
+    "markPrice": "1664.80000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00004324",
+    "markPrice": "1678.90000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00008863",
+    "markPrice": "1624.20000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "-0.00000277",
+    "markPrice": "1615.80000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "1626.79474244"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00005314",
+    "markPrice": "1643.90000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "1711.42983988"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "1603.50000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1607.33323554"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "1621.57066656"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "1566.10000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00004312",
+    "markPrice": "1579.77382506"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1519.21662234"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "1513.40000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "1488.74519758"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "0.00004468",
+    "markPrice": "1480.20000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00000157",
+    "markPrice": "1497.90000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00002355",
+    "markPrice": "1561.35971810"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "-0.00005639",
+    "markPrice": "1596.51368479"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00009288",
+    "markPrice": "1584.51607103"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "-0.00004840",
+    "markPrice": "1590.10000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00004228",
+    "markPrice": "1588.90000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00007547",
+    "markPrice": "1551.70000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "1526.80000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "-0.00003161",
+    "markPrice": "1542.60000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1528.90000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00010000",
+    "markPrice": "1505.40000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00004707",
+    "markPrice": "1532.89743904"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "1517.20000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "1515.20694052"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00003682",
+    "markPrice": "1565.30000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1560.50000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "-0.00013604",
+    "markPrice": "1547.13560103"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00005414",
+    "markPrice": "1541.53833059"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "-0.00006201",
+    "markPrice": "1549.70000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00000518",
+    "markPrice": "1572.07362569"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "-0.00011664",
+    "markPrice": "1586.35157329"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "-0.00058413",
+    "markPrice": "1673.91653980"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "1751.03245726"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "1751.30000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "1707.92406711"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "1717.01122028"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "1786.20000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1763.99548486"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1746.69828338"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "1738.90000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "1799.80000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00054728",
+    "markPrice": "1712.92723583"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00033996",
+    "markPrice": "1805.48979279"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "1791.80000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00009975",
+    "markPrice": "1746.78772992"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1707.50000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1714.30000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1704.60000000"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00091342",
+    "markPrice": "1705.45336450"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "1671.60696435"
+  }
+]

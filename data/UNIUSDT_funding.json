@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "-0.00004377",
+    "markPrice": "6.90000766"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "-0.00014692",
+    "markPrice": "6.92717658"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "0.00001298",
+    "markPrice": "7.00081261"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "0.00002758",
+    "markPrice": "6.90700000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "7.32929730"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "7.25700000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "7.39000000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "7.41900000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "7.41400000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "7.33600000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "7.38711428"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "7.42680000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "7.57500000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "7.65700000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00009764",
+    "markPrice": "7.75700000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "8.15387748"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "8.29645946"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "8.38119550"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "8.05700000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "8.46300000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "8.62419797"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "8.73694685"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "8.69300000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "8.56399414"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "8.23100000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "8.38900000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00002775",
+    "markPrice": "8.49900000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00009924",
+    "markPrice": "8.58782704"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00009931",
+    "markPrice": "8.50900000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.39254595"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.27894595"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.12700000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.04500000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.13400000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.34800000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.25800000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.01500000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00006843",
+    "markPrice": "8.89445856"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00002296",
+    "markPrice": "8.99900000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "8.88400000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "8.93013514"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00031086",
+    "markPrice": "10.51725180"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010419",
+    "markPrice": "10.29500000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.13284324"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.23500631"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.08800000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.17105045"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.50732973"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.78852523"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.65832432"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.55670270"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.10493468"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.83200000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.35295901"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.53341126"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.77962477"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.51403288"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.16913514"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.17450225"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.98602703"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.35842432"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.11800000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.98900000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.08600000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.42737838"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.41327613"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.44785856"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.56000000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.56900000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.74630811"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.98389189"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.05200000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.58034279"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.46100000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.62977943"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.15435000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.30240586"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.29100000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00007896",
+    "markPrice": "10.05600000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.00521622"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.13200000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00004053",
+    "markPrice": "9.65728169"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.34131577"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.22748784"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.06644640"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.03412928"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00005471",
+    "markPrice": "9.07043649"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00009163",
+    "markPrice": "8.93400000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "8.75600000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00003983",
+    "markPrice": "8.99334640"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.13762658"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "-0.00001604",
+    "markPrice": "9.14500000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.31704685"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.98500000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.96079640"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.70800000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.49205931"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00003916",
+    "markPrice": "9.57573153"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.65900000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.72156471"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00004288",
+    "markPrice": "9.69177353"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.78600000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.10400000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.42362083"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.60200000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.60725591"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.85941935"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.18800000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.86112903"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.97637204"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.63383871"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.06079946"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.94606022"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.03629730"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.90700000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.03600000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00004966",
+    "markPrice": "11.22370631"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.35570676"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.59600000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.99018919"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.99016351"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "12.13010811"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.61416216"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.99209910"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.87107523"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00006792",
+    "markPrice": "11.03331081"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.56186486"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.71700000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.99800000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.88776505"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.00900000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.12400000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.35445376"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.01300000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "0.00007184",
+    "markPrice": "10.27621828"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00004640",
+    "markPrice": "10.47660383"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00004982",
+    "markPrice": "10.48200000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00008988",
+    "markPrice": "10.29300000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00004470",
+    "markPrice": "10.22200000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.94700000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "0.00001017",
+    "markPrice": "10.18000000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00002260",
+    "markPrice": "10.33400000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00006660",
+    "markPrice": "10.60700000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.53600000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00008727",
+    "markPrice": "10.25700000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.22200000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00006843",
+    "markPrice": "10.43018667"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00006875",
+    "markPrice": "11.00791351"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.43700000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.17700000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.26051757"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.34520090"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.06200000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "11.03900000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.92400000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.33743108"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00009676",
+    "markPrice": "10.10477883"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "0.00004551",
+    "markPrice": "9.69803604"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00004433",
+    "markPrice": "9.74516644"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00003950",
+    "markPrice": "9.70565811"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "-0.00001127",
+    "markPrice": "9.94706261"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00007809",
+    "markPrice": "9.90500000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.10200000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.85283649"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.04100000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.87027387"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "10.01837838"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.64939099"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.54284617"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.62900000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.81300000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.75125180"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.72300000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.81500000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.80000000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.61489808"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "0.00005872",
+    "markPrice": "9.73683784"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00009948",
+    "markPrice": "9.36249730"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.34800000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00009048",
+    "markPrice": "9.48986847"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.37267568"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.58008108"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.44554214"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.70556216"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.67613423"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.44600000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00003463",
+    "markPrice": "9.22532297"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00002991",
+    "markPrice": "9.28400000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00006557",
+    "markPrice": "9.58500000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.35830360"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.39300000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.31600000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.26393919"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.32900000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.35500000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.37015856"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.39400000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.40161667"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.73400000"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "9.55106532"
+  }
+]

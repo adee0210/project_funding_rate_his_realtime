@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "-0.00009030",
+    "markPrice": "41.21197625"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "-0.00000604",
+    "markPrice": "41.11497556"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "0.00002140",
+    "markPrice": "41.14000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.73000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "-0.00002695",
+    "markPrice": "41.08000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "0.00000743",
+    "markPrice": "40.56000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.39518924"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.35000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.20000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.67021025"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.68581716"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.45521062"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "-0.00011110",
+    "markPrice": "40.28065268"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.96000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.77000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "-0.00004600",
+    "markPrice": "42.99852038"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "-0.00002542",
+    "markPrice": "45.80679032"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "45.67000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "45.12000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "48.14342527"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.83000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.58000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "46.72857893"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "46.83260722"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "45.33768213"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "46.37000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "46.85000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "46.99155460"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "46.63000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "51.08663904"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "49.47045210"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "48.76219962"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.19093755"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.79490034"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "49.11396166"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "50.57031352"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "49.76000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "50.23037694"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "50.11182313"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "50.06772340"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "50.10703252"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "53.23000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "51.88000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "51.49000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "51.11000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "50.17000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "51.82000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "53.16000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "54.78968096"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "53.76195583"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "54.38189434"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "54.56986569"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "53.85237331"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "51.07921210"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "51.33629340"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "52.97272129"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "53.02785681"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "50.95000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "50.17000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.73640677"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "49.03000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.89000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.15975849"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.09000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "48.75000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "48.65000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "49.11977654"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "49.23731130"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "50.86333600"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "50.81359687"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "51.26137569"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "51.64866499"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "49.77476811"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "48.39966310"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "49.67404574"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.32145413"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.63619348"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "46.79000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "-0.00000970",
+    "markPrice": "46.49000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.01000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.64434159"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "-0.00004645",
+    "markPrice": "46.81375372"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "0.00000136",
+    "markPrice": "44.99316072"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00001701",
+    "markPrice": "44.18000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00003601",
+    "markPrice": "44.19308656"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "-0.00011553",
+    "markPrice": "44.00000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.47000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.87936891"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "-0.00001505",
+    "markPrice": "44.21368002"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.45265625"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.83248560"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.85000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "45.58000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "46.43526837"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.15000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00007251",
+    "markPrice": "45.75000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "45.55625936"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00001422",
+    "markPrice": "45.69212820"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00007647",
+    "markPrice": "46.06000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "46.07227493"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00001663",
+    "markPrice": "46.17000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00008732",
+    "markPrice": "46.13000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00008634",
+    "markPrice": "47.52208014"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "48.39143038"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "-0.00002162",
+    "markPrice": "48.26000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00008146",
+    "markPrice": "48.08823999"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "49.44000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "-0.00002148",
+    "markPrice": "54.38094244"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "54.58373720"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "55.27718934"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "53.37000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "54.58772296"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "54.18000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "54.24000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "52.60000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "50.74000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "51.29141260"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "53.10000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "53.12258041"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "53.36140721"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "53.88964113"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "53.88000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "52.16562220"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "49.35000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00007305",
+    "markPrice": "48.53788002"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00009155",
+    "markPrice": "48.90000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00007435",
+    "markPrice": "46.57272155"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00002153",
+    "markPrice": "47.85260256"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.87000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.89000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "48.40000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00004984",
+    "markPrice": "48.74955504"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00010000",
+    "markPrice": "49.27000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "48.11195173"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "0.00000423",
+    "markPrice": "46.31000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00004918",
+    "markPrice": "46.70200419"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00005823",
+    "markPrice": "46.72067402"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00004060",
+    "markPrice": "45.87000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00008849",
+    "markPrice": "45.54000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00004255",
+    "markPrice": "44.64082035"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "45.64000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00007317",
+    "markPrice": "46.22000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00010000",
+    "markPrice": "46.43316593"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00008867",
+    "markPrice": "45.86000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "-0.00000298",
+    "markPrice": "44.94000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00001923",
+    "markPrice": "44.94000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "45.18342355"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "-0.00002274",
+    "markPrice": "47.49000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "49.45000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "48.08315049"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "48.65338030"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "48.67000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.02365690"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "46.71183859"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "46.42000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.66000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00006261",
+    "markPrice": "44.26062282"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "-0.00006492",
+    "markPrice": "42.85606692"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00006241",
+    "markPrice": "43.23000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00003176",
+    "markPrice": "43.54000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00006532",
+    "markPrice": "44.53000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.46508292"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.69699135"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.91934505"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.55000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.43388942"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.66403735"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.97183638"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00005301",
+    "markPrice": "42.78000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.01000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.55000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.11000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.14637145"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.20043750"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.16000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.43000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "0.00008692",
+    "markPrice": "43.22000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.31000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00005947",
+    "markPrice": "42.22000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00008777",
+    "markPrice": "42.64110436"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.37000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.35000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.08000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.52000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.25000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.07000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.77315068"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.20000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.53096708"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.31000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.39000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.82613442"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.57000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.31000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.51156442"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.76880745"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.73000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.88293567"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.06000000"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.53200577"
+  }
+]

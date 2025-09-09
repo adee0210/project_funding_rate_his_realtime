@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "-0.00024891",
+    "markPrice": "2.16713537"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "-0.00033475",
+    "markPrice": "2.14897440"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "-0.00019582",
+    "markPrice": "2.15900000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "-0.00017800",
+    "markPrice": "2.13800000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "-0.00015431",
+    "markPrice": "2.14700000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "-0.00027448",
+    "markPrice": "2.14450001"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00003520",
+    "markPrice": "2.17900000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00007122",
+    "markPrice": "2.17300000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "-0.00004173",
+    "markPrice": "2.18291048"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "-0.00017692",
+    "markPrice": "2.13200000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "-0.00012456",
+    "markPrice": "2.13200000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "-0.00002719",
+    "markPrice": "2.11329681"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "-0.00004270",
+    "markPrice": "2.11926950"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.16209670"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.18757249"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00004873",
+    "markPrice": "2.19800000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.29094991"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.28800000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.27708175"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.46000000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.49365701"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.50487695"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.45654469"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.51100000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.39900000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.45901141"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.50243475"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.54700000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.50860791"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.58835558"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.47600000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.45073054"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.40700000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.45797939"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.56000000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.59466157"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.57391644"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.62437552"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.61900000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.61998964"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.64500000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.75688529"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.68725746"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.64247368"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.66292105"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.59006930"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.70523684"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.75655263"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.84400000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.82042105"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.87135833"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.88943684"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.87544868"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.76400000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.82400000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.89301404"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.85010439"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.67200000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.59000000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.48270789"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00005129",
+    "markPrice": "2.57304825"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.51192105"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00004569",
+    "markPrice": "2.48147982"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.49000000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.59900000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.59500000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.60329167"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.59000000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.61906667"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.59919342"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.65347368"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.66639474"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.53500000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "-0.00009809",
+    "markPrice": "2.45712320"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00002143",
+    "markPrice": "2.52100000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00002767",
+    "markPrice": "2.42067361"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.41966250"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00000372",
+    "markPrice": "2.38401143"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00003040",
+    "markPrice": "2.38370000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00002218",
+    "markPrice": "2.39400000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.44800000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.37127429"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "-0.00007363",
+    "markPrice": "2.27000000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00002956",
+    "markPrice": "2.23534143"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00000804",
+    "markPrice": "2.25300000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "-0.00012239",
+    "markPrice": "2.21400000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.22600000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "-0.00004475",
+    "markPrice": "2.16839857"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.16297810"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00006721",
+    "markPrice": "2.21468476"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00002595",
+    "markPrice": "2.24107476"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00000102",
+    "markPrice": "2.24900000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00002867",
+    "markPrice": "2.27600000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.30160476"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.34191429"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.25800000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.24200000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00004155",
+    "markPrice": "2.26300000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "-0.00007944",
+    "markPrice": "2.26900000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00002496",
+    "markPrice": "2.29454792"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.28115000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.29000000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.34800000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.39336382"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "-0.00002601",
+    "markPrice": "2.41300000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.39000000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.44544138"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.51243103"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.51900000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.53300000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00006545",
+    "markPrice": "2.48400000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "-0.00009325",
+    "markPrice": "2.51200000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.52500000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.49720571"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "-0.00000930",
+    "markPrice": "2.44842476"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00007964",
+    "markPrice": "2.37500000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.40110810"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.48400000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.53013381"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.55900000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.59600000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.64300000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.59536143"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.42614762"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00000233",
+    "markPrice": "2.37400000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00000668",
+    "markPrice": "2.39617143"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00000192",
+    "markPrice": "2.28400000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.34200000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00001283",
+    "markPrice": "2.38692414"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.44745690"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.42315920"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.42753851"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.48122356"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.40189655"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "0.00000717",
+    "markPrice": "2.29400000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00000985",
+    "markPrice": "2.30900000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "-0.00005255",
+    "markPrice": "2.30500000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "-0.00027738",
+    "markPrice": "2.26200000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "-0.00005975",
+    "markPrice": "2.25600000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "-0.00002131",
+    "markPrice": "2.21555190"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "-0.00014639",
+    "markPrice": "2.24800000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00004639",
+    "markPrice": "2.29375524"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.33134286"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.32100000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.26800000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00003708",
+    "markPrice": "2.27458286"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.28318232"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.37703524"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.50266429"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.47000000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.46200000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.48036238"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.40100000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.39051550"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.42165714"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00009814",
+    "markPrice": "2.31500000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00008201",
+    "markPrice": "2.30810000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "-0.00020948",
+    "markPrice": "2.20500000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00000389",
+    "markPrice": "2.24900000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.27458619"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.31949286"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00001100",
+    "markPrice": "2.30452000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.33575476"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.30324381"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00008908",
+    "markPrice": "2.34800000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.36025714"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.39601190"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.28634095"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00000498",
+    "markPrice": "2.25851548"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00009441",
+    "markPrice": "2.24900000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.29991429"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.28607857"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.29100000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "-0.00096625",
+    "markPrice": "2.63935857"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "-0.00066884",
+    "markPrice": "2.50700000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "-0.00053948",
+    "markPrice": "2.51800000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "-0.00014919",
+    "markPrice": "2.47185381"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.37407905"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00001589",
+    "markPrice": "2.32825545"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.35100000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.31678524"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.36000000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00009540",
+    "markPrice": "2.34185932"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.41129857"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.40151333"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.34400000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00004109",
+    "markPrice": "2.30837190"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00000097",
+    "markPrice": "2.30200000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.38200000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.35819905"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00007318",
+    "markPrice": "2.39200000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.37874905"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.36370048"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00001339",
+    "markPrice": "2.36300000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.42200000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.45419381"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.45600000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.45140000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.49900000"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2.49900000"
+  }
+]

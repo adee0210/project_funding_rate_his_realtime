@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "-0.00002830",
+    "markPrice": "0.07199571"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "-0.00044407",
+    "markPrice": "0.07243000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "-0.00021552",
+    "markPrice": "0.07184000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "-0.00007332",
+    "markPrice": "0.07163000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "-0.00002651",
+    "markPrice": "0.07170000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "-0.00005349",
+    "markPrice": "0.07132000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.07304000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00004483",
+    "markPrice": "0.07229130"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00003265",
+    "markPrice": "0.07253254"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "-0.00034728",
+    "markPrice": "0.07194000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00002056",
+    "markPrice": "0.07177653"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00002235",
+    "markPrice": "0.07142000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "-0.00007187",
+    "markPrice": "0.07101000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.07164000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.07358000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.07333000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.07527000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.07564000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.07516000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08019000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08127000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08098118"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.07936000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08123000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.07756000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.07880471"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.07973874"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08168366"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08063000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08353306"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08070272"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.07975030"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.07807904"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.07972000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08373151"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08567955"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08783235"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08770694"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08950206"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08982569"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09155000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09766441"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09297000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09257000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09467000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09398426"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09576440"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09680575"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10021000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10355000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10582000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10457144"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10260000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10058000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10115324"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10269559"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09944942"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09512000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09309687"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09007212"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09231205"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09064000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08892294"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08986685"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09293000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09209767"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09177879"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09116000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09223652"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09219000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09372000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09515016"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09073699"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08784549"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09062000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08849035"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08869000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08749000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08657000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08704000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08830318"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08549505"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "0.00008505",
+    "markPrice": "0.08198000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00003770",
+    "markPrice": "0.08038000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08052917"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.07949089"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08005658"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00008762",
+    "markPrice": "0.07827000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00007638",
+    "markPrice": "0.07854000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.07984430"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08002191"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "-0.00002600",
+    "markPrice": "0.08051000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "-0.00004007",
+    "markPrice": "0.08142148"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00005154",
+    "markPrice": "0.08302104"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08439958"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08164000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08077000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08143818"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08194283"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08273000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08260000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08256000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08466000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08597000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08573000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08512439"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08728000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09042548"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09037896"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09075380"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08941000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09037000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09129599"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09009000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08776000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08448000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08543000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09040000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09296300"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09441088"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09615414"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09691000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09584000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08769000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08527000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "-0.00016240",
+    "markPrice": "0.08663000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00003156",
+    "markPrice": "0.08198000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00001274",
+    "markPrice": "0.08449000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00009818",
+    "markPrice": "0.08694889"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "-0.00109509",
+    "markPrice": "0.09623000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "-0.00023734",
+    "markPrice": "0.09557638"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "-0.00014783",
+    "markPrice": "0.09379522"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00008270",
+    "markPrice": "0.09430464"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "-0.00003202",
+    "markPrice": "0.09139886"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "-0.00009567",
+    "markPrice": "0.08785276"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "-0.00008982",
+    "markPrice": "0.08846000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00005314",
+    "markPrice": "0.08806000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00000534",
+    "markPrice": "0.08980000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "-0.00005370",
+    "markPrice": "0.09065000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08625000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "-0.00005750",
+    "markPrice": "0.08738000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00008171",
+    "markPrice": "0.08789000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00006500",
+    "markPrice": "0.08926000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08833000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "-0.00007106",
+    "markPrice": "0.08694000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "-0.00001001",
+    "markPrice": "0.08701000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00006116",
+    "markPrice": "0.08696000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "-0.00004943",
+    "markPrice": "0.09027338"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09354918"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09174012"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09152930"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09277000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08928000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08906000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09067000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08801000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "-0.00004856",
+    "markPrice": "0.08665000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "-0.00009465",
+    "markPrice": "0.08308000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "-0.00007463",
+    "markPrice": "0.08444000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08488346"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08773000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00002350",
+    "markPrice": "0.08864000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08945000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09145142"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09116035"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09113228"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09051324"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08757000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "-0.00000513",
+    "markPrice": "0.08626050"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "-0.00002597",
+    "markPrice": "0.08650964"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08819884"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08793686"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08817147"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09147000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "-0.00865929",
+    "markPrice": "0.11373205"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "-0.00415774",
+    "markPrice": "0.10534567"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "-0.00198451",
+    "markPrice": "0.09919000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "-0.00093148",
+    "markPrice": "0.09704000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "-0.00057661",
+    "markPrice": "0.10149874"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "-0.00172885",
+    "markPrice": "0.10676851"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "-0.00059309",
+    "markPrice": "0.10586716"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "-0.00021493",
+    "markPrice": "0.10686915"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "-0.00010382",
+    "markPrice": "0.10278835"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "-0.00006316",
+    "markPrice": "0.10388000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10736647"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00007036",
+    "markPrice": "0.10169000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00007619",
+    "markPrice": "0.09885000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "-0.00002285",
+    "markPrice": "0.09938000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10103861"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "-0.00005409",
+    "markPrice": "0.09985012"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00008277",
+    "markPrice": "0.09948000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "-0.00014710",
+    "markPrice": "0.09917000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "-0.00006081",
+    "markPrice": "0.09839000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00001022",
+    "markPrice": "0.09629000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00009341",
+    "markPrice": "0.09721000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "-0.00011691",
+    "markPrice": "0.09741000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09777000"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "-0.00002537",
+    "markPrice": "0.09699859"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "-0.00002438",
+    "markPrice": "0.09920353"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00009299",
+    "markPrice": "0.09984324"
+  }
+]

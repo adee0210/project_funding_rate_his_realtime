@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "0.00003657",
+    "markPrice": "5051.68208178"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "0.00009240",
+    "markPrice": "5068.38254323"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "5091.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "0.00000293",
+    "markPrice": "5036.63663767"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00008221",
+    "markPrice": "5043.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5038.46750921"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "-0.00000893",
+    "markPrice": "5124.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "-0.00012487",
+    "markPrice": "5195.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "5183.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "-0.00005012",
+    "markPrice": "5137.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00008200",
+    "markPrice": "5087.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00004928",
+    "markPrice": "5094.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5108.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5169.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "5190.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "5217.79101446"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "5415.18851037"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5410.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "5366.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "5711.66599587"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "5694.37101183"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "5700.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5584.92068057"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "5636.29909340"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5488.31410392"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "5595.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "5673.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "5703.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5646.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5789.17747459"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5591.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5610.31634917"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00007423",
+    "markPrice": "5559.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5653.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5749.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5732.47530228"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "5744.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "5939.34258426"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5937.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5913.66546302"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "5953.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "6201.93329102"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "6086.80253299"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "6000.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "6052.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5933.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "6080.62822185"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "6182.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "6278.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "6171.93586557"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "6237.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "6231.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "6139.77889103"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "6000.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "6051.89240177"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "6148.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "6097.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5802.28658830"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5597.96971902"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "5502.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5670.56745346"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5533.58721951"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5361.08144354"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5389.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "5520.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "5542.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "5559.80606894"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "5572.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5607.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "5632.07339122"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "5719.93495685"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5751.63846623"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5555.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "5461.03780403"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5599.61100952"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5454.90777370"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "5453.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5425.07150195"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00009622",
+    "markPrice": "5401.34870816"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5449.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "5499.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00006996",
+    "markPrice": "5341.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "0.00005337",
+    "markPrice": "5202.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00000626",
+    "markPrice": "5221.51026700"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5228.75242378"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00006517",
+    "markPrice": "5079.69710314"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00005829",
+    "markPrice": "5090.41579631"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "-0.00004840",
+    "markPrice": "5004.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "-0.00003210",
+    "markPrice": "5017.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5071.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00008598",
+    "markPrice": "5104.01824866"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00000549",
+    "markPrice": "5108.60246966"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5208.55443053"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5282.43526219"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00003590",
+    "markPrice": "5360.02596852"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5212.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00001613",
+    "markPrice": "5169.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "5198.48548402"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00001833",
+    "markPrice": "5226.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00008120",
+    "markPrice": "5291.81631341"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "5251.88127629"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5254.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5377.17468315"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5494.53390807"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "5514.46997440"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5523.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "5585.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5702.93100120"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "5702.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "6088.83936567"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "5783.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5867.88712367"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5847.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5846.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5767.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00003464",
+    "markPrice": "5591.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "-0.00003340",
+    "markPrice": "5673.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "5780.92562073"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5867.82759329"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5880.00926275"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "5975.27332475"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "6042.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "5978.68784540"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5658.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5581.16528140"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5686.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00009874",
+    "markPrice": "5498.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00010000",
+    "markPrice": "5605.91708235"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5628.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00004329",
+    "markPrice": "5639.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00007721",
+    "markPrice": "5643.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "5703.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00010000",
+    "markPrice": "5798.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "-0.00003673",
+    "markPrice": "5669.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "5462.71235447"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "-0.00009042",
+    "markPrice": "5522.60590000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5513.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00009396",
+    "markPrice": "5475.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5462.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "-0.00013997",
+    "markPrice": "5340.81779931"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5441.61507380"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5504.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00010000",
+    "markPrice": "5596.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "-0.00005708",
+    "markPrice": "5539.00499779"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00004384",
+    "markPrice": "5393.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "-0.00002354",
+    "markPrice": "5408.37805305"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "5437.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00000461",
+    "markPrice": "5689.00249504"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "5995.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "5846.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5858.14914540"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "5920.27519358"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5808.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "5734.00984026"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5764.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5554.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5547.82854612"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5347.61742310"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5427.14671174"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5466.51295569"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "-0.00003005",
+    "markPrice": "5522.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "-0.00013364",
+    "markPrice": "5475.08367838"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "5506.79795774"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5456.38827311"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "5535.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "5443.20833141"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5472.00217037"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5315.03629951"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00010000",
+    "markPrice": "5294.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5315.62725090"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00006216",
+    "markPrice": "5355.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "5376.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00008206",
+    "markPrice": "5351.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5384.50003016"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "5355.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "-0.00009772",
+    "markPrice": "5255.08725583"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "0.00008897",
+    "markPrice": "5293.72501333"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "5191.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5186.84538373"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "5334.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00005862",
+    "markPrice": "5223.10298304"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "5287.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5256.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5339.92970508"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "5321.15113281"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00002522",
+    "markPrice": "5185.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00002681",
+    "markPrice": "5131.35855380"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "5161.78286789"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "5288.36308567"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5229.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5234.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "5199.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00009651",
+    "markPrice": "5169.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5170.09963590"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5193.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5239.35053136"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "5218.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5239.00000000"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5345.78253635"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "5324.00000000"
+  }
+]

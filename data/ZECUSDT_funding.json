@@ -1,0 +1,1208 @@
+[
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "-0.00006031",
+    "markPrice": "39.54000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.09000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "-0.00023233",
+    "markPrice": "39.78000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "-0.00013729",
+    "markPrice": "39.17000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00003794",
+    "markPrice": "39.17233333"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "-0.00012655",
+    "markPrice": "38.20000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "38.73000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00002611",
+    "markPrice": "39.28000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "38.86411438"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "38.66000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "38.74853922"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00008282",
+    "markPrice": "38.66513399"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.83441013"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.68000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "-0.00000628",
+    "markPrice": "40.45514379"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.01335621"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.98000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.67000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.30000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.02757394"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.59130065"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.53000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.04076471"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.37801307"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.72000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.26775000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.03846405"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.36000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.36000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.14117647"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.81000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.11192157"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.96000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.25000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.73956373"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.37407190"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.30411765"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.21784150"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.28094608"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.49666993"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "45.44003922"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "45.93099510"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "45.05000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.28420098"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.86000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.32366176"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.68000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.40000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "45.53292157"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.98000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "45.60998203"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "45.16559967"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.59245915"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.00420261"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.52470588"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.09064542"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.19917320"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.05000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.32529412"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.10705882"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.25411765"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.20000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.49525327"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.88329575"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.78000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.80446078"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.40156863"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.19372549"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.51274510"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.60578431"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.84035458"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.56842974"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.79000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00007877",
+    "markPrice": "40.60996405"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.15000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00008859",
+    "markPrice": "40.10000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.51294608"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.23000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00007943",
+    "markPrice": "38.99842157"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "38.41000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.07000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00007142",
+    "markPrice": "38.03000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "0.00005332",
+    "markPrice": "36.92000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "-0.00023320",
+    "markPrice": "35.98000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "36.63990196"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "35.87000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "35.79443170"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "35.18313725"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "35.41147059"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00002580",
+    "markPrice": "35.46710784"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "-0.00009741",
+    "markPrice": "36.37000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "36.12881699"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "36.45000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "36.79000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "37.06035948"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "35.95497059"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "35.27000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "35.44926961"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "35.58550000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "35.93118519"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "36.07925000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "36.57000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "37.51198405"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "38.09440678"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "38.27012745"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "38.20121569"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "38.71000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.37000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.49000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.62396078"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "38.68000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "38.99000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.46990196"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.16000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "38.14000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "36.58000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "37.22774510"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.30611765"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.49000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "38.45000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.29000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.33823529"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.14000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "37.35069281"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00008322",
+    "markPrice": "36.61392157"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "38.23692974"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00003663",
+    "markPrice": "36.56000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00008922",
+    "markPrice": "36.38000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "36.44213725"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "36.57000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "36.71179902"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "37.25125490"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00010000",
+    "markPrice": "37.72440686"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "36.97000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "-0.00023591",
+    "markPrice": "35.53000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00005637",
+    "markPrice": "36.52000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "-0.00004686",
+    "markPrice": "35.30314869"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "35.78246405"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "35.29000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "-0.00000530",
+    "markPrice": "34.60769608"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "-0.00006032",
+    "markPrice": "36.98121469"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "38.39495425"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.02450817"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00008608",
+    "markPrice": "38.33000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.40000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "-0.00012449",
+    "markPrice": "42.53469935"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.03000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.76000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.95029412"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.79269608"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "43.21039216"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "44.78371220"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.49794118"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.85088235"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.57549020"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.32647059"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.44000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.77000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.93577451"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.56880882"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.79000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.79000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.83396569"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.26161601"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.47000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.31000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.45576797"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.44529412"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.94395425"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.12000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.05000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.91000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.00294118"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "39.97000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.28205882"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.39000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "-0.00004388",
+    "markPrice": "40.07000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00003476",
+    "markPrice": "39.34241340"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00000380",
+    "markPrice": "40.49905229"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.70000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.88000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.55263072"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.20616340"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.47235294"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.57000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00003220",
+    "markPrice": "40.50000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00005515",
+    "markPrice": "40.28000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00002353",
+    "markPrice": "40.70000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.74081090"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "40.70085784"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "41.04000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00007605",
+    "markPrice": "42.08000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "42.54000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.42000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "47.15000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00004224",
+    "markPrice": "47.60000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "-0.00008048",
+    "markPrice": "48.32000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "-0.00003800",
+    "markPrice": "49.07000000"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "48.77235131"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "50.65438889"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fundingTime": 1757404800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "50.22424346"
+  }
+]

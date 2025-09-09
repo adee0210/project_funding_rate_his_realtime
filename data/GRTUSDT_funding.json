@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "0.00005035",
+    "markPrice": "0.08253453"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "-0.00004175",
+    "markPrice": "0.08247000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "-0.00009697",
+    "markPrice": "0.08279000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "0.00000928",
+    "markPrice": "0.08169000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "-0.00009039",
+    "markPrice": "0.08245000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "-0.00005114",
+    "markPrice": "0.08246250"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00003451",
+    "markPrice": "0.08443000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00009886",
+    "markPrice": "0.08471299"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00005381",
+    "markPrice": "0.08528000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00004642",
+    "markPrice": "0.08367000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00006903",
+    "markPrice": "0.08306393"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00006552",
+    "markPrice": "0.08250000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00004254",
+    "markPrice": "0.08300000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08514000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08626794"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08713000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09030205"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09089214"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08972757"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09708114"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09768568"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09844645"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09619000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09756959"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09334541"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09584000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09844865"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10034595"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09943208"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10377784"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09985422"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09911845"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09683000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09904956"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10339395"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10346730"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10322000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10384000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10504000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10488541"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10632585"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.11183000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10811794"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10681000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10804000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10574905"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10997150"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.11167467"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.11686135"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.11569108"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.11876230"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.11797946"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.11468526"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.11052828"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.11076282"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.11354000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.11078000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10568661"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10256637"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00009153",
+    "markPrice": "0.10156000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10552326"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10257595"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10116255"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10108000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10489778"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10423843"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10523482"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10507000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10654504"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10768336"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10987000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.11160459"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10574062"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10299676"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00003524",
+    "markPrice": "0.10648157"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10178000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00002203",
+    "markPrice": "0.10211660"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00001685",
+    "markPrice": "0.10073650"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00000559",
+    "markPrice": "0.09930000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00009565",
+    "markPrice": "0.10025000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10191761"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00008217",
+    "markPrice": "0.09816194"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "-0.00000144",
+    "markPrice": "0.09400000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "-0.00014106",
+    "markPrice": "0.09267432"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "-0.00003875",
+    "markPrice": "0.09261807"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00002172",
+    "markPrice": "0.09068770"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00007640",
+    "markPrice": "0.09101193"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "-0.00000488",
+    "markPrice": "0.08805000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00009214",
+    "markPrice": "0.08838000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08992696"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00006673",
+    "markPrice": "0.09116112"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00000531",
+    "markPrice": "0.09132000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00000024",
+    "markPrice": "0.09250000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09317973"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09337000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00003261",
+    "markPrice": "0.08938000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00002124",
+    "markPrice": "0.08841547"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "-0.00012898",
+    "markPrice": "0.08978166"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "-0.00000311",
+    "markPrice": "0.09061332"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00004662",
+    "markPrice": "0.09253558"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09179000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00000428",
+    "markPrice": "0.09295943"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09444309"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09558052"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09473423"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09377049"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09572000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09843129"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09931000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10008806"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09740000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09829516"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09925000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09921676"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "-0.00000054",
+    "markPrice": "0.09648730"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00006794",
+    "markPrice": "0.09327036"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00003497",
+    "markPrice": "0.09414162"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09832000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10137865"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10203926"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10277345"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10149000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.10038460"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09387172"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00002286",
+    "markPrice": "0.09278000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00006757",
+    "markPrice": "0.09418494"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "-0.00005959",
+    "markPrice": "0.09006000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00003801",
+    "markPrice": "0.09292754"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09391000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09488000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00006187",
+    "markPrice": "0.09466641"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09545352"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09709000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09394706"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "-0.00011725",
+    "markPrice": "0.09057000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00002854",
+    "markPrice": "0.09169639"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09114703"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "-0.00000476",
+    "markPrice": "0.09019000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08962000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "-0.00006819",
+    "markPrice": "0.08831496"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "-0.00006378",
+    "markPrice": "0.08941000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00003147",
+    "markPrice": "0.09111000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09252000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09128000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "-0.00000561",
+    "markPrice": "0.08944000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08950000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00009922",
+    "markPrice": "0.09034184"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00008569",
+    "markPrice": "0.09442141"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09703056"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09512000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09467675"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09552358"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09222000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09272919"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09404000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09009000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00003422",
+    "markPrice": "0.08989000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "-0.00021864",
+    "markPrice": "0.08631424"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "-0.00005162",
+    "markPrice": "0.08802000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00006332",
+    "markPrice": "0.08898038"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08991000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08948000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00009824",
+    "markPrice": "0.09105000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09050027"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09175000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09253000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09344519"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08919868"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "-0.00000102",
+    "markPrice": "0.08768097"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "-0.00000135",
+    "markPrice": "0.08773000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00006133",
+    "markPrice": "0.08947162"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00009499",
+    "markPrice": "0.08904000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08938416"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09055000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09038551"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08839000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "-0.00002906",
+    "markPrice": "0.08997271"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00004527",
+    "markPrice": "0.08722073"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "-0.00021583",
+    "markPrice": "0.08715000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00004983",
+    "markPrice": "0.08801498"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08666000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08910000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08926216"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09059000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08938648"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08705370"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00004122",
+    "markPrice": "0.08676591"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08663000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08994691"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08805243"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08860000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08782954"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08737000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08761515"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08890859"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08904866"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08890000"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.08942993"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09173805"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.09172649"
+  }
+]

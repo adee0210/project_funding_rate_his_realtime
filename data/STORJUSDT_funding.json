@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "-0.00001253",
+    "markPrice": "0.24450229"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "0.00000682",
+    "markPrice": "0.24330000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "0.00001732",
+    "markPrice": "0.24360000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "0.00007937",
+    "markPrice": "0.24000219"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24210000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "-0.00016507",
+    "markPrice": "0.24194969"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24604984"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "-0.00011949",
+    "markPrice": "0.24800000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "-0.00019919",
+    "markPrice": "0.24910448"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24600000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24560000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24530000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24690000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00000971",
+    "markPrice": "0.25410000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00005835",
+    "markPrice": "0.26003823"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25890000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26520000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26530510"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26200000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27740000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27893630"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28180000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28570000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30681318"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "-0.00010951",
+    "markPrice": "0.29160000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29610000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29790000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29890000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29552844"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30270000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29539688"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29500000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28840000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29320000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30160000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30270000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29990000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30230734"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29990000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30001875"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30271839"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30740000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30528125"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30416130"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30330000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29750000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30770000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31594885"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32023172"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31490172"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31929578"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32013552"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32120703"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31506807"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.31840469"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32457521"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.32030000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30968578"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29930000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28668125"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29433281"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29088750"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28442500"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28563146"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29550000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29462292"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29585927"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29380000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30385115"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30029177"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30373714"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.30450000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.29043510"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28092229"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28893612"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28150000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28305208"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27670000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27970000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28164172"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28540000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27582458"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26610000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26200760"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26320000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25910000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26000807"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25340000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25320000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25723245"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25810000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25879219"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26054135"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26230083"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27160000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26400000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26058693"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26014062"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25919029"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26129784"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25960000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26047402"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26780000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27066297"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27068846"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26740000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27453942"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27950000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28020000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28094551"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00009067",
+    "markPrice": "0.27870000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27940481"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28264673"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27924526"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27610000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26820000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "-0.00002619",
+    "markPrice": "0.26930000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27680000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28115312"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28400000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28800000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28980000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.28560135"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26710000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26159932"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26598125"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25350526"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25960308"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26272051"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26860000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27415218"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27500000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27730000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27010000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25902090"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26237745"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26180000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26001005"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00009079",
+    "markPrice": "0.25980000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00006113",
+    "markPrice": "0.25417042"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25710000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00008021",
+    "markPrice": "0.25990000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26352573"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26200000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "-0.00000730",
+    "markPrice": "0.25520000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25570589"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25571594"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26560870"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27498583"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27387188"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27060000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.27290000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26500000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26390000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26800000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26083479"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26010000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24880000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25233188"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25550000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26070000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25740000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25970000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25890000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26074120"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26280000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26580000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25562344"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25160000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25330000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25990000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25780000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25920000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26055281"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.26074141"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25476202"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "0.00008207",
+    "markPrice": "0.25642667"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25020000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00004973",
+    "markPrice": "0.25050969"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25485927"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25102276"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25596542"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25318724"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25880000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25825312"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25050807"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24833677"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24860000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25410000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25170000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25330000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25061573"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24825333"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.24940000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25050000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25253953"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25230000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25210000"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25848505"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.25864141"
+  }
+]

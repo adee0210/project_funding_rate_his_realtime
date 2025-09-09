@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02086116"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "-0.00010937",
+    "markPrice": "0.02079600"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02090700"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02065579"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02068100"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02046000"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02089446"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02083994"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02086796"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02056526"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00004096",
+    "markPrice": "0.02040300"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00004398",
+    "markPrice": "0.02034700"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02042700"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02089598"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02121000"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02172424"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02240000"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02253144"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02234500"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02405400"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02446388"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02473253"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02402138"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02436859"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02330500"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02362300"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02442800"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02494000"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02464258"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02552279"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02454760"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02431441"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02387563"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02430748"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02519451"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02520100"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02490900"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02556511"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02550974"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02571826"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02640000"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02803409"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02719464"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02706000"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02762500"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02667800"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02781300"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02811900"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02903984"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02838461"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02905669"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02886821"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02836878"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02739618"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02760636"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02812893"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02734864"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02615602"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02533500"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00008907",
+    "markPrice": "0.02427200"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02553491"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00005103",
+    "markPrice": "0.02476581"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02461330"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02482700"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02575863"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02566738"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02587783"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02579381"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02603300"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02575600"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02633957"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02634400"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02519844"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "-0.00062019",
+    "markPrice": "0.02477317"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02552800"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02473720"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02525136"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02482700"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02460300"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02447502"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02462680"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02380387"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "0.00003998",
+    "markPrice": "0.02306600"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00003481",
+    "markPrice": "0.02276356"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00005229",
+    "markPrice": "0.02324454"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02262700"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00007756",
+    "markPrice": "0.02280000"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02211669"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00008568",
+    "markPrice": "0.02218200"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02259000"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "-0.00007908",
+    "markPrice": "0.02326900"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00000689",
+    "markPrice": "0.02302400"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02321400"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02324100"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02369000"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02288081"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02271500"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00007413",
+    "markPrice": "0.02295642"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02324900"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02346387"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02347033"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02347100"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02401247"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02443249"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02449411"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02402800"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02456704"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02513662"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02503247"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02517618"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02480200"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02520111"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02514368"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02513632"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02470243"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02468800"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02455800"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02518430"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02569839"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02577176"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02616759"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02651206"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02623559"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02495400"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00009540",
+    "markPrice": "0.02461400"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00002735",
+    "markPrice": "0.02499569"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "-0.00002770",
+    "markPrice": "0.02397647"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02432400"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02459000"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "-0.00001709",
+    "markPrice": "0.02473300"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02462540"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02501156"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02562500"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02475692"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02359700"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02380100"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00003070",
+    "markPrice": "0.02382800"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02344636"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02326800"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00007088",
+    "markPrice": "0.02294044"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02297700"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00007351",
+    "markPrice": "0.02367000"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02386600"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02421400"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02363100"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "-0.00000327",
+    "markPrice": "0.02363300"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00009831",
+    "markPrice": "0.02366755"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02443848"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02534817"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02563378"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02523800"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02557800"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02487900"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02519279"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02601900"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "-0.00012835",
+    "markPrice": "0.02547600"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02573881"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "-0.00001194",
+    "markPrice": "0.02422400"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00006007",
+    "markPrice": "0.02441629"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02466008"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02514200"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02472400"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02502778"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02486831"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02526933"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02542443"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02561200"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02461300"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02417231"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02424000"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02456000"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02466400"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02468444"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02451100"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00007932",
+    "markPrice": "0.02457300"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00006748",
+    "markPrice": "0.02412300"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "0.00005338",
+    "markPrice": "0.02446661"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02368100"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02351695"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02361342"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02344300"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02388000"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02366779"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02403600"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02391400"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00007854",
+    "markPrice": "0.02330438"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00002572",
+    "markPrice": "0.02316067"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02312000"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02369586"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02343800"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02357000"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02335600"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02321777"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02330100"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02349200"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02359600"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02351800"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02372182"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02433800"
+  },
+  {
+    "symbol": "VETUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02434219"
+  }
+]

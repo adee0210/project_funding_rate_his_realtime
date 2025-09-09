@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01022000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01009540"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01082500"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01156267"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01357177"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01256938"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01218119"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01189625"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01257000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01237000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01213000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00018653",
+    "markPrice": "0.01231594"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00036718",
+    "markPrice": "0.01220148"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00047036",
+    "markPrice": "0.01252000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01231000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01220900"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00087103",
+    "markPrice": "0.01258431"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01236150"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01193750"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00099582",
+    "markPrice": "0.01365000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00119600",
+    "markPrice": "0.01371642"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01353421"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01744000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01586875"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01625781"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01651454"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01621000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01634000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01629000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01605448"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01563000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01590585"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01504500"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01536888"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01584000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01592038"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00027963",
+    "markPrice": "0.01565881"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00018682",
+    "markPrice": "0.01573000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01561000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01535379"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00048856",
+    "markPrice": "0.01562000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00103926",
+    "markPrice": "0.01618879"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00058362",
+    "markPrice": "0.01579000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00040926",
+    "markPrice": "0.01591000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00023092",
+    "markPrice": "0.01598025"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00013419",
+    "markPrice": "0.01598000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01650000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01674000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00030494",
+    "markPrice": "0.01703031"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00042462",
+    "markPrice": "0.01695000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00072817",
+    "markPrice": "0.01686196"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00032007",
+    "markPrice": "0.01690000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01674625"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00039190",
+    "markPrice": "0.01606492"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00046332",
+    "markPrice": "0.01611192"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00040418",
+    "markPrice": "0.01659000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00072623",
+    "markPrice": "0.01688942"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00063809",
+    "markPrice": "0.01625000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01513460"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00017086",
+    "markPrice": "0.01437912"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01467675"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01448817"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01447000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01441976"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01510667"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01531000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01552000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01553000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01554053"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01549000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01572000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01584074"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01505000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01429927"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01473000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01443748"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01467400"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01431000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "-0.00024058",
+    "markPrice": "0.01440975"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01461008"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01477744"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01438000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "-0.00044228",
+    "markPrice": "0.01418133"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01434000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01449288"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01446650"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01416350"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01356362"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "-0.00032362",
+    "markPrice": "0.01396725"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01456000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01440000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01440575"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01448000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01438000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01447538"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01396138"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01400000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01402933"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01442520"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01434160"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01450376"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00036400",
+    "markPrice": "0.01628000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00052932",
+    "markPrice": "0.01491000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00061319",
+    "markPrice": "0.01470000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00010400",
+    "markPrice": "0.01449492"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00055795",
+    "markPrice": "0.01480988"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00025381",
+    "markPrice": "0.01518792"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00042774",
+    "markPrice": "0.01767000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00059856",
+    "markPrice": "0.01770156"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00055951",
+    "markPrice": "0.01766265"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00054810",
+    "markPrice": "0.01743552"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00036024",
+    "markPrice": "0.01680675"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00067812",
+    "markPrice": "0.01653262"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00038422",
+    "markPrice": "0.01626000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00011325",
+    "markPrice": "0.01605000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01539673"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01563000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00014035",
+    "markPrice": "0.01590550"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01608428"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00053956",
+    "markPrice": "0.01596515"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00028831",
+    "markPrice": "0.01641000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01629102"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00028705",
+    "markPrice": "0.01593475"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01479959"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01451504"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01482000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01423050"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01474000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01485967"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00011838",
+    "markPrice": "0.01494044"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00022375",
+    "markPrice": "0.01524093"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01619000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00044874",
+    "markPrice": "0.01650402"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00010192",
+    "markPrice": "0.01624503"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "0.00017718",
+    "markPrice": "0.01543000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00010764",
+    "markPrice": "0.01544000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01539352"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01571867"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00020007",
+    "markPrice": "0.01541554"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01435576"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01465000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00035866",
+    "markPrice": "0.01480538"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01482000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01458000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01423037"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01433000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00023596",
+    "markPrice": "0.01423000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00036111",
+    "markPrice": "0.01479850"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00046383",
+    "markPrice": "0.01531000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00043123",
+    "markPrice": "0.01501390"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01512000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01511479"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01461110"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01475792"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01467694"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01424175"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01441579"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01415000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01428000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01444616"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01475419"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01459575"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01469871"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01451000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00049363",
+    "markPrice": "0.01484000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01493000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01517000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01455000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01420980"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01433000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00043760",
+    "markPrice": "0.01481000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01507904"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00017958",
+    "markPrice": "0.01523000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01510119"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01492988"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01452000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01451000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00047359",
+    "markPrice": "0.01428744"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00021335",
+    "markPrice": "0.01413000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00016600",
+    "markPrice": "0.01441960"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01430000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00048894",
+    "markPrice": "0.01478910"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01490000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00013161",
+    "markPrice": "0.01502000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01491094"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01422133"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01401000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01404850"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00021119",
+    "markPrice": "0.01441000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00015048",
+    "markPrice": "0.01425800"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00030718",
+    "markPrice": "0.01440767"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00019265",
+    "markPrice": "0.01431000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00048427",
+    "markPrice": "0.01429000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00057599",
+    "markPrice": "0.01454129"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00018321",
+    "markPrice": "0.01461784"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00053800",
+    "markPrice": "0.01513683"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00021454",
+    "markPrice": "0.01536398"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00025552",
+    "markPrice": "0.01514000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00029653",
+    "markPrice": "0.01475000"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01493440"
+  }
+]

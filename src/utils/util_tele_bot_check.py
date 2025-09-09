@@ -30,6 +30,7 @@ class UtilTeleBotCheck:
             Message: {message.capitalize()}
             Datetime: {datetime.now()}
             Level log: {warning}
+        Wait the 30s to check next time!
             """
             response = requests.post(
                 url=self.tele_url,

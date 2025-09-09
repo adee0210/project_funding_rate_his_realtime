@@ -1,0 +1,1208 @@
+[
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "0.00002691",
+    "markPrice": "2499.61877132"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "0.00001406",
+    "markPrice": "2506.87000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "0.00003958",
+    "markPrice": "2520.36000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "0.00005542",
+    "markPrice": "2506.89000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00003909",
+    "markPrice": "2515.26000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "0.00006583",
+    "markPrice": "2516.90000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00008149",
+    "markPrice": "2557.70000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2569.50603101"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "2577.57985659"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "-0.00003011",
+    "markPrice": "2532.61000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00007589",
+    "markPrice": "2541.20732946"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00002787",
+    "markPrice": "2552.16904651"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00006466",
+    "markPrice": "2563.60000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00004903",
+    "markPrice": "2613.98000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00006771",
+    "markPrice": "2623.77394186"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00006268",
+    "markPrice": "2655.40000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "2767.79068217"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00002808",
+    "markPrice": "2789.75650775"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00003187",
+    "markPrice": "2768.34000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "2951.00392196"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "2968.35000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "2950.27991920"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00008032",
+    "markPrice": "2957.03212403"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00007671",
+    "markPrice": "2961.79344574"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00006119",
+    "markPrice": "2914.74546899"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00004151",
+    "markPrice": "2941.87000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00004407",
+    "markPrice": "2961.48118605"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00007205",
+    "markPrice": "2991.26778682"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00000998",
+    "markPrice": "2970.48246124"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3043.65000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3011.18300388"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00006134",
+    "markPrice": "3012.55427519"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "2976.35000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3038.99000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3138.47018605"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3160.84107752"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "3243.40000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "3371.07215891"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3448.20200000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3420.15697674"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "3476.66000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3608.01628876"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3565.00000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "3546.36000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3570.57573643"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "3551.36022093"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3591.31000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3667.19986434"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3785.38000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "3755.99508915"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3786.97000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "3808.90000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3760.96000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "3676.29012403"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "3717.78744186"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3746.14636047"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "3672.59889922"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "3643.58769574"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3627.41000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "3590.44418992"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3730.40000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3705.61000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3631.66711628"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3632.12027907"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "3724.17000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "3741.03000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "3734.52000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00009322",
+    "markPrice": "3740.00000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00008879",
+    "markPrice": "3766.68744961"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "3817.84531977"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "3871.48000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3892.24032171"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3806.41156504"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00004494",
+    "markPrice": "3796.29532927"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3876.53000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3760.15457752"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00002488",
+    "markPrice": "3791.72222093"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00005083",
+    "markPrice": "3809.50083721"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00001540",
+    "markPrice": "3795.76000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00005162",
+    "markPrice": "3808.66000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "3862.30686822"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "-0.00001180",
+    "markPrice": "3786.17831395"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "-0.00003749",
+    "markPrice": "3696.57000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00001113",
+    "markPrice": "3649.40456589"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00004859",
+    "markPrice": "3614.54152713"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00005795",
+    "markPrice": "3486.42000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00000657",
+    "markPrice": "3517.54000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00007965",
+    "markPrice": "3457.78000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00006733",
+    "markPrice": "3392.41000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00005752",
+    "markPrice": "3454.28105814"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00003767",
+    "markPrice": "3474.80000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00001719",
+    "markPrice": "3495.01000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00001113",
+    "markPrice": "3550.47000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00003611",
+    "markPrice": "3646.90090310"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00000147",
+    "markPrice": "3719.41000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00003116",
+    "markPrice": "3611.75000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00001370",
+    "markPrice": "3569.54463953"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00002413",
+    "markPrice": "3610.19000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00008200",
+    "markPrice": "3638.40000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00006246",
+    "markPrice": "3663.51893411"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00006227",
+    "markPrice": "3681.32459302"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00004285",
+    "markPrice": "3701.00000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "3835.15000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00004260",
+    "markPrice": "3908.70249885"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "3914.88000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "3953.00564865"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "4009.04000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4169.71000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "4207.61204505"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00009916",
+    "markPrice": "4259.25177027"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "4184.36000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "4216.37707658"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00008873",
+    "markPrice": "4248.78000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00009354",
+    "markPrice": "4273.17322868"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4328.87000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00003659",
+    "markPrice": "4221.31000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "4314.23000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "4470.98000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4589.31000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "4624.29000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "4664.38954070"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "4748.37000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "4747.72583333"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4618.00000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4545.65822868"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00009765",
+    "markPrice": "4639.52553876"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00006474",
+    "markPrice": "4428.82236822"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00005967",
+    "markPrice": "4437.36567568"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00008990",
+    "markPrice": "4449.25000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00001968",
+    "markPrice": "4398.62610811"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00004669",
+    "markPrice": "4420.21000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "-0.00000668",
+    "markPrice": "4465.00000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00005334",
+    "markPrice": "4559.57000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00000632",
+    "markPrice": "4470.87273874"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "0.00009191",
+    "markPrice": "4255.03000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00008959",
+    "markPrice": "4343.33752713"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4311.97000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "4232.60000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4190.33000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4073.93000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "0.00000318",
+    "markPrice": "4183.66000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00009070",
+    "markPrice": "4253.61408915"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00006232",
+    "markPrice": "4334.50000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00005834",
+    "markPrice": "4309.00000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00002689",
+    "markPrice": "4240.90000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00006376",
+    "markPrice": "4223.69000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00006670",
+    "markPrice": "4326.35375388"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00006004",
+    "markPrice": "4613.93000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "4829.83000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "4712.85000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4749.55669380"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "4777.42490540"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "4757.66000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "4796.45056589"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00004932",
+    "markPrice": "4778.33000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00004567",
+    "markPrice": "4589.77243023"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00001732",
+    "markPrice": "4610.84970543"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "-0.00000739",
+    "markPrice": "4374.35998450"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00001080",
+    "markPrice": "4427.38000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00001029",
+    "markPrice": "4517.19067829"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "-0.00000819",
+    "markPrice": "4598.68597674"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00001933",
+    "markPrice": "4578.60000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00004152",
+    "markPrice": "4655.31000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00005965",
+    "markPrice": "4504.93858140"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00002643",
+    "markPrice": "4594.81000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00002175",
+    "markPrice": "4502.00051550"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00001728",
+    "markPrice": "4509.34136822"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00004981",
+    "markPrice": "4379.50601938"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00001496",
+    "markPrice": "4313.86000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00004162",
+    "markPrice": "4358.64000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "-0.00001108",
+    "markPrice": "4400.08000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00004057",
+    "markPrice": "4374.27000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "-0.00001390",
+    "markPrice": "4371.99000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00005543",
+    "markPrice": "4449.41955039"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "-0.00001154",
+    "markPrice": "4482.69935271"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "-0.00002114",
+    "markPrice": "4390.47237485"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "-0.00001300",
+    "markPrice": "4461.17395349"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00000122",
+    "markPrice": "4360.43208915"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00000406",
+    "markPrice": "4313.01000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00005513",
+    "markPrice": "4376.35000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00003026",
+    "markPrice": "4293.55000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00001812",
+    "markPrice": "4324.59000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "-0.00000111",
+    "markPrice": "4308.42511240"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00003174",
+    "markPrice": "4477.11681783"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00002311",
+    "markPrice": "4448.63827907"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "-0.00002012",
+    "markPrice": "4368.81000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "-0.00002527",
+    "markPrice": "4303.28791860"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "-0.00005540",
+    "markPrice": "4296.12586822"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "-0.00003456",
+    "markPrice": "4415.35654651"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00002866",
+    "markPrice": "4280.61000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "-0.00002104",
+    "markPrice": "4305.70000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00003956",
+    "markPrice": "4310.42317442"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00004060",
+    "markPrice": "4267.82208915"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00005946",
+    "markPrice": "4271.31000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00008938",
+    "markPrice": "4292.99000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00003335",
+    "markPrice": "4297.20504651"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00002556",
+    "markPrice": "4304.15389147"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00002063",
+    "markPrice": "4289.82000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00009082",
+    "markPrice": "4369.83000000"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00004706",
+    "markPrice": "4303.98665891"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1757404800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "4360.43000000"
+  }
+]

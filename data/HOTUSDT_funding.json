@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00082365"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00081950"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00082400"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00081211"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00082054"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00081800"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00083596"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00083800"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00084453"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00083600"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00082950"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00082445"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00004248",
+    "markPrice": "0.00083000"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00084300"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00085000"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00085171"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00088234"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00088726"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00088037"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094804"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00096830"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00097793"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00096068"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00099150"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094111"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095451"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00096600"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00098500"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00097500"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00101600"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00098207"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00097333"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095641"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00098462"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00102031"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00103700"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00103000"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00104780"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00104155"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00104400"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00104996"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00108940"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00106100"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00104900"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00104909"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00103705"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00107849"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "-0.00025663",
+    "markPrice": "0.00117985"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00123162"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00118500"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00121700"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00121696"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00119386"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00115500"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00116000"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00118500"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00117250"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00112788"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00108438"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00103999"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00107157"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00104747"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00103000"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00102961"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00106782"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00106597"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00107500"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00107171"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00108500"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00107727"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00109684"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00109557"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00105514"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00102200"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00106788"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00102216"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00102519"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00101557"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00100400"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00101400"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00103608"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00099700"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095966"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094600"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095189"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00092604"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00093450"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00090810"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00090262"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00092600"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00093698"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00093554"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095200"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095900"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00097900"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094220"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00093104"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00093800"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094800"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00096200"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095951"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00096200"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00098152"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00100097"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00100385"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00099597"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00101702"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00105000"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00104300"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00105046"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00102700"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00102676"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00103076"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00103300"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00101573"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00098421"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00099491"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00102777"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00103252"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00103955"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00104400"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00106549"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00104900"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094716"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00093800"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095700"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00091100"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094511"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094842"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00097157"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00099950"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00101262"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00102171"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00100092"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094918"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00096064"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00001154",
+    "markPrice": "0.00095400"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094200"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00003833",
+    "markPrice": "0.00094900"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00093605"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095756"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00099021"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00100210"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00099150"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00096733"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095750"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "-0.00002014",
+    "markPrice": "0.00096100"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "-0.00002657",
+    "markPrice": "0.00099200"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00103710"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00101530"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00101624"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00101811"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00097949"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00098400"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00099560"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095806"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095500"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00092633"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094505"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095300"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00097000"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00096200"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00097092"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095591"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00097900"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00097904"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00098452"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094028"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00093220"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00092950"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095300"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094900"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095300"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095900"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094931"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00093500"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094505"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00092033"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00092085"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00092700"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00091861"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00093325"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00093587"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094851"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00094495"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00091800"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00091100"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00091034"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00093608"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00092313"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00093100"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00092489"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00091900"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00092308"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00092800"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00093749"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00093800"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00093700"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00096100"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.00095711"
+  }
+]

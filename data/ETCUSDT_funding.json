@@ -1,0 +1,1208 @@
+[
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "0.00007537",
+    "markPrice": "16.25167647"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "0.00002855",
+    "markPrice": "16.27737157"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "-0.00012774",
+    "markPrice": "16.36000000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "-0.00005035",
+    "markPrice": "16.22004216"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "-0.00002974",
+    "markPrice": "16.35300000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "-0.00007615",
+    "markPrice": "16.28800000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00001450",
+    "markPrice": "16.61200000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "16.62800000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "16.67871054"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00005421",
+    "markPrice": "16.54600000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "16.66501373"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00000945",
+    "markPrice": "16.46900000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00005419",
+    "markPrice": "16.58705000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00007707",
+    "markPrice": "16.92700000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00006231",
+    "markPrice": "17.01564804"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "17.14137941"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "17.65005294"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "17.68600000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "17.49900000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "18.48904706"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "18.43732647"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "18.54415364"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "18.26116667"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "18.45066863"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "17.83200000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "18.13700000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "18.29851569"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "18.46900000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "18.44700000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "19.08437059"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "18.73600000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "18.55226765"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "18.00600000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "18.24694118"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "19.06000000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "19.58462255"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "19.62500000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "19.88115172"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "19.98600000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "19.90725539"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.26591304"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.88785554"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.19000000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.18100000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "24.69962961"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.26987451"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00004327",
+    "markPrice": "24.34145495"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "24.83313284"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "25.20829706"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "24.69585882"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "24.78667569"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "24.47100000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "24.01950980"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.56400000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "24.13272549"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "24.25364882"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.78969338"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.75600000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.53138235"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.12979054"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.68100000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.26385882"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.88968824"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.82700000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.69568598"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.94400000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.81000000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.80258919"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.86014054"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.93575441"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.29300000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.37900000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.18043895"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.89469429"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.35700000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.85474865"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.75000000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.49178514"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00008394",
+    "markPrice": "21.35200000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.38538739"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.75900000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00004729",
+    "markPrice": "21.35851423"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "0.00008565",
+    "markPrice": "20.54730360"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00005753",
+    "markPrice": "20.17200000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00008904",
+    "markPrice": "20.13512883"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "19.77000000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "19.90079577"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "19.54700000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "19.18416721"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00008771",
+    "markPrice": "19.35400000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "0.00008056",
+    "markPrice": "19.73900000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "-0.00002137",
+    "markPrice": "19.85000000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00000190",
+    "markPrice": "20.08233243"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.53681532"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "-0.00000832",
+    "markPrice": "20.97177775"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.28600000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.01122059"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00009749",
+    "markPrice": "20.17388275"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.19333039"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.31115637"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00002726",
+    "markPrice": "20.28010392"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00003002",
+    "markPrice": "20.29200000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00005764",
+    "markPrice": "20.94500000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.53543384"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00008218",
+    "markPrice": "21.69200000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00005337",
+    "markPrice": "21.82300000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.38200000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.23458688"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.14800554"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.60300000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.79737769"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.20428667"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.16200000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.96242703"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.87300000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.19517604"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.47300000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00008142",
+    "markPrice": "23.45700000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.67670000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.93000000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.93203536"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "24.25680541"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.62557923"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.50918604"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.17651667"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "-0.00001785",
+    "markPrice": "22.45200000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "0.00008049",
+    "markPrice": "21.73503599"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "0.00005946",
+    "markPrice": "22.21417446"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.26800000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.27362903"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.36400000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.48936156"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "0.00009392",
+    "markPrice": "22.83981022"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "0.00009477",
+    "markPrice": "22.23100000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "0.00005648",
+    "markPrice": "21.27475000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "0.00003698",
+    "markPrice": "21.54429887"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "0.00004558",
+    "markPrice": "21.51600000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.22100000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.01700000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00004601",
+    "markPrice": "20.51813378"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "0.00001221",
+    "markPrice": "20.74600000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "0.00006644",
+    "markPrice": "21.11600000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "0.00009396",
+    "markPrice": "21.55163464"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.47286477"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "0.00009343",
+    "markPrice": "20.96900000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.00600000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "0.00001674",
+    "markPrice": "21.22315811"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "0.00004708",
+    "markPrice": "23.13000000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "24.49900000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.98832342"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "24.11299797"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "24.21000000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.41800000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.34000000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "23.22624595"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "22.06803514"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "0.00002024",
+    "markPrice": "21.77000000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.06824707"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00007339",
+    "markPrice": "21.18298748"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "-0.00002824",
+    "markPrice": "21.37787883"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "-0.00005040",
+    "markPrice": "21.66100000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "0.00005329",
+    "markPrice": "21.56800000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "-0.00000960",
+    "markPrice": "21.93800000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.50275086"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.80300000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.58705950"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.68541081"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.94700000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.71660374"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00007643",
+    "markPrice": "20.91100000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.05800000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.92700000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.93566937"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.06000000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.08710766"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.68030270"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "21.02740541"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "0.00005208",
+    "markPrice": "20.53700000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "0.00001361",
+    "markPrice": "20.49227477"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "0.00009593",
+    "markPrice": "20.70651441"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.49178806"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.79544955"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.67710901"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "0.00006936",
+    "markPrice": "21.03196036"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.82951892"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "-0.00013764",
+    "markPrice": "20.34611393"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "0.00002375",
+    "markPrice": "20.11900000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "-0.00000789",
+    "markPrice": "20.17500000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "0.00009610",
+    "markPrice": "20.85300000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.34144054"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "0.00005918",
+    "markPrice": "20.34800000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "0.00003736",
+    "markPrice": "20.38470270"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "0.00001980",
+    "markPrice": "20.11900000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "0.00003570",
+    "markPrice": "20.19500000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "0.00005013",
+    "markPrice": "20.38700000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "0.00006943",
+    "markPrice": "20.42826910"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "0.00003805",
+    "markPrice": "20.47347432"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "0.00006283",
+    "markPrice": "20.50500000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.92600000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.74500000"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fundingTime": 1757404800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "20.96439595"
+  }
+]

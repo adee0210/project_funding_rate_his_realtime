@@ -1,0 +1,1202 @@
+[
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1751644800001,
+    "fundingRate": "0.00000967",
+    "markPrice": "0.01712573"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1751673600004,
+    "fundingRate": "-0.00009412",
+    "markPrice": "0.01712329"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1751702400009,
+    "fundingRate": "0.00000904",
+    "markPrice": "0.01732000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1751731200006,
+    "fundingRate": "0.00008653",
+    "markPrice": "0.01670000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1751760000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01672000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1751788800002,
+    "fundingRate": "-0.00002047",
+    "markPrice": "0.01646000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1751817600004,
+    "fundingRate": "0.00004717",
+    "markPrice": "0.01670496"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1751846400000,
+    "fundingRate": "0.00000039",
+    "markPrice": "0.01680497"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1751875200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01695000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1751904000000,
+    "fundingRate": "0.00001733",
+    "markPrice": "0.01669831"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1751932800010,
+    "fundingRate": "0.00005103",
+    "markPrice": "0.01668713"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1751961600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01666000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1751990400000,
+    "fundingRate": "0.00002783",
+    "markPrice": "0.01685000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752019200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01714735"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752048000006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01737000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752076800001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01741000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752105600003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01792000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752134400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01830834"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752163200004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01831971"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752192000004,
+    "fundingRate": "-0.00087184",
+    "markPrice": "0.02132659"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752220800007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02046411"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752249600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02056734"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752278400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02041931"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752307200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02075000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752336000002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01989766"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752364800006,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02023701"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752393600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02072270"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752422400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02137605"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752451200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02114013"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752480000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02201000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752508800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02133559"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752537600002,
+    "fundingRate": "-0.00177339",
+    "markPrice": "0.02443000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752566400000,
+    "fundingRate": "-0.00064010",
+    "markPrice": "0.02366000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752595200000,
+    "fundingRate": "-0.00237312",
+    "markPrice": "0.02352000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752624000000,
+    "fundingRate": "-0.00064996",
+    "markPrice": "0.02384000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752652800000,
+    "fundingRate": "-0.00069795",
+    "markPrice": "0.02415357"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752681600008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02388853"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752710400003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02375078"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752739200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02380549"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752768000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02364353"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752796800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02371353"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752825600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02440194"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752854400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02333331"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752883200009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02289000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752912000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02311000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752940800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02295114"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752969600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02370139"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1752998400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02368064"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753027200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02434000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753056000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02532971"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753084800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02510842"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753113600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02453672"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753142400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02464714"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753171200010,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02366623"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753200000007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02375061"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753228800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02383282"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753257600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02402000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753286400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02292000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753315200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02244500"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753344000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02163529"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753372800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02232206"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753401600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02154000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753430400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02143674"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753459200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02175114"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753488000001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02250667"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753516800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02238489"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753545600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02230052"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753574400001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02224000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753603200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02276000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753632000008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02268875"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753660800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02313206"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753689600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02336353"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753718400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02238306"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753747200001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02139702"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753776000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02192739"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753804800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02118445"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753833600011,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02114617"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753862400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02073000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753891200008,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02070000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753920000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02093000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753948800009,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02146475"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1753977600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02073386"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754006400001,
+    "fundingRate": "-0.00000043",
+    "markPrice": "0.01981083"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754035200003,
+    "fundingRate": "0.00003056",
+    "markPrice": "0.01964000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754064000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01960824"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754092800004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01928000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754121600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01942000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754150400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01881000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754179200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01871448"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754208000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01922431"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754236800003,
+    "fundingRate": "-0.00003554",
+    "markPrice": "0.01968000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754265600004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01972039"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754294400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01996000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754323200002,
+    "fundingRate": "0.00001362",
+    "markPrice": "0.02022000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754352000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02044912"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754380800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01973683"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754409600000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01947163"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754438400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01960000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754467200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01959000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754496000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01989553"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754524800003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01972000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754553600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.01957566"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754582400002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02009000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754611200002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02043436"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754640000004,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02065464"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754668800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02053000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754697600005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02095107"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754726400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02160392"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754755200007,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02176071"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754784000003,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02172696"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754812800005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02165000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754841600002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02172893"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754870400000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02189402"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754899200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02152319"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754928000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02095000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754956800000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02033000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1754985600001,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02067195"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755014400005,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02138000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755043200000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02294000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755072000002,
+    "fundingRate": "-0.00575028",
+    "markPrice": "0.02905000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755100800006,
+    "fundingRate": "-0.00604253",
+    "markPrice": "0.02803618"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755129600002,
+    "fundingRate": "-0.00373144",
+    "markPrice": "0.02920000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755158400003,
+    "fundingRate": "-0.00727862",
+    "markPrice": "0.03984000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755187200000,
+    "fundingRate": "-0.00338027",
+    "markPrice": "0.04882000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755216000000,
+    "fundingRate": "-0.00649790",
+    "markPrice": "0.04943857"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755244800000,
+    "fundingRate": "-0.00411019",
+    "markPrice": "0.04522412"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755273600000,
+    "fundingRate": "-0.00057439",
+    "markPrice": "0.04082475"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755302400004,
+    "fundingRate": "-0.00025895",
+    "markPrice": "0.03769000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755331200000,
+    "fundingRate": "-0.00020368",
+    "markPrice": "0.03485065"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755360000002,
+    "fundingRate": "-0.00035320",
+    "markPrice": "0.03495267"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755388800000,
+    "fundingRate": "-0.00058057",
+    "markPrice": "0.04019000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755417600001,
+    "fundingRate": "-0.00050450",
+    "markPrice": "0.03526000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755446400007,
+    "fundingRate": "-0.00093015",
+    "markPrice": "0.03649000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755475200000,
+    "fundingRate": "-0.00206219",
+    "markPrice": "0.03850277"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755504000001,
+    "fundingRate": "-0.00038134",
+    "markPrice": "0.03496000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755532800002,
+    "fundingRate": "-0.00034798",
+    "markPrice": "0.03551727"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755561600000,
+    "fundingRate": "-0.00020110",
+    "markPrice": "0.03487306"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755590400001,
+    "fundingRate": "-0.00049196",
+    "markPrice": "0.03242000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755619200000,
+    "fundingRate": "-0.00039024",
+    "markPrice": "0.03172000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755648000000,
+    "fundingRate": "0.00003074",
+    "markPrice": "0.03065000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755676800000,
+    "fundingRate": "-0.00004749",
+    "markPrice": "0.03002000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755705600000,
+    "fundingRate": "-0.00003140",
+    "markPrice": "0.03086000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755734400006,
+    "fundingRate": "-0.00009753",
+    "markPrice": "0.03087000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755763200000,
+    "fundingRate": "-0.00011461",
+    "markPrice": "0.02982000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755792000003,
+    "fundingRate": "-0.00128247",
+    "markPrice": "0.03038162"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755820800010,
+    "fundingRate": "-0.00476962",
+    "markPrice": "0.03447002"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755849600007,
+    "fundingRate": "-0.00232654",
+    "markPrice": "0.03291000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755878400001,
+    "fundingRate": "-0.00348432",
+    "markPrice": "0.03847167"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755907200004,
+    "fundingRate": "0.00001821",
+    "markPrice": "0.03703399"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755936000006,
+    "fundingRate": "-0.00060382",
+    "markPrice": "0.03470478"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755964800000,
+    "fundingRate": "-0.00059403",
+    "markPrice": "0.03522336"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1755993600001,
+    "fundingRate": "-0.00051411",
+    "markPrice": "0.03425000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756022400002,
+    "fundingRate": "-0.00010692",
+    "markPrice": "0.03285000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756051200001,
+    "fundingRate": "-0.00053198",
+    "markPrice": "0.03255000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756080000000,
+    "fundingRate": "0.00005253",
+    "markPrice": "0.03198000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756108800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.03067317"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756137600002,
+    "fundingRate": "-0.00005420",
+    "markPrice": "0.03057947"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756166400000,
+    "fundingRate": "0.00000752",
+    "markPrice": "0.02917000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756195200000,
+    "fundingRate": "0.00004740",
+    "markPrice": "0.02868545"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756224000000,
+    "fundingRate": "-0.00002397",
+    "markPrice": "0.02879135"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756252800003,
+    "fundingRate": "-0.00023717",
+    "markPrice": "0.02934000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756281600000,
+    "fundingRate": "-0.00002087",
+    "markPrice": "0.02792388"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756310400009,
+    "fundingRate": "-0.00003513",
+    "markPrice": "0.02804583"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756339200000,
+    "fundingRate": "-0.00015264",
+    "markPrice": "0.02803000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756368000005,
+    "fundingRate": "-0.00042074",
+    "markPrice": "0.02831121"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756396800004,
+    "fundingRate": "-0.00070186",
+    "markPrice": "0.02797000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756425600000,
+    "fundingRate": "-0.00012330",
+    "markPrice": "0.02809014"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756454400000,
+    "fundingRate": "-0.00019191",
+    "markPrice": "0.02680000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756483200005,
+    "fundingRate": "0.00000944",
+    "markPrice": "0.02615086"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756512000000,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02623934"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756540800002,
+    "fundingRate": "0.00010000",
+    "markPrice": "0.02685402"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756569600003,
+    "fundingRate": "-0.01758319",
+    "markPrice": "0.03460949"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756598400016,
+    "fundingRate": "-0.00736661",
+    "markPrice": "0.03208000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756627200000,
+    "fundingRate": "-0.01198678",
+    "markPrice": "0.03350000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756656000001,
+    "fundingRate": "-0.00717374",
+    "markPrice": "0.03212000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756684800000,
+    "fundingRate": "-0.00518210",
+    "markPrice": "0.03107000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756713600000,
+    "fundingRate": "-0.00445725",
+    "markPrice": "0.03031155"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756742400001,
+    "fundingRate": "-0.00669520",
+    "markPrice": "0.03115000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756771200000,
+    "fundingRate": "-0.00346453",
+    "markPrice": "0.02961000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756800000005,
+    "fundingRate": "-0.00448353",
+    "markPrice": "0.03075000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756828800007,
+    "fundingRate": "-0.00595926",
+    "markPrice": "0.02916000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756857600006,
+    "fundingRate": "-0.00233765",
+    "markPrice": "0.03018000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756886400002,
+    "fundingRate": "-0.00255210",
+    "markPrice": "0.02935212"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756915200002,
+    "fundingRate": "-0.00210306",
+    "markPrice": "0.03014000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756944000002,
+    "fundingRate": "-0.00189081",
+    "markPrice": "0.02968419"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1756972800000,
+    "fundingRate": "-0.00217955",
+    "markPrice": "0.02905503"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1757001600000,
+    "fundingRate": "-0.00311412",
+    "markPrice": "0.02869000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1757030400001,
+    "fundingRate": "-0.00280248",
+    "markPrice": "0.02927000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1757059200006,
+    "fundingRate": "-0.00213772",
+    "markPrice": "0.02983000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1757088000000,
+    "fundingRate": "-0.00226256",
+    "markPrice": "0.02899000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1757116800000,
+    "fundingRate": "-0.00171525",
+    "markPrice": "0.02919000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1757145600005,
+    "fundingRate": "-0.00186579",
+    "markPrice": "0.02881000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1757174400000,
+    "fundingRate": "-0.00117986",
+    "markPrice": "0.02856000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1757203200000,
+    "fundingRate": "-0.00098311",
+    "markPrice": "0.02827000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1757232000000,
+    "fundingRate": "-0.00103607",
+    "markPrice": "0.02854352"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1757260800000,
+    "fundingRate": "-0.00089297",
+    "markPrice": "0.02922000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1757289600007,
+    "fundingRate": "-0.00164979",
+    "markPrice": "0.02926000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1757318400000,
+    "fundingRate": "-0.00086487",
+    "markPrice": "0.02918000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1757347200000,
+    "fundingRate": "-0.00185799",
+    "markPrice": "0.02932000"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fundingTime": 1757376000000,
+    "fundingRate": "-0.00203472",
+    "markPrice": "0.02892306"
+  }
+]

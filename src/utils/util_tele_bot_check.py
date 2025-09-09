@@ -29,7 +29,7 @@ class UtilTeleBotCheck:
         <b>{title.upper()}</b>
             Message: {message.capitalize()}
             Datetime: {datetime.now()}
-            level log: {warning}
+            Level log: {warning}
             """
             response = requests.post(
                 url=self.tele_url,

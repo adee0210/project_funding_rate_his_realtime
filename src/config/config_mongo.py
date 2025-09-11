@@ -1,14 +1,16 @@
 from pymongo import MongoClient
-from config.config_variable import MONGO_CONFIG
+from src.config.config_variable import MONGO_CONFIG
 
 
 class ConfigMongo:
+    """Singleton class để cấu hình kết nối MongoDB"""
+
     _instance = None
 
     def _init_config(self):
         self._config = {
             "host": MONGO_CONFIG["host"],
-            "port": MONGO_CONFIG["port"],
+            "port": int(MONGO_CONFIG["port"]),  # Convert to int
             "user": MONGO_CONFIG["user"],
             "pass": MONGO_CONFIG["pass"],
             "auth": MONGO_CONFIG["auth"],
@@ -26,11 +28,16 @@ class ConfigMongo:
         return cls._instance
 
     def get_client(self):
+        """Lấy client MongoDB đã được cấu hình
+
+        Returns:
+            MongoClient object
+        """
         if self._client is None:
             self._client = MongoClient(
                 host=self.get_config["host"],
                 port=self.get_config["port"],
-                user=self.get_config["user"],
+                username=self.get_config["user"],
                 password=self.get_config["pass"],
                 authSource=self.get_config["auth"],
             )

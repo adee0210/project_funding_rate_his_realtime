@@ -1,5 +1,33 @@
-pymongo
-websocket-client
-python-dotenv
-pytz
-requests
+# Core dependencies for funding rate data pipeline
+pymongo==4.15.0
+requests==2.32.5
+pandas==2.3.2
+schedule==1.2.2
+
+# Data processing and utilities
+numpy==2.3.3
+pytz==2025.2
+python-dateutil==2.9.0
+tzdata==2025.2
+
+# Environment and configuration
+python-dotenv==1.1.1
+
+# Networking and APIs
+websocket-client==1.8.0
+websockets==12.0
+urllib3==2.5.0
+charset-normalizer==3.4.3
+idna==3.10
+certifi==2025.8.3
+
+# Scheduling and system utilities
+croniter==6.0.0
+psutil==7.0.0
+zstandard==0.24.0
+
+# MongoDB utilities
+dnspython==2.8.0
+
+# Development and testing
+six==1.17.0

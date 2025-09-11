@@ -9,6 +9,16 @@ class ConfigLogging:
     def config_logging(
         log_name: str, log_file: str = "main.log", log_level: int = logging.INFO
     ):
+        """Cấu hình logging với file rotation và console output
+
+        Args:
+            log_name: Tên của logger
+            log_file: Tên file log (mặc định main.log)
+            log_level: Mức độ log (mặc định INFO)
+
+        Returns:
+            Logger object đã được cấu hình
+        """
         root_dir = os.path.dirname(
             os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         )

@@ -75,12 +75,16 @@ class ExtractFundingRateRealtime:
             )
             self.scheduler_thread.start()
 
+            # Trigger initial update for nearest funding cycle
+            threading.Thread(target=self._initial_update, daemon=True).start()
+
             # Send initial notification
             self.tele_bot.send_message(
                 f"Funding Rate Realtime Extraction Started\n"
                 f"Monitoring {len(self.symbols)} symbols\n"
                 f"8-hour symbols: {len(self.symbols_8h)}\n"
-                f"4-hour symbols: {len(self.symbols_4h)}"
+                f"4-hour symbols: {len(self.symbols_4h)}\n"
+                f"Initial update triggered for nearest funding cycle"
             )
 
             self.logger.info("Realtime extraction started successfully")
@@ -292,6 +296,74 @@ class ExtractFundingRateRealtime:
         except Exception as e:
             self.logger.error(f"Error fetching and updating {interval} funding rates: {e}")
             traceback.print_exc()
+
+    def get_status(self) -> Dict[str, Any]:
+        """Get realtime extraction status
+        
+        Returns:
+            Status dictionary
+        """
+        try:
+            return {
+                "is_running": self.is_running,
+                "is_connected": True,  # REST API doesn't have persistent connection
+                "symbols_count": len(self.symbols),
+                "symbols_8h_count": len(self.symbols_8h),
+                "symbols_4h_count": len(self.symbols_4h),
+                "symbols": self.symbols[:10] if self.symbols else [],
+                "last_update_time": self.last_update_time.isoformat() if self.last_update_time else None,
+                "scheduler_thread_alive": (
+                    self.scheduler_thread.is_alive()
+                    if self.scheduler_thread
+                    else False
+                ),
+                "next_scheduled_jobs": len(schedule.jobs),
+            }
+
+        except Exception as e:
+            self.logger.error(f"Error getting status: {e}")
+            return {"error": str(e)}
+
+    def _initial_update(self):
+        """Trigger initial update for the nearest funding cycle"""
+        try:
+            import time
+            from datetime import datetime, timezone
+            
+            # Wait a moment for system to fully initialize
+            time.sleep(3)
+            
+            current_time = datetime.now(timezone.utc)
+            current_hour = current_time.hour
+            
+            self.logger.info(f"Triggering initial update at {current_hour}:00 UTC")
+            
+            # Determine which cycles to update based on current time
+            # For 8h cycles: 0, 8, 16 - find the most recent one
+            recent_8h_hours = [0, 8, 16]
+            nearest_8h = max([h for h in recent_8h_hours if h <= current_hour], default=16)
+            
+            # For 4h cycles: 0, 4, 8, 12, 16, 20 - find the most recent one
+            recent_4h_hours = [0, 4, 8, 12, 16, 20]
+            nearest_4h = max([h for h in recent_4h_hours if h <= current_hour], default=20)
+            
+            self.logger.info(f"Current time: {current_hour}:00 UTC")
+            self.logger.info(f"Nearest 8h cycle: {nearest_8h}:00 UTC")
+            self.logger.info(f"Nearest 4h cycle: {nearest_4h}:00 UTC")
+            
+            # Update both 8h and 4h symbols for their respective nearest cycles
+            if self.symbols_8h:
+                self.logger.info(f"Updating {len(self.symbols_8h)} symbols for {nearest_8h}:00 cycle")
+                self._update_8h_symbols()
+                
+            if self.symbols_4h:
+                self.logger.info(f"Updating {len(self.symbols_4h)} symbols for {nearest_4h}:00 cycle")
+                self._update_4h_symbols()
+                
+            self.logger.info("Initial update completed")
+            
+        except Exception as e:
+            self.logger.error(f"Error in initial update: {e}")
 
     def get_status(self) -> Dict[str, Any]:
         """Get realtime extraction status

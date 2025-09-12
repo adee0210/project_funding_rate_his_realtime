@@ -355,3 +355,84 @@ class TransformFundingData:
         except Exception as e:
             self.logger.error(f"Error in test method: {e}")
             return False
+
+    def transform_realtime_funding_data(
+        self, raw_data: List[Dict[str, Any]]
+    ) -> List[Dict[str, Any]]:
+        """Transform realtime funding rate data from REST API
+        
+        Args:
+            raw_data: Raw funding rate data from Binance REST API
+            
+        Returns:
+            Transformed data with separate date and time columns
+        """
+        try:
+            if not raw_data:
+                self.logger.warning("No realtime funding data to transform")
+                return []
+
+            transformed_data = []
+            current_time = datetime.now(timezone.utc)
+
+            for record in raw_data:
+                try:
+                    # Extract data from API response
+                    symbol = record.get("symbol", "")
+                    interval = record.get("interval", "8h")
+                    funding_rate = float(record.get("funding_rate", 0))
+                    interest_rate = float(record.get("interest_rate", 0))
+                    time_to_next_funding = record.get("time_to_next_funding", 0)
+                    mark_price = float(record.get("mark_price", 0))
+                    index_price = float(record.get("index_price", 0))
+                    funding_cap = float(record.get("funding_cap", 0.005))
+                    funding_floor = float(record.get("funding_floor", -0.005))
+                    
+                    # Determine funding hour based on next funding time
+                    funding_hour = "unknown"
+                    if time_to_next_funding:
+                        next_funding_datetime = self.util_datetime.timestamp_to_datetime(
+                            time_to_next_funding
+                        )
+                        next_hour = next_funding_datetime.hour
+                        # Calculate current funding hour based on next funding hour
+                        if next_hour == 8:
+                            funding_hour = "00h"  # Current data is from 00:00 cycle
+                        elif next_hour == 16:
+                            funding_hour = "08h"  # Current data is from 08:00 cycle
+                        elif next_hour == 0:
+                            funding_hour = "16h"  # Current data is from 16:00 cycle
+                        elif next_hour == 4:
+                            funding_hour = "00h"  # For 4h symbols
+                        elif next_hour == 12:
+                            funding_hour = "08h"  # For 4h symbols
+                        elif next_hour == 20:
+                            funding_hour = "16h"  # For 4h symbols
+
+                    # Create simplified transformed record
+                    transformed_record = {
+                        "symbol": symbol,
+                        "interval": interval,
+                        "funding_hour": funding_hour,
+                        "funding_rate": funding_rate,
+                        "interest_rate": interest_rate,
+                        "mark_price": mark_price,
+                        "index_price": index_price,
+                        "funding_cap": funding_cap,
+                        "funding_floor": funding_floor,
+                        "update_date": current_time.date().isoformat(),
+                        "update_time": current_time.time().replace(microsecond=0).isoformat()
+                    }
+
+                    transformed_data.append(transformed_record)
+
+                except Exception as e:
+                    self.logger.warning(f"Error transforming realtime funding record {record}: {e}")
+                    continue
+
+            self.logger.info(f"Transformed {len(transformed_data)} realtime funding records")
+            return transformed_data
+
+        except Exception as e:
+            self.logger.error(f"Error in transform_realtime_funding_data: {e}")
+            return []

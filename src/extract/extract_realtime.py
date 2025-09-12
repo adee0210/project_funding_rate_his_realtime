@@ -1,11 +1,9 @@
-import json
+import requests
 import time
-import asyncio
-import websockets
+import schedule
 import threading
 from typing import List, Dict, Any, Optional
-from datetime import datetime
-import queue
+from datetime import datetime, timezone
 import traceback
 
 from src.config.config_logging import ConfigLogging
@@ -16,7 +14,7 @@ from src.utils.util_tele_bot_check import UtilTeleBotCheck
 
 
 class ExtractFundingRateRealtime:
-    """Trích xuất dữ liệu tỷ lệ funding theo thời gian thực qua WebSocket"""
+    """Extract funding rate data from Binance REST API with scheduled updates"""
 
     def __init__(self):
         self.logger = ConfigLogging.config_logging("ExtractFundingRateRealtime")
@@ -24,34 +22,28 @@ class ExtractFundingRateRealtime:
         self.transform_funding = TransformFundingData()
         self.tele_bot = UtilTeleBotCheck()
 
-        # Cấu hình
+        # Configuration
         self.config = REALTIME_CONFIG
-
-        # Quản lý trạng thái
+        self.base_url = "https://fapi.binance.com"
+        
+        # State management
         self.is_running = False
-        self.websocket = None
         self.symbols = []
-        self.reconnect_attempts = 0
-        self.last_heartbeat = None
-
-        # Xử lý dữ liệu
-        self.data_queue = queue.Queue()
-        self.batch_data = []
-        self.last_transform_time = time.time()
-
-        # Threading
-        self.websocket_thread = None
-        self.transform_thread = None
-        self.event_loop = None
+        self.scheduler_thread = None
+        self.last_update_time = None
+        
+        # Symbols with different funding intervals
+        self.symbols_8h = []  # Standard 8-hour funding
+        self.symbols_4h = []  # 4-hour funding
 
     def start_realtime_extraction(self, symbols: List[str]) -> bool:
-        """Bắt đầu trích xuất tỷ lệ funding theo thời gian thực
-
+        """Start scheduled funding rate extraction
+        
         Args:
-            symbols: Danh sách symbol để giám sát
-
+            symbols: List of symbols to monitor
+            
         Returns:
-            True nếu bắt đầu thành công, False nếu không
+            True if started successfully, False otherwise
         """
         try:
             if self.is_running:
@@ -62,25 +54,34 @@ class ExtractFundingRateRealtime:
                 self.logger.error("No symbols provided for realtime extraction")
                 return False
 
-            self.symbols = symbols[: SYSTEM_CONFIG["max_symbols_per_websocket"]]
+            self.symbols = symbols[:100]  # Top 100 symbols
             self.is_running = True
-            self.reconnect_attempts = 0
-
+            
+            # Categorize symbols by funding frequency
+            self._categorize_symbols_by_funding_frequency()
+            
             self.logger.info(
-                f"Starting realtime extraction for {len(self.symbols)} symbols"
+                f"Starting scheduled extraction for {len(self.symbols)} symbols"
             )
+            self.logger.info(f"8-hour funding symbols: {len(self.symbols_8h)}")
+            self.logger.info(f"4-hour funding symbols: {len(self.symbols_4h)}")
 
-            # Bắt đầu websocket thread
-            self.websocket_thread = threading.Thread(
-                target=self._run_websocket_loop, daemon=True
+            # Setup schedules
+            self._setup_schedules()
+            
+            # Start scheduler thread
+            self.scheduler_thread = threading.Thread(
+                target=self._run_scheduler, daemon=True
             )
-            self.websocket_thread.start()
+            self.scheduler_thread.start()
 
-            # Bắt đầu transform thread
-            self.transform_thread = threading.Thread(
-                target=self._transform_loop, daemon=True
+            # Send initial notification
+            self.tele_bot.send_message(
+                f"Funding Rate Realtime Extraction Started\n"
+                f"Monitoring {len(self.symbols)} symbols\n"
+                f"8-hour symbols: {len(self.symbols_8h)}\n"
+                f"4-hour symbols: {len(self.symbols_4h)}"
             )
-            self.transform_thread.start()
 
             self.logger.info("Realtime extraction started successfully")
             return True
@@ -91,10 +92,10 @@ class ExtractFundingRateRealtime:
             return False
 
     def stop_realtime_extraction(self) -> bool:
-        """Dừng trích xuất theo thời gian thực
-
+        """Stop realtime extraction
+        
         Returns:
-            True nếu dừng thành công, False nếu không
+            True if stopped successfully, False otherwise
         """
         try:
             if not self.is_running:
@@ -103,22 +104,13 @@ class ExtractFundingRateRealtime:
 
             self.logger.info("Stopping realtime extraction")
             self.is_running = False
-
-            # Đóng websocket
-            if self.websocket:
-                asyncio.run_coroutine_threadsafe(
-                    self.websocket.close(), self.event_loop
-                ).result(timeout=5)
-
-            # Chờ threads kết thúc
-            if self.websocket_thread and self.websocket_thread.is_alive():
-                self.websocket_thread.join(timeout=10)
-
-            if self.transform_thread and self.transform_thread.is_alive():
-                self.transform_thread.join(timeout=5)
-
-            # Xử lý dữ liệu còn lại
-            self._process_remaining_data()
+            
+            # Clear schedules
+            schedule.clear()
+            
+            # Wait for scheduler thread to finish
+            if self.scheduler_thread and self.scheduler_thread.is_alive():
+                self.scheduler_thread.join(timeout=10)
 
             self.logger.info("Realtime extraction stopped successfully")
             return True
@@ -127,249 +119,201 @@ class ExtractFundingRateRealtime:
             self.logger.error(f"Error stopping realtime extraction: {e}")
             return False
 
-    def _run_websocket_loop(self):
-        """Chạy kết nối websocket trong vòng lặp asyncio"""
+    def _categorize_symbols_by_funding_frequency(self):
+        """Categorize symbols by their funding frequency (4h vs 8h)"""
         try:
-            self.event_loop = asyncio.new_event_loop()
-            asyncio.set_event_loop(self.event_loop)
-
-            while self.is_running:
-                try:
-                    self.event_loop.run_until_complete(self._connect_websocket())
-                except Exception as e:
-                    self.logger.error(f"Websocket loop error: {e}")
-
-                if (
-                    self.is_running
-                    and self.reconnect_attempts < self.config["max_reconnect_attempts"]
-                ):
-                    self.reconnect_attempts += 1
-                    self.logger.info(
-                        f"Reconnecting in {self.config['reconnect_interval']}s (attempt {self.reconnect_attempts})"
-                    )
-                    time.sleep(self.config["reconnect_interval"])
-                else:
-                    break
-
-        except Exception as e:
-            self.logger.error(f"Fatal error in websocket loop: {e}")
-        finally:
-            if self.event_loop:
-                self.event_loop.close()
-
-    async def _connect_websocket(self):
-        """Kết nối tới websocket Binance"""
-        try:
-            # Create stream names for all symbols
-            streams = []
-            for symbol in self.symbols:
-                streams.append(f"{symbol.lower()}@markPrice")
-
-            stream_names = "/".join(streams)
-            uri = f"{self.config['websocket_url']}{stream_names}"
-
-            self.logger.info(f"Connecting to websocket: {len(streams)} streams")
-
-            async with websockets.connect(
-                uri,
-                ping_interval=self.config["ping_interval"],
-                ping_timeout=self.config["connection_timeout"],
-            ) as websocket:
-                self.websocket = websocket
-                self.reconnect_attempts = 0
-                self.last_heartbeat = time.time()
-
-                self.logger.info("Websocket connected successfully")
-                self.tele_bot.send_message(
-                    f"Websocket connected - monitoring {len(self.symbols)} symbols"
-                )
-
-                async for message in websocket:
-                    if not self.is_running:
-                        break
-
-                    try:
-                        data = json.loads(message)
-                        self._process_websocket_message(data)
-                        self.last_heartbeat = time.time()
-
-                    except json.JSONDecodeError as e:
-                        self.logger.warning(f"Invalid JSON received: {e}")
-                    except Exception as e:
-                        self.logger.error(f"Error processing message: {e}")
-
-        except websockets.exceptions.ConnectionClosed:
-            self.logger.warning("Websocket connection closed")
-        except Exception as e:
-            self.logger.error(f"Websocket connection error: {e}")
-            traceback.print_exc()
-
-    def _process_websocket_message(self, data: Dict[str, Any]):
-        """Xử lý tin nhắn websocket đến
-
-        Args:
-            data: Dữ liệu tin nhắn websocket
-        """
-        try:
-            if "stream" in data and "data" in data:
-                # Multi-stream format
-                stream_data = data["data"]
-                stream_name = data["stream"]
-
-                if "@markPrice" in stream_name:
-                    self._add_to_queue(stream_data)
-
-            elif "s" in data and "p" in data:
-                # Direct mark price data
-                self._add_to_queue(data)
-
-        except Exception as e:
-            self.logger.error(f"Error processing websocket message: {e}")
-
-    def _add_to_queue(self, data: Dict[str, Any]):
-        """Thêm dữ liệu vào hàng đợi xử lý
-
-        Args:
-            data: Dữ liệu giá mark với định dạng websocket
-                  e: loại sự kiện
-                  E: thời gian sự kiện
-                  s: symbol
-                  p: giá mark
-                  i: giá chỉ số
-                  r: tỷ lệ funding (trường ĐÚNG)
-                  P: giá thanh toán ước tính (KHÔNG phải tỷ lệ funding)
-                  T: thời gian funding tiếp theo
-        """
-        try:
-            # Giữ định dạng websocket gốc cho transform
-            # Xác thực các trường bắt buộc
-            if "s" in data and "p" in data and "E" in data:
-                self.data_queue.put(data)
+            # Get funding info for all symbols
+            url = f"{self.base_url}/fapi/v1/premiumIndex"
+            response = requests.get(url, timeout=30)
+            
+            if response.status_code == 200:
+                data = response.json()
+                
+                # Create symbol mapping
+                symbol_funding_info = {}
+                for item in data:
+                    if item['symbol'] in self.symbols:
+                        # Get next funding time to determine frequency
+                        next_funding = int(item.get('nextFundingTime', 0))
+                        symbol_funding_info[item['symbol']] = next_funding
+                
+                # Categorize based on funding frequency patterns
+                # Most symbols have 8h funding (0h, 8h, 16h UTC)
+                # Some have 4h funding (0h, 4h, 8h, 12h, 16h, 20h UTC)
+                current_time = int(time.time() * 1000)
+                
+                for symbol in self.symbols:
+                    if symbol in symbol_funding_info:
+                        next_funding = symbol_funding_info[symbol]
+                        time_to_next = (next_funding - current_time) / (1000 * 60 * 60)  # hours
+                        
+                        # Check if time to next funding suggests 4h or 8h interval
+                        # This is a heuristic - in practice you might need to track patterns
+                        if time_to_next <= 4:
+                            self.symbols_4h.append(symbol)
+                        else:
+                            self.symbols_8h.append(symbol)
+                    else:
+                        # Default to 8h if no info available
+                        self.symbols_8h.append(symbol)
+                        
             else:
-                self.logger.warning(f"Invalid websocket data format: {data}")
-
+                # If API call fails, default all to 8h
+                self.symbols_8h = self.symbols.copy()
+                self.logger.warning("Failed to categorize symbols, defaulting all to 8h")
+                
         except Exception as e:
-            self.logger.error(f"Error adding data to queue: {e}")
+            self.logger.error(f"Error categorizing symbols: {e}")
+            # Default all to 8h on error
+            self.symbols_8h = self.symbols.copy()
 
-    def _transform_loop(self):
-        """Xử lý và biến đổi dữ liệu định kỳ"""
+    def _setup_schedules(self):
+        """Setup scheduled jobs for funding rate updates"""
+        try:
+            # Schedule 8-hour updates at 0h, 8h, 16h UTC
+            schedule.every().day.at("00:00").do(self._update_8h_symbols)
+            schedule.every().day.at("08:00").do(self._update_8h_symbols)
+            schedule.every().day.at("16:00").do(self._update_8h_symbols)
+            
+            # Schedule 4-hour updates at 0h, 4h, 8h, 12h, 16h, 20h UTC
+            schedule.every().day.at("00:00").do(self._update_4h_symbols)
+            schedule.every().day.at("04:00").do(self._update_4h_symbols)
+            schedule.every().day.at("08:00").do(self._update_4h_symbols)
+            schedule.every().day.at("12:00").do(self._update_4h_symbols)
+            schedule.every().day.at("16:00").do(self._update_4h_symbols)
+            schedule.every().day.at("20:00").do(self._update_4h_symbols)
+            
+            self.logger.info("Schedules setup completed")
+            
+        except Exception as e:
+            self.logger.error(f"Error setting up schedules: {e}")
+
+    def _run_scheduler(self):
+        """Run the scheduler loop"""
         while self.is_running:
             try:
-                current_time = time.time()
-
-                # Thu thập dữ liệu batch
-                batch_count = 0
-                while (
-                    not self.data_queue.empty()
-                    and batch_count < self.config["batch_size"]
-                ):
-                    try:
-                        data = self.data_queue.get_nowait()
-                        self.batch_data.append(data)
-                        batch_count += 1
-                    except queue.Empty:
-                        break
-
-                # Biến đổi và lưu nếu khoảng thời gian đã qua hoặc batch đầy
-                if (
-                    current_time - self.last_transform_time
-                    >= self.config["transform_interval"]
-                    or len(self.batch_data) >= self.config["batch_size"]
-                ):
-
-                    if self.batch_data:
-                        self._transform_and_save_batch()
-                        self.last_transform_time = current_time
-
-                time.sleep(1)  # Check every second
-
+                schedule.run_pending()
+                time.sleep(60)  # Check every minute
             except Exception as e:
-                self.logger.error(f"Error in transform loop: {e}")
-                time.sleep(5)
+                self.logger.error(f"Error in scheduler loop: {e}")
+                time.sleep(60)
 
-    def _transform_and_save_batch(self):
-        """Biến đổi và lưu dữ liệu batch"""
+    def _update_8h_symbols(self):
+        """Update funding rates for 8-hour symbols"""
+        if not self.is_running or not self.symbols_8h:
+            return
+            
         try:
-            if not self.batch_data:
+            self.logger.info(f"Updating {len(self.symbols_8h)} symbols with 8-hour funding")
+            self._fetch_and_update_funding_rates(self.symbols_8h, "8h")
+        except Exception as e:
+            self.logger.error(f"Error updating 8h symbols: {e}")
+
+    def _update_4h_symbols(self):
+        """Update funding rates for 4-hour symbols"""
+        if not self.is_running or not self.symbols_4h:
+            return
+            
+        try:
+            self.logger.info(f"Updating {len(self.symbols_4h)} symbols with 4-hour funding")
+            self._fetch_and_update_funding_rates(self.symbols_4h, "4h")
+        except Exception as e:
+            self.logger.error(f"Error updating 4h symbols: {e}")
+
+    def _fetch_and_update_funding_rates(self, symbols: List[str], interval: str):
+        """Fetch and update funding rates for given symbols
+        
+        Args:
+            symbols: List of symbols to update
+            interval: Funding interval (4h or 8h)
+        """
+        try:
+            # Fetch current funding rate data
+            url = f"{self.base_url}/fapi/v1/premiumIndex"
+            response = requests.get(url, timeout=30)
+            
+            if response.status_code != 200:
+                self.logger.error(f"API request failed with status {response.status_code}")
                 return
-
-            # Biến đổi dữ liệu
-            transformed_data = self.transform_funding.transform_realtime_data(
-                self.batch_data
-            )
-
+                
+            data = response.json()
+            
+            # Filter data for our symbols
+            filtered_data = []
+            for item in data:
+                if item['symbol'] in symbols:
+                    # Transform API response to our format
+                    funding_data = {
+                        'symbol': item['symbol'],
+                        'interval': interval,
+                        'time_to_next_funding': item.get('nextFundingTime', 0),
+                        'funding_rate': float(item.get('lastFundingRate', 0)),
+                        'interest_rate': float(item.get('interestRate', 0)),
+                        'mark_price': float(item.get('markPrice', 0)),
+                        'index_price': float(item.get('indexPrice', 0)),
+                        'estimated_settle_price': float(item.get('estimatedSettlePrice', 0)),
+                        'funding_cap': 0.005,  # Standard Binance funding cap
+                        'funding_floor': -0.005,  # Standard Binance funding floor
+                        'last_update_time': int(time.time() * 1000)
+                    }
+                    filtered_data.append(funding_data)
+            
+            if not filtered_data:
+                self.logger.warning(f"No data received for {interval} symbols")
+                return
+                
+            # Transform data
+            transformed_data = self.transform_funding.transform_realtime_funding_data(filtered_data)
+            
             if transformed_data:
-                # Lưu vào MongoDB
-                success = self.load_mongo.save_realtime_data(
-                    self.config["collection_name"], transformed_data
+                # Update data in MongoDB (upsert)
+                success = self.load_mongo.update_realtime_funding_data(
+                    self.config["collection_name"], 
+                    transformed_data
                 )
-
+                
                 if success:
-                    self.logger.debug(f"Saved {len(transformed_data)} realtime records")
+                    self.last_update_time = datetime.now(timezone.utc)
+                    self.logger.info(f"Updated {len(transformed_data)} {interval} funding records")
+                    
+                    # Send notification for significant updates
+                    if len(transformed_data) > 50:
+                        self.tele_bot.send_message(
+                            f"Funding Rate Update Complete\n"
+                            f"Interval: {interval}\n"
+                            f"Updated: {len(transformed_data)} symbols\n"
+                            f"Time: {self.last_update_time.strftime('%Y-%m-%d %H:%M:%S')} UTC"
+                        )
                 else:
-                    self.logger.warning("Failed to save realtime data")
-
-            # Xóa batch
-            self.batch_data.clear()
-
+                    self.logger.error(f"Failed to update {interval} funding data")
+            else:
+                self.logger.warning(f"No transformed data for {interval} symbols")
+                
         except Exception as e:
-            self.logger.error(f"Error transforming and saving batch: {e}")
-
-    def _process_remaining_data(self):
-        """Xử lý bất kỳ dữ liệu còn lại trong queue và batch"""
-        try:
-            # Xử lý dữ liệu queue còn lại
-            remaining_data = []
-            while not self.data_queue.empty():
-                try:
-                    remaining_data.append(self.data_queue.get_nowait())
-                except queue.Empty:
-                    break
-
-            # Thêm dữ liệu batch
-            remaining_data.extend(self.batch_data)
-
-            if remaining_data:
-                self.batch_data = remaining_data
-                self._transform_and_save_batch()
-                self.logger.info(f"Processed {len(remaining_data)} remaining records")
-
-        except Exception as e:
-            self.logger.error(f"Error processing remaining data: {e}")
+            self.logger.error(f"Error fetching and updating {interval} funding rates: {e}")
+            traceback.print_exc()
 
     def get_status(self) -> Dict[str, Any]:
-        """Lấy trạng thái trích xuất theo thời gian thực
-
+        """Get realtime extraction status
+        
         Returns:
-            Từ điển trạng thái
+            Status dictionary
         """
         try:
             return {
                 "is_running": self.is_running,
-                "is_connected": (
-                    self.websocket is not None and not self.websocket.closed
-                    if self.websocket
+                "is_connected": True,  # REST API doesn't have persistent connection
+                "symbols_count": len(self.symbols),
+                "symbols_8h_count": len(self.symbols_8h),
+                "symbols_4h_count": len(self.symbols_4h),
+                "symbols": self.symbols[:10] if self.symbols else [],
+                "last_update_time": self.last_update_time.isoformat() if self.last_update_time else None,
+                "scheduler_thread_alive": (
+                    self.scheduler_thread.is_alive()
+                    if self.scheduler_thread
                     else False
                 ),
-                "symbols_count": len(self.symbols),
-                "symbols": self.symbols[:10] if self.symbols else [],
-                "reconnect_attempts": self.reconnect_attempts,
-                "queue_size": self.data_queue.qsize(),
-                "batch_size": len(self.batch_data),
-                "last_heartbeat": self.last_heartbeat,
-                "last_transform_time": self.last_transform_time,
-                "threads_alive": {
-                    "websocket_thread": (
-                        self.websocket_thread.is_alive()
-                        if self.websocket_thread
-                        else False
-                    ),
-                    "transform_thread": (
-                        self.transform_thread.is_alive()
-                        if self.transform_thread
-                        else False
-                    ),
-                },
+                "next_scheduled_jobs": len(schedule.jobs),
             }
 
         except Exception as e:

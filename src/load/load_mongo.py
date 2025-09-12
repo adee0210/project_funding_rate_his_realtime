@@ -186,11 +186,25 @@ class LoadMongo:
             Timestamp thời gian funding mới nhất hoặc 0 nếu không có dữ liệu
         """
         try:
+            # Check in the unified history collection first
+            collection = self.get_collection("history")
+            latest = collection.find_one(
+                {"symbol": symbol}, 
+                sort=[("funding_date", -1), ("funding_time", -1)]
+            )
+            
+            if latest:
+                # Convert funding_date and funding_time back to timestamp
+                from datetime import datetime
+                date_str = latest["funding_date"]
+                time_str = latest["funding_time"]
+                dt = datetime.fromisoformat(f"{date_str} {time_str}")
+                return int(dt.timestamp() * 1000)
+            
+            # Fallback to old format (individual collections)
             collection_name = f"funding_rate_history_{symbol.lower()}"
             collection = self.get_collection(collection_name)
-
             latest = collection.find_one({}, sort=[("fundingTime", -1)])
-
             return latest["fundingTime"] if latest else 0
 
         except Exception as e:
@@ -207,10 +221,15 @@ class LoadMongo:
             True nếu có dữ liệu, False nếu không
         """
         try:
+            # Check in the unified history collection first
+            collection = self.get_collection("history")
+            count = collection.count_documents({"symbol": symbol}, limit=1)
+            if count > 0:
+                return True
+            
+            # Fallback to old format (individual collections)
             collection_name = f"funding_rate_history_{symbol.lower()}"
             collection = self.get_collection(collection_name)
-
-            # Check if collection exists and has any documents
             count = collection.count_documents({}, limit=1)
             return count > 0
 
@@ -429,4 +448,71 @@ class LoadMongo:
             return True  # Some records might have been inserted
         except Exception as e:
             self.logger.error(f"Error saving realtime data: {e}")
+            return False
+
+    def update_realtime_funding_data(self, collection_name: str, data: List[Dict[str, Any]]) -> bool:
+        """Update realtime funding rate data using upsert
+        
+        Args:
+            collection_name: Name of the collection to update
+            data: List of funding rate data to update
+            
+        Returns:
+            True if successful, False otherwise
+        """
+        try:
+            if not data:
+                return True
+
+            collection = self.get_collection(collection_name)
+
+            # Create indexes for efficient queries
+            try:
+                collection.create_index(
+                    [("symbol", 1), ("update_date", 1)],
+                    unique=True,
+                    background=True,
+                    sparse=True,
+                )
+                collection.create_index("last_update_timestamp", background=True)
+            except Exception as idx_error:
+                self.logger.warning(f"Index creation warning: {idx_error}")
+
+            # Prepare bulk operations for upsert
+            operations = []
+            for item in data:
+                operations.append(
+                    UpdateOne(
+                        filter={
+                            "symbol": item["symbol"],
+                            "update_date": item["update_date"],
+                        },
+                        update={"$set": item},
+                        upsert=True,
+                    )
+                )
+
+            if operations:
+                # Process in batches
+                batch_size = 100
+                total_upserted = 0
+                total_modified = 0
+
+                for i in range(0, len(operations), batch_size):
+                    batch = operations[i : i + batch_size]
+                    result = collection.bulk_write(batch, ordered=False)
+                    total_upserted += result.upserted_count
+                    total_modified += result.modified_count
+
+                self.logger.info(
+                    f"Updated {total_upserted} new funding records, modified {total_modified} existing records"
+                )
+
+            return True
+
+        except BulkWriteError as e:
+            self.logger.warning(f"Bulk write error for funding data: {e.details}")
+            return True  # Some records might have been processed
+        except Exception as e:
+            self.logger.error(f"Error updating realtime funding data: {e}")
             return False

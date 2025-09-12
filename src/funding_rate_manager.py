@@ -157,13 +157,15 @@ class FundingRateManager:
                 message = f"Funding Rate System Status\n\n"
                 message += f"Realtime Status: {'Connected' if realtime_status['is_connected'] else 'Disconnected'}\n"
                 message += f"Symbols Monitored: {realtime_status['symbols_count']}\n"
+                message += f"8H Symbols: {realtime_status.get('symbols_8h_count', 0)}\n"
+                message += f"4H Symbols: {realtime_status.get('symbols_4h_count', 0)}\n"
                 message += f"Total Collections: {stats.get('total_symbols', 0)}\n"
                 message += f"Realtime Records: {stats.get('realtime_count', 0)}\n"
+                if realtime_status.get('last_update_time'):
+                    message += f"Last Update: {realtime_status['last_update_time']}\n"
+                message += f"Scheduler Jobs: {realtime_status.get('next_scheduled_jobs', 0)}\n"
                 message += (
-                    f"Reconnect Attempts: {realtime_status['reconnect_attempts']}\n"
-                )
-                message += (
-                    f"Last Update: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+                    f"Monitor Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
                 )
 
                 # Thêm chi tiết collection (top 5)

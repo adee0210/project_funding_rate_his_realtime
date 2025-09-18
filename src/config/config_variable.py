@@ -36,6 +36,6 @@ REALTIME_CONFIG = {
 SYSTEM_CONFIG = {
     "top_symbols_count": int(os.getenv("TOP_SYMBOLS_COUNT", "100")),
     "history_update_interval": int(os.getenv("HISTORY_UPDATE_INTERVAL", "3600")),
-    "monitoring_interval": int(os.getenv("MONITORING_INTERVAL", "300")),
+    "monitoring_interval": int(os.getenv("MONITORING_INTERVAL", "3600")),  
     "max_symbols_per_websocket": int(os.getenv("MAX_SYMBOLS_PER_WS", "200")),
 }

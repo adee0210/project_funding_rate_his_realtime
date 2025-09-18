@@ -388,26 +388,33 @@ class TransformFundingData:
                     funding_cap = float(record.get("funding_cap", 0.005))
                     funding_floor = float(record.get("funding_floor", -0.005))
                     
-                    # Determine funding hour based on next funding time
+                    # Determine funding hour based on current time and interval
+                    current_time = datetime.now(timezone.utc)
+                    current_hour = current_time.hour
                     funding_hour = "unknown"
-                    if time_to_next_funding:
-                        next_funding_datetime = self.util_datetime.timestamp_to_datetime(
-                            time_to_next_funding
-                        )
-                        next_hour = next_funding_datetime.hour
-                        # Calculate current funding hour based on next funding hour
-                        if next_hour == 8:
-                            funding_hour = "00h"  # Current data is from 00:00 cycle
-                        elif next_hour == 16:
-                            funding_hour = "08h"  # Current data is from 08:00 cycle
-                        elif next_hour == 0:
-                            funding_hour = "16h"  # Current data is from 16:00 cycle
-                        elif next_hour == 4:
-                            funding_hour = "00h"  # For 4h symbols
-                        elif next_hour == 12:
-                            funding_hour = "08h"  # For 4h symbols
-                        elif next_hour == 20:
-                            funding_hour = "16h"  # For 4h symbols
+                    
+                    if interval == "8h":
+                        # For 8h intervals: 0h, 8h, 16h
+                        if 0 <= current_hour < 8:
+                            funding_hour = "00h"
+                        elif 8 <= current_hour < 16:
+                            funding_hour = "08h"
+                        else:  # 16 <= current_hour < 24
+                            funding_hour = "16h"
+                    elif interval == "4h":
+                        # For 4h intervals: 0h, 4h, 8h, 12h, 16h, 20h
+                        if 0 <= current_hour < 4:
+                            funding_hour = "00h"
+                        elif 4 <= current_hour < 8:
+                            funding_hour = "04h"
+                        elif 8 <= current_hour < 12:
+                            funding_hour = "08h"
+                        elif 12 <= current_hour < 16:
+                            funding_hour = "12h"
+                        elif 16 <= current_hour < 20:
+                            funding_hour = "16h"
+                        else:  # 20 <= current_hour < 24
+                            funding_hour = "20h"
 
                     # Create simplified transformed record
                     transformed_record = {

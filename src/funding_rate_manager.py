@@ -13,7 +13,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from src.config.config_logging import ConfigLogging
 from src.config.config_variable import SYSTEM_CONFIG
 from src.extract.extract_history import ExtractFundingRateHistory
-from src.extract.extract_realtime import ExtractFundingRateRealtime
+from scheduler.advanced_funding_scheduler import AdvancedFundingRateScheduler
 from src.load.load_mongo import LoadMongo
 from src.utils.util_tele_bot_check import UtilTeleBotCheck
 
@@ -26,7 +26,6 @@ class FundingRateManager:
 
         # Initialize components
         self.extract_history = ExtractFundingRateHistory()
-        self.extract_realtime = ExtractFundingRateRealtime()
         self.load_mongo = LoadMongo()
         self.tele_bot = UtilTeleBotCheck()
 
@@ -34,12 +33,12 @@ class FundingRateManager:
         self.is_running = False
         self.symbols = []
         self.history_thread = None
-        self.monitoring_thread = None
+        self.advanced_scheduler = None  # New advanced scheduler
 
         # Configuration from config_variable
         self.top_symbols_count = SYSTEM_CONFIG["top_symbols_count"]
         self.history_update_interval = SYSTEM_CONFIG["history_update_interval"]
-        self.monitoring_interval = SYSTEM_CONFIG["monitoring_interval"]
+        self.monitoring_interval = SYSTEM_CONFIG["monitoring_interval"]  # Now 1 hour
 
         # Giới hạn symbols cho realtime để tránh tràn RAM
         self.max_realtime_symbols = min(100, self.top_symbols_count)
@@ -77,7 +76,7 @@ class FundingRateManager:
             message = f"Funding Rate Manager Initialized\n"
             message += f"Monitoring {len(self.symbols)} symbols\n"
             message += f"History update interval: {self.history_update_interval}s\n"
-            message += f"Monitoring interval: {self.monitoring_interval}s"
+            message += f"Monitoring interval: {self.monitoring_interval}s (Advanced scheduler handles notifications)"
 
             self.tele_bot.send_message(message)
 
@@ -91,105 +90,35 @@ class FundingRateManager:
         """Trích xuất lịch sử tỷ lệ funding ban đầu"""
         try:
             self.logger.info("Starting initial history extraction")
-
-            # Extract 30 days of history for all symbols
-            success = self.extract_history.extract_all_history(
-                self.symbols, days_back=30
-            )
-
+            # Extract recent history for all symbols (last 7 days)
+            success = self.extract_history.extract_all_history(self.symbols, days_back=7)
             if success:
-                self.logger.info("Initial history extraction completed successfully")
-                self.tele_bot.send_message(
-                    "Initial funding rate history extraction completed"
-                )
+                self.logger.info("Initial history extraction completed")
             else:
-                self.logger.error("Initial history extraction failed")
-                self.tele_bot.send_message(
-                    "Initial funding rate history extraction failed"
-                )
-
+                self.logger.warning("Initial history extraction completed with some issues")
         except Exception as e:
             self.logger.error(f"Error in initial history extraction: {e}")
-            self.tele_bot.send_message(f"❌ Error in history extraction: {str(e)}")
 
     def _periodic_history_update(self):
-        """Cập nhật lịch sử tỷ lệ funding định kỳ - chỉ cho realtime system
-
-        Lưu ý: History chính được xử lý bởi scheduler riêng (0h, 8h, 16h)
-        Function này chỉ xử lý backup incremental updates
-        """
+        """Cập nhật lịch sử tỷ lệ funding theo chu kỳ"""
         while self.is_running:
             try:
-                self.logger.info("Starting periodic incremental update")
-
-                # Chỉ extract incremental data cho backup
-                # Scheduler chính sẽ handle history extraction
-                success = self.extract_history.extract_recent_history(
-                    self.symbols[
-                        : self.max_realtime_symbols
-                    ]  # Chỉ process symbols đang monitor realtime
-                )
-
+                self.logger.info("Starting periodic history update")
+                # Extract recent history (last 2 days for incremental update)
+                success = self.extract_history.extract_all_history(self.symbols, days_back=2)
                 if success:
-                    self.logger.info("Periodic incremental update completed")
+                    self.logger.info("Periodic history update completed")
                 else:
-                    self.logger.warning("Periodic incremental update had issues")
+                    self.logger.warning("Periodic history update completed with issues")
 
-                # Wait for next update (longer interval since main history handled by scheduler)
-                for _ in range(self.history_update_interval * 2):  # Double interval
+                # Wait for next update cycle
+                for _ in range(self.history_update_interval):
                     if not self.is_running:
                         break
                     time.sleep(1)
 
             except Exception as e:
                 self.logger.error(f"Error in periodic incremental update: {e}")
-                time.sleep(60)  # Wait 1 minute before retrying
-
-    def _system_monitoring(self):
-        """Giám sát trạng thái hệ thống và gửi cập nhật"""
-        while self.is_running:
-            try:
-                # Get system statistics
-                stats = self.load_mongo.get_funding_rate_stats()
-                realtime_status = self.extract_realtime.get_status()
-
-                # Tạo tin nhắn trạng thái
-                message = f"Funding Rate System Status\n\n"
-                message += f"Realtime Status: {'Connected' if realtime_status['is_connected'] else 'Disconnected'}\n"
-                message += f"Symbols Monitored: {realtime_status['symbols_count']}\n"
-                message += f"8H Symbols: {realtime_status.get('symbols_8h_count', 0)}\n"
-                message += f"4H Symbols: {realtime_status.get('symbols_4h_count', 0)}\n"
-                message += f"Total Collections: {stats.get('total_symbols', 0)}\n"
-                message += f"Realtime Records: {stats.get('realtime_count', 0)}\n"
-                if realtime_status.get('last_update_time'):
-                    message += f"Last Update: {realtime_status['last_update_time']}\n"
-                message += f"Scheduler Jobs: {realtime_status.get('next_scheduled_jobs', 0)}\n"
-                message += (
-                    f"Monitor Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
-                )
-
-                # Thêm chi tiết collection (top 5)
-                if stats.get("collections"):
-                    message += f"\n\nTop Collections:\n"
-                    sorted_collections = sorted(
-                        stats["collections"].items(), key=lambda x: x[1], reverse=True
-                    )[:5]
-
-                    for collection, count in sorted_collections:
-                        symbol = collection.replace("funding_rate_history_", "").upper()
-                        message += f"• {symbol}: {count:,} records\n"
-
-                self.logger.info("System status monitoring update")
-                self.tele_bot.send_message(message)
-
-                # Wait for next monitoring cycle
-                for _ in range(self.monitoring_interval):
-                    if not self.is_running:
-                        break
-                    time.sleep(1)
-
-            except Exception as e:
-                self.logger.error(f"Error in system monitoring: {e}")
                 time.sleep(60)  # Wait 1 minute before retrying
 
     def start(self) -> bool:
@@ -204,23 +133,16 @@ class FundingRateManager:
                 return True
 
             self.logger.info("Starting Funding Rate Manager")
-
-            # Initialize system
-            if not self.initialize():
-                return False
-
             self.is_running = True
 
-            # Khởi động trích xuất realtime với số lượng symbols giới hạn
-            symbols_for_realtime = self.symbols[: self.max_realtime_symbols]
-            self.logger.info(
-                f"Starting realtime extraction for {len(symbols_for_realtime)} symbols (limited from {len(self.symbols)} total)"
-            )
+            # Chọn symbols cho realtime (giới hạn để tránh quá tải)
+            symbols_for_realtime = self.symbols[:self.max_realtime_symbols]
+            self.logger.info(f"Selected {len(symbols_for_realtime)} symbols for realtime extraction")
 
-            if not self.extract_realtime.start_realtime_extraction(
-                symbols_for_realtime
-            ):
-                self.logger.error("Failed to start realtime extraction")
+            # Initialize and start advanced scheduler
+            self.advanced_scheduler = AdvancedFundingRateScheduler(symbols_for_realtime)
+            if not self.advanced_scheduler.start_scheduler():
+                self.logger.error("Failed to start advanced scheduler")
                 self.is_running = False
                 return False
 
@@ -233,18 +155,18 @@ class FundingRateManager:
             )
             self.history_thread.start()
 
-            # Khởi động giám sát hệ thống
-            self.monitoring_thread = threading.Thread(
-                target=self._system_monitoring, daemon=True
-            )
-            self.monitoring_thread.start()
+            # Advanced scheduler handles all monitoring and notifications
+            # No need for separate system monitoring thread
 
-            self.logger.info("Funding Rate Realtime Manager started successfully")
+            self.logger.info("Funding Rate Manager with Advanced Scheduler started successfully")
             self.tele_bot.send_message(
-                "🚀 Funding Rate Realtime Manager started!\n"
-                f"📊 Monitoring {len(symbols_for_realtime)} symbols in realtime\n"
-                f"⏰ History handled by separate scheduler (0h, 8h, 16h)\n"
-                f"💾 Realtime data: WebSocket stream active"
+                "🚀 Funding Rate Manager with Advanced Scheduler started!\n"
+                f"📊 Multi-interval monitoring: {len(symbols_for_realtime)} symbols\n"
+                f"⚡ 1h monitoring: Real-time data updates\n"
+                f"🔄 4h/8h cycles: Funding rate extraction\n"
+                f"🔍 Intelligent verification and alerts (built-in)\n"
+                f"💾 History handled by separate scheduler (0h, 8h, 16h)\n"
+                f"📱 Status updates sent only when needed"
             )
 
             return True
@@ -268,19 +190,16 @@ class FundingRateManager:
             self.logger.info("Stopping Funding Rate Manager")
             self.is_running = False
 
-            # Dừng trích xuất realtime
-            self.extract_realtime.stop_realtime_extraction()
+            # Stop advanced scheduler
+            if self.advanced_scheduler:
+                self.advanced_scheduler.stop_scheduler()
 
             # Chờ threads kết thúc
             if self.history_thread and self.history_thread.is_alive():
                 self.history_thread.join(timeout=10)
 
-            if self.monitoring_thread and self.monitoring_thread.is_alive():
-                self.monitoring_thread.join(timeout=10)
-
             self.logger.info("Funding Rate Manager stopped successfully")
             self.tele_bot.send_message("Funding Rate Manager stopped")
-
             return True
 
         except Exception as e:
@@ -310,22 +229,21 @@ class FundingRateManager:
         """
         try:
             stats = self.load_mongo.get_funding_rate_stats()
-            realtime_status = self.extract_realtime.get_status()
+            
+            # Get advanced scheduler status
+            scheduler_status = {}
+            if self.advanced_scheduler:
+                scheduler_status = self.advanced_scheduler.get_status()
 
             return {
                 "is_running": self.is_running,
                 "symbols_count": len(self.symbols),
                 "symbols": self.symbols[:10],  # First 10 symbols
-                "realtime_status": realtime_status,
+                "advanced_scheduler_status": scheduler_status,
                 "database_stats": stats,
                 "threads_alive": {
                     "history_thread": (
                         self.history_thread.is_alive() if self.history_thread else False
-                    ),
-                    "monitoring_thread": (
-                        self.monitoring_thread.is_alive()
-                        if self.monitoring_thread
-                        else False
                     ),
                 },
             }
@@ -335,17 +253,19 @@ class FundingRateManager:
             return {"error": str(e)}
 
     def run_forever(self):
-        """Chạy hệ thống mãi mãi (blocking)"""
+        """Chạy hệ thống mãi mãi"""
+        if not self.initialize():
+            self.logger.error("Failed to initialize system")
+            return
+
+        if not self.start():
+            self.logger.error("Failed to start system")
+            return
+
         try:
-            if not self.start():
-                return False
-
-            self.logger.info("Funding Rate Manager is running. Press Ctrl+C to stop.")
-
-            # Keep the main thread alive
+            # Advanced scheduler handles everything, just keep main thread alive
             while self.is_running:
-                time.sleep(1)
-
+                time.sleep(60)  # Check every minute
         except KeyboardInterrupt:
             self.logger.info("Received keyboard interrupt")
         finally:

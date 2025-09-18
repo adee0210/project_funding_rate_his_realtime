@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-Main script to run the Funding Rate Manager
+Script chính để chạy Funding Rate Manager
 
-Usage:
-    python scripts/run.py start    # Start the system
-    python scripts/run.py stop     # Stop the system
-    python scripts/run.py restart  # Restart the system
-    python scripts/run.py status   # Get system status
-    python scripts/run.py run      # Run forever (blocking)
+Sử dụng:
+    python scripts/run.py start    # Bắt đầu hệ thống
+    python scripts/run.py stop     # Dừng hệ thống
+    python scripts/run.py restart  # Khởi động lại hệ thống
+    python scripts/run.py status   # Lấy trạng thái hệ thống
+    python scripts/run.py run      # Chạy vĩnh viễn (chặn)
 """
 
 import sys
@@ -17,7 +17,7 @@ import time
 import argparse
 from pathlib import Path
 
-# Add src to Python path
+# Thêm thư mục src vào Python path
 sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 
 from funding_rate_manager import FundingRateManager
@@ -26,7 +26,7 @@ from config.config_variable import SYSTEM_CONFIG
 
 
 def main():
-    """Main function"""
+    """Hàm chính của script"""
     parser = argparse.ArgumentParser(description="Funding Rate Manager")
     parser.add_argument(
         "command",
@@ -50,11 +50,11 @@ def main():
 
     args = parser.parse_args()
 
-    # Setup logging
+    # Thiết lập logging
     logger = ConfigLogging.config_logging("MainScript")
 
     try:
-        # Create manager instance with config values
+        # Khởi tạo instance manager với giá trị cấu hình
         manager = FundingRateManager()
         manager.top_symbols_count = SYSTEM_CONFIG["top_symbols_count"]
 
@@ -110,7 +110,7 @@ def main():
             logger.info("Testing system components...")
             print("Testing Funding Rate Manager components...")
 
-            # Test MongoDB connection
+            # Kiểm tra kết nối MongoDB
             try:
                 from load.load_mongo import LoadMongo
 
@@ -120,7 +120,7 @@ def main():
             except Exception as e:
                 print(f"MongoDB connection: FAILED - {e}")
 
-            # Test Binance API
+            # Kiểm tra Binance API
             try:
                 from extract.extract_history import ExtractFundingRateHistory
 
@@ -133,7 +133,7 @@ def main():
             except Exception as e:
                 print(f"Binance API: FAILED - {e}")
 
-            # Test Telegram bot
+            # Kiểm tra Telegram bot
             try:
                 from utils.util_tele_bot_check import UtilTeleBotCheck
 

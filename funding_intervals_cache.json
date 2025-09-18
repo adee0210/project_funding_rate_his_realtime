@@ -1,0 +1,833 @@
+{
+  "last_updated": "2025-09-18T08:07:39.906972+00:00",
+  "intervals": {
+    "LINKUSDT": "8h",
+    "DOTUSDT": "8h",
+    "DOGEUSDT": "8h",
+    "ADAUSDT": "8h",
+    "UNIUSDT": "8h",
+    "ETHUSDT": "8h",
+    "OPUSDT": "8h",
+    "LTCUSDT": "8h",
+    "APTUSDT": "8h",
+    "SOLUSDT": "8h",
+    "BNBUSDT": "8h",
+    "AVAXUSDT": "8h",
+    "FILUSDT": "8h",
+    "NEARUSDT": "8h",
+    "BTCUSDT": "8h",
+    "XRPUSDT": "8h",
+    "ATOMUSDT": "8h",
+    "TRXUSDT": "8h",
+    "MATICUSDT": "8h",
+    "AVNTUSDT": "8h",
+    "WLFIUSDT": "8h",
+    "PUMPUSDT": "8h",
+    "HIFIUSDT": "8h",
+    "ALPACAUSDT": "8h",
+    "1000PEPEUSDT": "8h",
+    "ATHUSDT": "8h",
+    "MOODENGUSDT": "8h",
+    "ENAUSDT": "8h",
+    "TRUMPUSDT": "8h",
+    "EIGENUSDT": "8h",
+    "NMRUSDT": "8h",
+    "ETCUSDT": "8h",
+    "MITOUSDT": "8h",
+    "CRVUSDT": "8h",
+    "FUSDT": "8h",
+    "HBARUSDT": "8h",
+    "XLMUSDT": "8h",
+    "QUSDT": "8h",
+    "HOLOUSDT": "8h",
+    "BIOUSDT": "8h",
+    "PENGUUSDT": "8h",
+    "STRAXUSDT": "8h",
+    "UNFIUSDT": "8h",
+    "SUIUSDT": "8h",
+    "INJUSDT": "8h",
+    "WLDUSDT": "8h",
+    "IPUSDT": "8h",
+    "PYTHUSDT": "8h",
+    "AAVEUSDT": "8h",
+    "FARTCOINUSDT": "8h",
+    "MYXUSDT": "8h",
+    "ZKJUSDT": "8h",
+    "BCHUSDT": "8h",
+    "MEMEFIUSDT": "8h",
+    "TREEUSDT": "8h",
+    "MUSDT": "8h",
+    "HUSDT": "8h",
+    "FTMUSDT": "8h",
+    "LEVERUSDT": "8h",
+    "PNUTUSDT": "8h",
+    "BSWUSDT": "8h",
+    "CFXUSDT": "8h",
+    "XPINUSDT": "8h",
+    "DOLOUSDT": "8h",
+    "TAOUSDT": "8h",
+    "PUMPBTCUSDT": "8h",
+    "LDOUSDT": "8h",
+    "CHZUSDT": "8h",
+    "BAKEUSDT": "8h",
+    "SOMIUSDT": "8h",
+    "BTRUSDT": "8h",
+    "YGGUSDT": "8h",
+    "SEIUSDT": "8h",
+    "HYPEUSDT": "8h",
+    "LINEAUSDT": "8h",
+    "1000SHIBUSDT": "8h",
+    "ALGOUSDT": "8h",
+    "TONUSDT": "8h",
+    "VIDTUSDT": "8h",
+    "RENUSDT": "8h",
+    "OCEANUSDT": "8h",
+    "UBUSDT": "8h",
+    "AMBUSDT": "8h",
+    "PTBUSDT": "8h",
+    "AWEUSDT": "8h",
+    "IOUSDT": "8h",
+    "WIFUSDT": "8h",
+    "OPENUSDT": "8h",
+    "TOWNSUSDT": "8h",
+    "CUDISUSDT": "8h",
+    "ARBUSDT": "8h",
+    "BNXUSDT": "8h",
+    "ONDOUSDT": "8h",
+    "TIAUSDT": "8h",
+    "1000BONKUSDT": "8h",
+    "PLUMEUSDT": "8h",
+    "VIRTUALUSDT": "8h",
+    "ETHFIUSDT": "8h",
+    "LINAUSDT": "8h",
+    "FLMUSDT": "8h",
+    "FLOCKUSDT": "8h",
+    "AGIXUSDT": "8h",
+    "BBUSDT": "4h",
+    "HEMIUSDT": "4h",
+    "SKYUSDT": "4h",
+    "TOSHIUSDT": "4h",
+    "GALAUSDT": "8h",
+    "ALPHAUSDT": "8h",
+    "SPXUSDT": "4h",
+    "JTOUSDT": "4h",
+    "THEUSDT": "4h",
+    "IMXUSDT": "4h",
+    "KAITOUSDT": "4h",
+    "OGUSDT": "4h",
+    "TSTUSDT": "4h",
+    "ZKCUSDT": "4h",
+    "STBLUSDT": "4h",
+    "0GUSDT": "4h",
+    "JUPUSDT": "4h",
+    "FETUSDT": "8h",
+    "WUSDT": "4h",
+    "PAXGUSDT": "4h",
+    "TAUSDT": "4h",
+    "NAORISUSDT": "4h",
+    "KMNOUSDT": "4h",
+    "DRIFTUSDT": "4h"
+  },
+  "detection_history": [
+    {
+      "symbol": "ATHUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.252977+00:00"
+    },
+    {
+      "symbol": "MOODENGUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.252982+00:00"
+    },
+    {
+      "symbol": "ENAUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.252986+00:00"
+    },
+    {
+      "symbol": "TRUMPUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.252990+00:00"
+    },
+    {
+      "symbol": "EIGENUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.252995+00:00"
+    },
+    {
+      "symbol": "NMRUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.252999+00:00"
+    },
+    {
+      "symbol": "ETCUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253004+00:00"
+    },
+    {
+      "symbol": "MITOUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253008+00:00"
+    },
+    {
+      "symbol": "CRVUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253013+00:00"
+    },
+    {
+      "symbol": "FUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253017+00:00"
+    },
+    {
+      "symbol": "HBARUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253022+00:00"
+    },
+    {
+      "symbol": "XLMUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253027+00:00"
+    },
+    {
+      "symbol": "QUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253032+00:00"
+    },
+    {
+      "symbol": "HOLOUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253036+00:00"
+    },
+    {
+      "symbol": "BIOUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253041+00:00"
+    },
+    {
+      "symbol": "PENGUUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253046+00:00"
+    },
+    {
+      "symbol": "STRAXUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253051+00:00"
+    },
+    {
+      "symbol": "UNFIUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253055+00:00"
+    },
+    {
+      "symbol": "SUIUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253060+00:00"
+    },
+    {
+      "symbol": "INJUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253065+00:00"
+    },
+    {
+      "symbol": "WLDUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253070+00:00"
+    },
+    {
+      "symbol": "IPUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253074+00:00"
+    },
+    {
+      "symbol": "PYTHUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253079+00:00"
+    },
+    {
+      "symbol": "AAVEUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253084+00:00"
+    },
+    {
+      "symbol": "FARTCOINUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253088+00:00"
+    },
+    {
+      "symbol": "MYXUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253097+00:00"
+    },
+    {
+      "symbol": "ZKJUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253102+00:00"
+    },
+    {
+      "symbol": "BCHUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253106+00:00"
+    },
+    {
+      "symbol": "MEMEFIUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253111+00:00"
+    },
+    {
+      "symbol": "TREEUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253115+00:00"
+    },
+    {
+      "symbol": "MUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253120+00:00"
+    },
+    {
+      "symbol": "HUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253124+00:00"
+    },
+    {
+      "symbol": "FTMUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253129+00:00"
+    },
+    {
+      "symbol": "LEVERUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253134+00:00"
+    },
+    {
+      "symbol": "PNUTUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253138+00:00"
+    },
+    {
+      "symbol": "BSWUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253143+00:00"
+    },
+    {
+      "symbol": "CFXUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253147+00:00"
+    },
+    {
+      "symbol": "XPINUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253152+00:00"
+    },
+    {
+      "symbol": "DOLOUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253156+00:00"
+    },
+    {
+      "symbol": "TAOUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253161+00:00"
+    },
+    {
+      "symbol": "PUMPBTCUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253166+00:00"
+    },
+    {
+      "symbol": "LDOUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253171+00:00"
+    },
+    {
+      "symbol": "CHZUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253175+00:00"
+    },
+    {
+      "symbol": "BAKEUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253180+00:00"
+    },
+    {
+      "symbol": "SOMIUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253184+00:00"
+    },
+    {
+      "symbol": "BTRUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253189+00:00"
+    },
+    {
+      "symbol": "YGGUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253193+00:00"
+    },
+    {
+      "symbol": "SEIUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253197+00:00"
+    },
+    {
+      "symbol": "HYPEUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253202+00:00"
+    },
+    {
+      "symbol": "LINEAUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253206+00:00"
+    },
+    {
+      "symbol": "1000SHIBUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253211+00:00"
+    },
+    {
+      "symbol": "ALGOUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253215+00:00"
+    },
+    {
+      "symbol": "TONUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253220+00:00"
+    },
+    {
+      "symbol": "RENUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253225+00:00"
+    },
+    {
+      "symbol": "OCEANUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253230+00:00"
+    },
+    {
+      "symbol": "UBUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253235+00:00"
+    },
+    {
+      "symbol": "AMBUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253239+00:00"
+    },
+    {
+      "symbol": "PTBUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253243+00:00"
+    },
+    {
+      "symbol": "AWEUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253248+00:00"
+    },
+    {
+      "symbol": "IOUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253252+00:00"
+    },
+    {
+      "symbol": "WIFUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253257+00:00"
+    },
+    {
+      "symbol": "OPENUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253261+00:00"
+    },
+    {
+      "symbol": "TOWNSUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253266+00:00"
+    },
+    {
+      "symbol": "CUDISUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253271+00:00"
+    },
+    {
+      "symbol": "ARBUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253275+00:00"
+    },
+    {
+      "symbol": "BNXUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253280+00:00"
+    },
+    {
+      "symbol": "ONDOUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253284+00:00"
+    },
+    {
+      "symbol": "TIAUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253289+00:00"
+    },
+    {
+      "symbol": "1000BONKUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253294+00:00"
+    },
+    {
+      "symbol": "PLUMEUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253298+00:00"
+    },
+    {
+      "symbol": "VIRTUALUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253303+00:00"
+    },
+    {
+      "symbol": "ETHFIUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253307+00:00"
+    },
+    {
+      "symbol": "LINAUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253312+00:00"
+    },
+    {
+      "symbol": "FLMUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253316+00:00"
+    },
+    {
+      "symbol": "FLOCKUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253322+00:00"
+    },
+    {
+      "symbol": "AGIXUSDT",
+      "next_funding_time": "2025-09-15T08:00:00+00:00",
+      "next_funding_hour": 8,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-15T07:30:53.253326+00:00"
+    },
+    {
+      "symbol": "BBUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990275+00:00"
+    },
+    {
+      "symbol": "HEMIUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990311+00:00"
+    },
+    {
+      "symbol": "SKYUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990334+00:00"
+    },
+    {
+      "symbol": "TOSHIUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990355+00:00"
+    },
+    {
+      "symbol": "GALAUSDT",
+      "next_funding_time": "2025-09-18T16:00:00+00:00",
+      "next_funding_hour": 16,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-18T08:03:11.990376+00:00"
+    },
+    {
+      "symbol": "ALPHAUSDT",
+      "next_funding_time": "2025-09-18T16:00:00+00:00",
+      "next_funding_hour": 16,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-18T08:03:11.990398+00:00"
+    },
+    {
+      "symbol": "SPXUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990419+00:00"
+    },
+    {
+      "symbol": "JTOUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990440+00:00"
+    },
+    {
+      "symbol": "THEUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990461+00:00"
+    },
+    {
+      "symbol": "IMXUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990483+00:00"
+    },
+    {
+      "symbol": "KAITOUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990523+00:00"
+    },
+    {
+      "symbol": "OGUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990545+00:00"
+    },
+    {
+      "symbol": "TSTUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990566+00:00"
+    },
+    {
+      "symbol": "ZKCUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990587+00:00"
+    },
+    {
+      "symbol": "STBLUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990608+00:00"
+    },
+    {
+      "symbol": "0GUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990629+00:00"
+    },
+    {
+      "symbol": "JUPUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990650+00:00"
+    },
+    {
+      "symbol": "FETUSDT",
+      "next_funding_time": "2025-09-18T16:00:00+00:00",
+      "next_funding_hour": 16,
+      "detected_interval": "8h",
+      "detection_time": "2025-09-18T08:03:11.990670+00:00"
+    },
+    {
+      "symbol": "WUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990691+00:00"
+    },
+    {
+      "symbol": "PAXGUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990713+00:00"
+    },
+    {
+      "symbol": "TAUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990737+00:00"
+    },
+    {
+      "symbol": "NAORISUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990760+00:00"
+    },
+    {
+      "symbol": "KMNOUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:03:11.990780+00:00"
+    },
+    {
+      "symbol": "DRIFTUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T08:07:39.906385+00:00"
+    }
+  ]
+}

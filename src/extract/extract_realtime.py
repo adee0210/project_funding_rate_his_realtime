@@ -11,39 +11,43 @@ from src.config.config_variable import REALTIME_CONFIG, SYSTEM_CONFIG
 from src.load.load_mongo import LoadMongo
 from src.transform.transform_funding import TransformFundingData
 from src.utils.util_tele_bot_check import UtilTeleBotCheck
+from src.utils.funding_interval_detector import FundingIntervalDetector
 
 
 class ExtractFundingRateRealtime:
-    """Extract funding rate data from Binance REST API with scheduled updates"""
+    """Trích xuất dữ liệu tỷ lệ funding từ Binance REST API với các cập nhật theo lịch"""
 
     def __init__(self):
         self.logger = ConfigLogging.config_logging("ExtractFundingRateRealtime")
         self.load_mongo = LoadMongo()
         self.transform_funding = TransformFundingData()
         self.tele_bot = UtilTeleBotCheck()
+        
+        # Khởi tạo detector phát hiện interval funding
+        self.interval_detector = FundingIntervalDetector("funding_intervals_cache.json")
 
-        # Configuration
+        # Cấu hình
         self.config = REALTIME_CONFIG
         self.base_url = "https://fapi.binance.com"
         
-        # State management
+        # Trạng thái và quản lý
         self.is_running = False
         self.symbols = []
         self.scheduler_thread = None
         self.last_update_time = None
         
-        # Symbols with different funding intervals
-        self.symbols_8h = []  # Standard 8-hour funding
-        self.symbols_4h = []  # 4-hour funding
+        # Các symbol theo chu kỳ funding khác nhau
+        self.symbols_8h = []  # Chu kỳ chuẩn 8 giờ
+        self.symbols_4h = []  # Chu kỳ 4 giờ
 
     def start_realtime_extraction(self, symbols: List[str]) -> bool:
-        """Start scheduled funding rate extraction
-        
+        """Bắt đầu trích xuất tỷ lệ funding theo lịch
+
         Args:
-            symbols: List of symbols to monitor
-            
+            symbols: Danh sách các symbol cần giám sát
+
         Returns:
-            True if started successfully, False otherwise
+            True nếu khởi động thành công, False nếu không
         """
         try:
             if self.is_running:
@@ -57,7 +61,7 @@ class ExtractFundingRateRealtime:
             self.symbols = symbols[:100]  # Top 100 symbols
             self.is_running = True
             
-            # Categorize symbols by funding frequency
+            # Phân loại các symbol theo tần suất funding
             self._categorize_symbols_by_funding_frequency()
             
             self.logger.info(
@@ -66,19 +70,19 @@ class ExtractFundingRateRealtime:
             self.logger.info(f"8-hour funding symbols: {len(self.symbols_8h)}")
             self.logger.info(f"4-hour funding symbols: {len(self.symbols_4h)}")
 
-            # Setup schedules
+            # Thiết lập các lịch
             self._setup_schedules()
             
-            # Start scheduler thread
+            # Bắt đầu luồng scheduler
             self.scheduler_thread = threading.Thread(
                 target=self._run_scheduler, daemon=True
             )
             self.scheduler_thread.start()
 
-            # Trigger initial update for nearest funding cycle
+            # Kích hoạt cập nhật ban đầu cho chu kỳ funding gần nhất
             threading.Thread(target=self._initial_update, daemon=True).start()
 
-            # Send initial notification
+            # Gửi thông báo ban đầu
             self.tele_bot.send_message(
                 f"Funding Rate Realtime Extraction Started\n"
                 f"Monitoring {len(self.symbols)} symbols\n"
@@ -96,10 +100,10 @@ class ExtractFundingRateRealtime:
             return False
 
     def stop_realtime_extraction(self) -> bool:
-        """Stop realtime extraction
-        
+        """Dừng trích xuất realtime
+
         Returns:
-            True if stopped successfully, False otherwise
+            True nếu dừng thành công, False nếu không
         """
         try:
             if not self.is_running:
@@ -109,10 +113,10 @@ class ExtractFundingRateRealtime:
             self.logger.info("Stopping realtime extraction")
             self.is_running = False
             
-            # Clear schedules
+            # Xóa các lịch
             schedule.clear()
             
-            # Wait for scheduler thread to finish
+            # Chờ luồng scheduler kết thúc
             if self.scheduler_thread and self.scheduler_thread.is_alive():
                 self.scheduler_thread.join(timeout=10)
 
@@ -124,62 +128,57 @@ class ExtractFundingRateRealtime:
             return False
 
     def _categorize_symbols_by_funding_frequency(self):
-        """Categorize symbols by their funding frequency (4h vs 8h)"""
+        """Phân loại các symbol theo chu kỳ funding (4h hoặc 8h) bằng cơ chế phát hiện thông minh"""
         try:
-            # Get funding info for all symbols
-            url = f"{self.base_url}/fapi/v1/premiumIndex"
-            response = requests.get(url, timeout=30)
+            self.logger.info("Starting intelligent funding interval detection...")
             
-            if response.status_code == 200:
-                data = response.json()
-                
-                # Create symbol mapping
-                symbol_funding_info = {}
-                for item in data:
-                    if item['symbol'] in self.symbols:
-                        # Get next funding time to determine frequency
-                        next_funding = int(item.get('nextFundingTime', 0))
-                        symbol_funding_info[item['symbol']] = next_funding
-                
-                # Categorize based on funding frequency patterns
-                # Most symbols have 8h funding (0h, 8h, 16h UTC)
-                # Some have 4h funding (0h, 4h, 8h, 12h, 16h, 20h UTC)
-                current_time = int(time.time() * 1000)
-                
-                for symbol in self.symbols:
-                    if symbol in symbol_funding_info:
-                        next_funding = symbol_funding_info[symbol]
-                        time_to_next = (next_funding - current_time) / (1000 * 60 * 60)  # hours
-                        
-                        # Check if time to next funding suggests 4h or 8h interval
-                        # This is a heuristic - in practice you might need to track patterns
-                        if time_to_next <= 4:
-                            self.symbols_4h.append(symbol)
-                        else:
-                            self.symbols_8h.append(symbol)
-                    else:
-                        # Default to 8h if no info available
-                        self.symbols_8h.append(symbol)
-                        
-            else:
-                # If API call fails, default all to 8h
-                self.symbols_8h = self.symbols.copy()
-                self.logger.warning("Failed to categorize symbols, defaulting all to 8h")
+            # Sử dụng detector để phát hiện interval
+            intervals = self.interval_detector.detect_funding_intervals(self.symbols)
+            
+            # Reset lại danh sách symbol
+            self.symbols_8h = []
+            self.symbols_4h = []
+
+            # Phân loại symbol dựa trên kết quả phát hiện
+            for symbol in self.symbols:
+                interval = intervals.get(symbol, "8h")  # Mặc định là 8h nếu không phát hiện được
+
+                if interval == "4h":
+                    self.symbols_4h.append(symbol)
+                else:
+                    self.symbols_8h.append(symbol)
+            
+            # Ghi log kết quả
+            self.logger.info(f"Funding interval detection completed:")
+            self.logger.info(f"  - 8h symbols: {len(self.symbols_8h)}")
+            self.logger.info(f"  - 4h symbols: {len(self.symbols_4h)}")
+            
+            # Ghi log thống kê cache
+            cache_stats = self.interval_detector.get_cache_stats()
+            self.logger.info(f"Cache stats: {cache_stats['total_symbols']} total symbols cached")
+            
+            # Hiển thị một vài ví dụ
+            if self.symbols_4h:
+                self.logger.info(f"4h symbols examples: {self.symbols_4h[:5]}")
+            if self.symbols_8h:
+                self.logger.info(f"8h symbols examples: {self.symbols_8h[:5]}")
                 
         except Exception as e:
-            self.logger.error(f"Error categorizing symbols: {e}")
-            # Default all to 8h on error
+            self.logger.error(f"Error in intelligent funding interval detection: {e}")
+            # Fallback về cách làm thận trọng
             self.symbols_8h = self.symbols.copy()
+            self.symbols_4h = []
+            self.logger.warning("Fallback: All symbols set to 8h funding")
 
     def _setup_schedules(self):
-        """Setup scheduled jobs for funding rate updates"""
+        """Thiết lập các job theo lịch để cập nhật tỷ lệ funding"""
         try:
-            # Schedule 8-hour updates at 0h, 8h, 16h UTC
+            # Lên lịch cập nhật 8 giờ vào 00:00, 08:00, 16:00 UTC
             schedule.every().day.at("00:00").do(self._update_8h_symbols)
             schedule.every().day.at("08:00").do(self._update_8h_symbols)
             schedule.every().day.at("16:00").do(self._update_8h_symbols)
             
-            # Schedule 4-hour updates at 0h, 4h, 8h, 12h, 16h, 20h UTC
+            # Lên lịch cập nhật 4 giờ vào 00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC
             schedule.every().day.at("00:00").do(self._update_4h_symbols)
             schedule.every().day.at("04:00").do(self._update_4h_symbols)
             schedule.every().day.at("08:00").do(self._update_4h_symbols)
@@ -193,17 +192,17 @@ class ExtractFundingRateRealtime:
             self.logger.error(f"Error setting up schedules: {e}")
 
     def _run_scheduler(self):
-        """Run the scheduler loop"""
+        """Vòng lặp chạy scheduler"""
         while self.is_running:
             try:
                 schedule.run_pending()
-                time.sleep(60)  # Check every minute
+                time.sleep(60)  # Kiểm tra mỗi phút
             except Exception as e:
                 self.logger.error(f"Error in scheduler loop: {e}")
                 time.sleep(60)
 
     def _update_8h_symbols(self):
-        """Update funding rates for 8-hour symbols"""
+        """Cập nhật tỷ lệ funding cho các symbol chu kỳ 8 giờ"""
         if not self.is_running or not self.symbols_8h:
             return
             
@@ -214,7 +213,7 @@ class ExtractFundingRateRealtime:
             self.logger.error(f"Error updating 8h symbols: {e}")
 
     def _update_4h_symbols(self):
-        """Update funding rates for 4-hour symbols"""
+        """Cập nhật tỷ lệ funding cho các symbol chu kỳ 4 giờ"""
         if not self.is_running or not self.symbols_4h:
             return
             
@@ -225,14 +224,14 @@ class ExtractFundingRateRealtime:
             self.logger.error(f"Error updating 4h symbols: {e}")
 
     def _fetch_and_update_funding_rates(self, symbols: List[str], interval: str):
-        """Fetch and update funding rates for given symbols
-        
+        """Lấy và cập nhật tỷ lệ funding cho các symbol được chỉ định
+
         Args:
-            symbols: List of symbols to update
-            interval: Funding interval (4h or 8h)
+            symbols: Danh sách symbol cần cập nhật
+            interval: Chu kỳ funding (4h hoặc 8h)
         """
         try:
-            # Fetch current funding rate data
+            # Lấy dữ liệu funding hiện tại từ API
             url = f"{self.base_url}/fapi/v1/premiumIndex"
             response = requests.get(url, timeout=30)
             
@@ -242,11 +241,11 @@ class ExtractFundingRateRealtime:
                 
             data = response.json()
             
-            # Filter data for our symbols
+            # Lọc dữ liệu cho các symbol của chúng ta
             filtered_data = []
             for item in data:
                 if item['symbol'] in symbols:
-                    # Transform API response to our format
+                    # Chuyển đổi response API về định dạng của chúng ta
                     funding_data = {
                         'symbol': item['symbol'],
                         'interval': interval,
@@ -256,8 +255,8 @@ class ExtractFundingRateRealtime:
                         'mark_price': float(item.get('markPrice', 0)),
                         'index_price': float(item.get('indexPrice', 0)),
                         'estimated_settle_price': float(item.get('estimatedSettlePrice', 0)),
-                        'funding_cap': 0.005,  # Standard Binance funding cap
-                        'funding_floor': -0.005,  # Standard Binance funding floor
+                        'funding_cap': 0.005,  # Ngưỡng funding tối đa chuẩn Binance
+                        'funding_floor': -0.005,  # Ngưỡng funding tối thiểu chuẩn Binance
                         'last_update_time': int(time.time() * 1000)
                     }
                     filtered_data.append(funding_data)
@@ -266,7 +265,7 @@ class ExtractFundingRateRealtime:
                 self.logger.warning(f"No data received for {interval} symbols")
                 return
                 
-            # Transform data
+            # Biến đổi dữ liệu
             transformed_data = self.transform_funding.transform_realtime_funding_data(filtered_data)
             
             if transformed_data:
@@ -280,7 +279,7 @@ class ExtractFundingRateRealtime:
                     self.last_update_time = datetime.now(timezone.utc)
                     self.logger.info(f"Updated {len(transformed_data)} {interval} funding records")
                     
-                    # Send notification for significant updates
+                    # Gửi thông báo cho các cập nhật đáng kể
                     if len(transformed_data) > 50:
                         self.tele_bot.send_message(
                             f"Funding Rate Update Complete\n"
@@ -298,10 +297,10 @@ class ExtractFundingRateRealtime:
             traceback.print_exc()
 
     def get_status(self) -> Dict[str, Any]:
-        """Get realtime extraction status
-        
+        """Lấy trạng thái trích xuất realtime
+
         Returns:
-            Status dictionary
+            Từ điển trạng thái
         """
         try:
             return {
@@ -325,7 +324,7 @@ class ExtractFundingRateRealtime:
             return {"error": str(e)}
 
     def _initial_update(self):
-        """Trigger initial update for the nearest funding cycle"""
+        """Kích hoạt cập nhật ban đầu cho chu kỳ funding gần nhất"""
         try:
             import time
             from datetime import datetime, timezone

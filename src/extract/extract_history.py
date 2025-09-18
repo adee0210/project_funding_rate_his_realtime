@@ -17,7 +17,7 @@ class ExtractFundingRateHistory:
 
     BASE_URL = "https://fapi.binance.com"
 
-    # Các symbol đã biết gây lỗi 403 (đã bị delisted hoặc bị hạn chế)
+    # Các symbol đã biết gây lỗi 403
     BLACKLISTED_SYMBOLS = {"WAVESUSDT", "LUNAUSDT", "USTUSDT", "TERRAUSDT", "ANCUSDT"}
 
     def __init__(self):
@@ -65,7 +65,31 @@ class ExtractFundingRateHistory:
             # Sắp xếp theo khối lượng quote 24h (giảm dần)
             usdt_symbols.sort(key=lambda x: float(x["quoteVolume"]), reverse=True)
 
-            symbols = [item["symbol"] for item in usdt_symbols[:limit]]
+            symbols = [item["symbol"] for item in usdt_symbols[:limit-3]]  # Leave space for test symbols
+            
+            # Temporary: Add some known 4h symbols for testing 
+            test_4h_symbols = ['FLMUSDT', 'CHZUSDT', 'ALGOUSDT']
+            for test_symbol in test_4h_symbols:
+                if test_symbol not in symbols:
+                    # Check if symbol exists on Binance
+                    try:
+                        test_url = f"{self.BASE_URL}/fapi/v1/premiumIndex"
+                        test_response = self.session.get(test_url, timeout=10)
+                        if test_response.status_code == 200:
+                            test_data = test_response.json()
+                            available_symbols = {item['symbol'] for item in test_data}
+                            if test_symbol in available_symbols:
+                                symbols.append(test_symbol)
+                                self.logger.info(f"Added {test_symbol} for 4h testing")
+                    except Exception as e:
+                        self.logger.debug(f"Failed to add {test_symbol}: {e}")
+            
+            # Ensure we have exactly the requested limit
+            while len(symbols) < limit and len(usdt_symbols) > len(symbols):
+                next_symbol = usdt_symbols[len(symbols)]["symbol"]
+                if next_symbol not in symbols:
+                    symbols.append(next_symbol)
+                        
             self.logger.info(
                 f"Retrieved top {len(symbols)} symbols (filtered {len(self.BLACKLISTED_SYMBOLS)} blacklisted)"
             )
@@ -162,9 +186,7 @@ class ExtractFundingRateHistory:
                     )
                     break
 
-            # Nếu tìm thấy data, thử tìm chính xác hơn bằng binary search
             if earliest_with_data:
-                # Binary search trong khoảng từ earliest_possible đến earliest_with_data
                 left = earliest_possible
                 right = earliest_with_data
 

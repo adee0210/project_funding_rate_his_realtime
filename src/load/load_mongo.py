@@ -468,12 +468,7 @@ class LoadMongo:
 
             # Create indexes for efficient queries
             try:
-                collection.create_index(
-                    [("symbol", 1), ("update_date", 1)],
-                    unique=True,
-                    background=True,
-                    sparse=True,
-                )
+                collection.create_index("symbol", unique=True, background=True)
                 collection.create_index("last_update_timestamp", background=True)
             except Exception as idx_error:
                 self.logger.warning(f"Index creation warning: {idx_error}")
@@ -481,11 +476,12 @@ class LoadMongo:
             # Prepare bulk operations for upsert
             operations = []
             for item in data:
+                # For realtime collection, we only keep the latest record per symbol
+                # Remove update_date from filter to avoid accumulating daily records
                 operations.append(
                     UpdateOne(
                         filter={
                             "symbol": item["symbol"],
-                            "update_date": item["update_date"],
                         },
                         update={"$set": item},
                         upsert=True,
@@ -516,3 +512,162 @@ class LoadMongo:
         except Exception as e:
             self.logger.error(f"Error updating realtime funding data: {e}")
             return False
+
+    def verify_recent_funding_data(self, collection_name: str, symbols: List[str], 
+                                 max_age_seconds: int = 3600) -> Dict[str, Any]:
+        """Verify recent funding data for given symbols
+        
+        Args:
+            collection_name: Collection name to check
+            symbols: List of symbols to verify
+            max_age_seconds: Maximum age of data in seconds (default 1 hour)
+            
+        Returns:
+            Dict with verification results
+        """
+        try:
+            collection = self.get_collection(collection_name)
+            current_time = datetime.datetime.now(datetime.timezone.utc)
+            cutoff_time = current_time - datetime.timedelta(seconds=max_age_seconds)
+            cutoff_timestamp = int(cutoff_time.timestamp() * 1000)
+            
+            # Query recent data for all symbols
+            pipeline = [
+                {
+                    "$match": {
+                        "symbol": {"$in": symbols},
+                        "last_update_time": {"$gte": cutoff_timestamp}
+                    }
+                },
+                {
+                    "$group": {
+                        "_id": "$symbol",
+                        "latest_update": {"$max": "$last_update_time"},
+                        "count": {"$sum": 1}
+                    }
+                }
+            ]
+            
+            recent_data = list(collection.aggregate(pipeline))
+            symbols_with_recent_data = {item["_id"] for item in recent_data}
+            
+            # Find missing symbols
+            missing_symbols = [s for s in symbols if s not in symbols_with_recent_data]
+            
+            # Find stale symbols (older than cutoff but exists)
+            stale_symbols = []
+            for item in recent_data:
+                latest_update = datetime.datetime.fromtimestamp(
+                    item["latest_update"] / 1000, tz=datetime.timezone.utc
+                )
+                if latest_update < cutoff_time:
+                    stale_symbols.append(item["_id"])
+            
+            verification_result = {
+                "total_symbols": len(symbols),
+                "verified_symbols": len(symbols_with_recent_data),
+                "missing_symbols": missing_symbols,
+                "stale_symbols": stale_symbols,
+                "success_rate": len(symbols_with_recent_data) / len(symbols) if symbols else 0,
+                "cutoff_time": cutoff_time.isoformat(),
+                "verification_time": current_time.isoformat()
+            }
+            
+            self.logger.info(f"Data verification completed: {verification_result['verified_symbols']}/{verification_result['total_symbols']} symbols verified")
+            
+            return verification_result
+            
+        except Exception as e:
+            self.logger.error(f"Error verifying funding data: {e}")
+            return {
+                "total_symbols": len(symbols),
+                "verified_symbols": 0,
+                "missing_symbols": symbols,
+                "stale_symbols": [],
+                "success_rate": 0,
+                "error": str(e)
+            }
+
+    def get_funding_data_stats(self, collection_name: str, hours_back: int = 24) -> Dict[str, Any]:
+        """Get statistics about funding data in the last N hours
+        
+        Args:
+            collection_name: Collection name to analyze
+            hours_back: Number of hours to look back
+            
+        Returns:
+            Dict with statistics
+        """
+        try:
+            collection = self.get_collection(collection_name)
+            current_time = datetime.datetime.now(datetime.timezone.utc)
+            start_time = current_time - datetime.timedelta(hours=hours_back)
+            start_timestamp = int(start_time.timestamp() * 1000)
+            
+            # Aggregation pipeline for statistics
+            pipeline = [
+                {
+                    "$match": {
+                        "last_update_time": {"$gte": start_timestamp}
+                    }
+                },
+                {
+                    "$group": {
+                        "_id": {
+                            "symbol": "$symbol",
+                            "hour": {
+                                "$dateToString": {
+                                    "format": "%Y-%m-%d-%H",
+                                    "date": {
+                                        "$toDate": "$last_update_time"
+                                    }
+                                }
+                            }
+                        },
+                        "count": {"$sum": 1},
+                        "latest_update": {"$max": "$last_update_time"}
+                    }
+                },
+                {
+                    "$group": {
+                        "_id": "$_id.symbol",
+                        "hourly_updates": {"$sum": 1},
+                        "total_records": {"$sum": "$count"},
+                        "latest_update": {"$max": "$latest_update"}
+                    }
+                },
+                {
+                    "$group": {
+                        "_id": None,
+                        "unique_symbols": {"$sum": 1},
+                        "total_records": {"$sum": "$total_records"},
+                        "avg_hourly_updates": {"$avg": "$hourly_updates"},
+                        "symbols_info": {
+                            "$push": {
+                                "symbol": "$_id",
+                                "hourly_updates": "$hourly_updates",
+                                "total_records": "$total_records",
+                                "latest_update": "$latest_update"
+                            }
+                        }
+                    }
+                }
+            ]
+            
+            result = list(collection.aggregate(pipeline))
+            
+            if result:
+                stats = result[0]
+                stats.pop("_id", None)
+                return stats
+            else:
+                return {
+                    "unique_symbols": 0,
+                    "total_records": 0,
+                    "avg_hourly_updates": 0,
+                    "symbols_info": []
+                }
+                
+        except Exception as e:
+            self.logger.error(f"Error getting funding data stats: {e}")
+            return {"error": str(e)}

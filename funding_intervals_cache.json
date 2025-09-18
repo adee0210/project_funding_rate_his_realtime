@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-18T08:07:39.906972+00:00",
+  "last_updated": "2025-09-18T09:51:48.392320+00:00",
   "intervals": {
     "LINKUSDT": "8h",
     "DOTUSDT": "8h",
@@ -126,23 +126,11 @@
     "TAUSDT": "4h",
     "NAORISUSDT": "4h",
     "KMNOUSDT": "4h",
-    "DRIFTUSDT": "4h"
+    "DRIFTUSDT": "4h",
+    "BROCCOLI714USDT": "4h",
+    "AIAUSDT": "4h"
   },
   "detection_history": [
-    {
-      "symbol": "ATHUSDT",
-      "next_funding_time": "2025-09-15T08:00:00+00:00",
-      "next_funding_hour": 8,
-      "detected_interval": "8h",
-      "detection_time": "2025-09-15T07:30:53.252977+00:00"
-    },
-    {
-      "symbol": "MOODENGUSDT",
-      "next_funding_time": "2025-09-15T08:00:00+00:00",
-      "next_funding_hour": 8,
-      "detected_interval": "8h",
-      "detection_time": "2025-09-15T07:30:53.252982+00:00"
-    },
     {
       "symbol": "ENAUSDT",
       "next_funding_time": "2025-09-15T08:00:00+00:00",
@@ -828,6 +816,20 @@
       "next_funding_hour": 12,
       "detected_interval": "4h",
       "detection_time": "2025-09-18T08:07:39.906385+00:00"
+    },
+    {
+      "symbol": "BROCCOLI714USDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T09:51:48.389899+00:00"
+    },
+    {
+      "symbol": "AIAUSDT",
+      "next_funding_time": "2025-09-18T12:00:00+00:00",
+      "next_funding_hour": 12,
+      "detected_interval": "4h",
+      "detection_time": "2025-09-18T09:51:48.389935+00:00"
     }
   ]
 }
